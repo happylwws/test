@@ -1,1 +1,2458 @@
-
+proxies:
+- client-fingerprint: chrome
+  name: 🇩🇪 德国 | 1Gbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: de.oldcloud.online
+  tls: true
+  type: vless
+  uuid: b3903a4d-d9e7-4b7d-82a3-292116fbceb8
+  ws-opts:
+    headers:
+      Host: de.oldcloud.online
+    path: /
+- client-fingerprint: chrome
+  name: 🇻🇳 越南 | 1Gbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: vn.oldcloud.online
+  tls: true
+  type: vless
+  uuid: 5cf6bd4f-4318-4eda-e9da-4bbb0103f26a
+  ws-opts:
+    headers:
+      Host: vn.oldcloud.online
+    path: /
+- client-fingerprint: chrome
+  name: 🇬🇧 英国 | 1Gbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: uk.oldcloud.online
+  tls: true
+  type: vless
+  uuid: 69fb6517-56c9-48ed-aaa5-98e3c1ba5af5
+  ws-opts:
+    headers:
+      Host: uk.oldcloud.online
+    path: /
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 | 1Gbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: xz.4056860.xyz
+  tls: true
+  type: vless
+  uuid: d59139e1-a805-421c-a5d4-9b9cf5814338
+  ws-opts:
+    headers:
+      Host: xz.4056860.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 🇲🇳 蒙古 | 1Gbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: mn.4056860.xyz
+  tls: true
+  type: vless
+  uuid: b1055d34-af43-43bf-984a-a7c78026c96b
+  ws-opts:
+    headers:
+      Host: mn.4056860.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 🇦🇶 南极 | 1Gbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: aq.oldcloud.online
+  tls: true
+  type: vless
+  uuid: 9461b5c1-9e4d-41fc-9871-9bf6f2ac2f2d
+  ws-opts:
+    headers:
+      Host: aq.oldcloud.online
+    path: /
+- client-fingerprint: chrome
+  name: 🇲🇴 澳门 | 1Gbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: mo.4056860.xyz
+  tls: true
+  type: vless
+  uuid: 32561a76-b738-48b9-b3f2-37856346fbd8
+  ws-opts:
+    headers:
+      Host: mo.4056860.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 🇰🇷 韩国 | 1Gbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: kr.4056860.xyz
+  tls: true
+  type: vless
+  uuid: d5b92857-e8f2-456e-8d58-8ff2d53ecd0b
+  ws-opts:
+    headers:
+      Host: kr.4056860.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 🇮🇸 冰岛 | 1Gbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: is.oldcloud.online
+  tls: true
+  type: vless
+  uuid: 753fa8e8-a3e8-442e-abf7-875ed776eacb
+  ws-opts:
+    headers:
+      Host: is.oldcloud.online
+    path: /
+- client-fingerprint: chrome
+  name: 🇨🇳 深圳 | 200Mbps
+  network: ws
+  port: 38926
+  server: 8.134.162.37
+  tls: false
+  type: vless
+  uuid: d7e4f817-c2e7-4eea-8b53-8ea594e8bb19
+  ws-opts:
+    headers:
+      Host: 8.134.162.37
+    path: /
+- client-fingerprint: chrome
+  name: 🇹🇼 台湾 | 30Mbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: tw.oldcloud.online
+  tls: true
+  type: vless
+  uuid: 21c87102-364a-4cfa-9188-b374bf5f2472
+  ws-opts:
+    headers:
+      Host: tw.oldcloud.online
+    path: /
+- client-fingerprint: chrome
+  name: 帕劳 |  30Mbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: pw.9901157.xyz
+  tls: true
+  type: vless
+  uuid: 05ed4027-cfdd-4361-9489-1b4e5808d699
+  ws-opts:
+    headers:
+      Host: pw.9901157.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 海地 |  30Mbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: ht.9901157.xyz
+  tls: true
+  type: vless
+  uuid: d1ee68e3-5ed9-4da9-bb17-2cf83298afe3
+  ws-opts:
+    headers:
+      Host: ht.9901157.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 🇦🇷 阿根廷  | 1Gbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: ar.oldcloud.online
+  tls: true
+  type: vless
+  uuid: 44f4d5fd-0151-4476-9700-accfd6fa0942
+  ws-opts:
+    headers:
+      Host: ar.oldcloud.online
+    path: /
+- client-fingerprint: chrome
+  name: 格陵兰  | 1Gbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: gl.9901154.xyz
+  tls: true
+  type: vless
+  uuid: a6b40242-7a3c-4346-97a2-439d8fd06250
+  ws-opts:
+    headers:
+      Host: gl.9901154.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 安道尔 | 100Mbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: ad.oldcloud.online
+  tls: true
+  type: vless
+  uuid: 18d8ce6f-a27c-461e-ada8-a7d0a97a023b
+  ws-opts:
+    headers:
+      Host: ad.oldcloud.online
+    path: /
+- client-fingerprint: chrome
+  name: 索马里 | 30Mbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: so.9901157.xyz
+  tls: true
+  type: vless
+  uuid: a74e9516-69ad-4608-9427-d17f1f880f88
+  ws-opts:
+    headers:
+      Host: so.9901157.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 🇻🇦 梵蒂冈 | 30Mbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: ua.9901157.xyz
+  tls: true
+  type: vless
+  uuid: 56c26c02-4523-49e6-af21-3fc5edc45e7e
+  ws-opts:
+    headers:
+      Host: ua.9901157.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 阿富汗 |  30Mbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: af.9901157.xyz
+  tls: true
+  type: vless
+  uuid: a345476b-3f70-4eaa-acad-dd4a91e657f7
+  ws-opts:
+    headers:
+      Host: af.9901157.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 布隆迪 | 30Mbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: bi.9901157.xyz
+  tls: true
+  type: vless
+  uuid: d511bc03-2dd9-4977-aa39-efc0025301de
+  ws-opts:
+    headers:
+      Host: bi.9901157.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 🇸🇬 新加坡 | 30Mbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: sg.9901157.xyz
+  tls: true
+  type: vless
+  uuid: c23a346d-5f32-4185-8f90-a86d8239ce63
+  ws-opts:
+    headers:
+      Host: sg.9901157.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 东帝汶 | 30Mbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: tl.4056860.xyz
+  tls: true
+  type: vless
+  uuid: 27306aa6-0cf4-46dd-a607-6de0b26ec925
+  ws-opts:
+    headers:
+      Host: tl.4056860.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 🇲🇩 摩尔多瓦 | 100Mbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: md.4056860.xyz
+  tls: true
+  type: vless
+  uuid: 0b6f99a8-528a-4dc0-bdca-cef70e3f0184
+  ws-opts:
+    headers:
+      Host: md.4056860.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 🇲🇾 马来西亚 | 30Mbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: my.4056860.xyz
+  tls: true
+  type: vless
+  uuid: 37ff2204-95d1-4af0-bde8-511cf12ae06b
+  ws-opts:
+    headers:
+      Host: my.4056860.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 🇳🇬 尼日利亚 | 30Mbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: ng.9901157.xyz
+  tls: true
+  type: vless
+  uuid: 575d3535-a0e4-4e14-9212-f47bcdacd3de
+  ws-opts:
+    headers:
+      Host: ng.9901157.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 毛里求斯 | 30Mbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: mu.4056860.xyz
+  tls: true
+  type: vless
+  uuid: 43367b08-d0d3-4253-b326-6392ee857d56
+  ws-opts:
+    headers:
+      Host: mu.4056860.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 开曼群岛 | 30Mbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: ky.9901157.xyz
+  tls: true
+  type: vless
+  uuid: 29243fee-c83f-40f3-84d9-8738f593c305
+  ws-opts:
+    headers:
+      Host: ky.9901157.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 直布罗陀 | 30Mbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: gi.9901157.xyz
+  tls: true
+  type: vless
+  uuid: 26d226dc-ea66-45b9-984e-25e9bfb9e864
+  ws-opts:
+    headers:
+      Host: gi.9901157.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 斯里兰卡 | 10Mbps
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: lk.4056860.xyz
+  tls: true
+  type: vless
+  uuid: 4c2876a8-e01b-4804-b26c-4f68f4725b22
+  ws-opts:
+    headers:
+      Host: lk.4056860.xyz
+    path: /
+- auth: b546e98f-967a-4e95-aa67-4cdd6c1b9677
+  client-fingerprint: chrome
+  name: HK_01
+  password: b546e98f-967a-4e95-aa67-4cdd6c1b9677
+  port: 10002
+  server: 50.114.152.111
+  skip-cert-verify: true
+  type: hysteria2
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_02
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20131
+  ports: 20101-20199
+  server: pianyi-hk.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_03
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20185
+  ports: 20101-20199
+  server: pianyi-hk.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_04
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20153
+  ports: 20101-20199
+  server: pianyi-hk.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_05
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20168
+  ports: 20101-20199
+  server: pianyi-hk.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_06
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20170
+  ports: 20101-20199
+  server: pianyi-hk.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_07
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20146
+  ports: 20101-20199
+  server: pianyi-hk.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_08
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20121
+  ports: 20101-20199
+  server: pianyi-hk.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_09
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20123
+  ports: 20101-20199
+  server: pianyi-hk.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 1f7ce102-70c6-4b36-b4e7-5b40cd7bb904
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_10
+  password: 1f7ce102-70c6-4b36-b4e7-5b40cd7bb904
+  port: 13880
+  ports: 13001-13999
+  server: weilai-hk.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 1f7ce102-70c6-4b36-b4e7-5b40cd7bb904
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_11
+  password: 1f7ce102-70c6-4b36-b4e7-5b40cd7bb904
+  port: 13637
+  ports: 13001-13999
+  server: weilai-hk.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 87745083-6b2a-4d06-bb31-95308f07febe
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_12
+  password: 87745083-6b2a-4d06-bb31-95308f07febe
+  port: 14280
+  ports: 14001-14999
+  server: xiaofeiji-hk.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_13
+  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  port: 14699
+  ports: 14001-14999
+  server: xiaofeiji-hk.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: f654e082-c610-4d16-9599-bfb572c8c86a
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_14
+  password: f654e082-c610-4d16-9599-bfb572c8c86a
+  port: 14851
+  ports: 14001-14999
+  server: xiaofeiji-hk.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_15
+  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  port: 14967
+  ports: 14001-14999
+  server: xiaofeiji-hk.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: f654e082-c610-4d16-9599-bfb572c8c86a
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_16
+  password: f654e082-c610-4d16-9599-bfb572c8c86a
+  port: 14223
+  ports: 14001-14999
+  server: xiaofeiji-hk.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_17
+  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  port: 14300
+  ports: 14001-14999
+  server: xiaofeiji-hk.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: d227adad-d1c9-4218-aff4-773f0ce5ba1d
+  client-fingerprint: chrome
+  name: HK_18
+  password: d227adad-d1c9-4218-aff4-773f0ce5ba1d
+  port: 50000
+  server: ackxg.hssl8088.icu
+  skip-cert-verify: true
+  sni: ackxg.hssl8088.icu
+  type: hysteria2
+  udp: true
+- auth: ijwqIjsEiFVOjkSoiuyTKwFufo
+  client-fingerprint: chrome
+  name: JP_19
+  password: ijwqIjsEiFVOjkSoiuyTKwFufo
+  port: 21621
+  server: 13.230.187.226
+  skip-cert-verify: true
+  sni: bing.com
+  type: hysteria2
+- auth: f654e082-c610-4d16-9599-bfb572c8c86a
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_20
+  password: f654e082-c610-4d16-9599-bfb572c8c86a
+  port: 14859
+  ports: 14001-14999
+  server: xiaofeiji-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 87745083-6b2a-4d06-bb31-95308f07febe
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_21
+  password: 87745083-6b2a-4d06-bb31-95308f07febe
+  port: 14219
+  ports: 14001-14999
+  server: xiaofeiji-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_22
+  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  port: 14649
+  ports: 14001-14999
+  server: xiaofeiji-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_23
+  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  port: 14282
+  ports: 14001-14999
+  server: xiaofeiji-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_24
+  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  port: 14229
+  ports: 14001-14999
+  server: xiaofeiji-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_25
+  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  port: 14214
+  ports: 14001-14999
+  server: xiaofeiji-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: f654e082-c610-4d16-9599-bfb572c8c86a
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_26
+  password: f654e082-c610-4d16-9599-bfb572c8c86a
+  port: 14279
+  ports: 14001-14999
+  server: xiaofeiji-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_27
+  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  port: 14523
+  ports: 14001-14999
+  server: xiaofeiji-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: f654e082-c610-4d16-9599-bfb572c8c86a
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_28
+  password: f654e082-c610-4d16-9599-bfb572c8c86a
+  port: 14032
+  ports: 14001-14999
+  server: xiaofeiji-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: f654e082-c610-4d16-9599-bfb572c8c86a
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_29
+  password: f654e082-c610-4d16-9599-bfb572c8c86a
+  port: 14013
+  ports: 14001-14999
+  server: xiaofeiji-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_30
+  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  port: 14519
+  ports: 14001-14999
+  server: xiaofeiji-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: f654e082-c610-4d16-9599-bfb572c8c86a
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_31
+  password: f654e082-c610-4d16-9599-bfb572c8c86a
+  port: 14411
+  ports: 14001-14999
+  server: xiaofeiji-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: bc4aa0d5-bab3-4198-bc6e-71a703dae55d
+  client-fingerprint: chrome
+  name: JP_32
+  password: bc4aa0d5-bab3-4198-bc6e-71a703dae55d
+  port: 50000
+  server: ackrb.hssl8088.icu
+  skip-cert-verify: true
+  sni: ackrb.hssl8088.icu
+  type: hysteria2
+  udp: true
+- auth: 94J2kkzDhIZZ0apKiEyMYNNT9U
+  client-fingerprint: chrome
+  name: KR_33
+  password: 94J2kkzDhIZZ0apKiEyMYNNT9U
+  port: 33164
+  server: 13.125.56.185
+  skip-cert-verify: true
+  sni: bing.com
+  type: hysteria2
+- auth: reGGK67ULVOcuKo8zkWm2DcEA
+  client-fingerprint: chrome
+  name: SG_34
+  password: reGGK67ULVOcuKo8zkWm2DcEA
+  port: 23745
+  server: 3.0.147.221
+  skip-cert-verify: true
+  sni: bing.com
+  type: hysteria2
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: SG_35
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20179
+  ports: 20101-20199
+  server: pianyi-sg.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: SG_36
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20119
+  ports: 20101-20199
+  server: pianyi-sg.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: SG_37
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20116
+  ports: 20101-20199
+  server: pianyi-sg.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: SG_38
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20188
+  ports: 20101-20199
+  server: pianyi-sg.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: SG_39
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20181
+  ports: 20101-20199
+  server: pianyi-sg.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: SG_40
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20131
+  ports: 20101-20199
+  server: pianyi-sg.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: SG_41
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20116
+  ports: 20101-20199
+  server: pianyi-sg.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: SG_42
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20102
+  ports: 20101-20199
+  server: pianyi-sg.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: d227adad-d1c9-4218-aff4-773f0ce5ba1d
+  client-fingerprint: chrome
+  name: SG_43
+  password: d227adad-d1c9-4218-aff4-773f0ce5ba1d
+  port: 50000
+  server: doxjp.hssl8088.icu
+  skip-cert-verify: true
+  sni: doxjp.hssl8088.icu
+  type: hysteria2
+  udp: true
+- auth: bc4aa0d5-bab3-4198-bc6e-71a703dae55d
+  client-fingerprint: chrome
+  name: SG_44
+  password: bc4aa0d5-bab3-4198-bc6e-71a703dae55d
+  port: 50000
+  server: doxjp.hssl8088.icu
+  skip-cert-verify: true
+  sni: doxjp.hssl8088.icu
+  type: hysteria2
+  udp: true
+- alpn:
+  - h3
+  auth: 3e9bc412-6c40-4f68-9a31-fdd20c81a87c
+  client-fingerprint: chrome
+  name: US_45
+  password: 3e9bc412-6c40-4f68-9a31-fdd20c81a87c
+  port: 40837
+  server: 104.233.211.26
+  skip-cert-verify: true
+  type: hysteria2
+- auth: 88bb1b27
+  client-fingerprint: chrome
+  name: US_46
+  password: 88bb1b27
+  port: 6888
+  server: 209.141.59.231
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria2
+- auth: eee0bc24-189b-4f12-8686-2a0a45ae67c5
+  client-fingerprint: chrome
+  down: 300
+  name: US_47
+  password: eee0bc24-189b-4f12-8686-2a0a45ae67c5
+  port: 29116
+  server: 46.17.44.136
+  skip-cert-verify: true
+  sni: min.zongyunti.site
+  type: hysteria2
+  up: 300
+- auth: cbd1d425-5379-4c44-82fc-5765d1d34dc9
+  client-fingerprint: chrome
+  down: 1000
+  name: US_48
+  password: cbd1d425-5379-4c44-82fc-5765d1d34dc9
+  port: 2083
+  server: nyc2.shigure.eu.org
+  skip-cert-verify: true
+  sni: nyc2.shigure.eu.org
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: US_49
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20195
+  ports: 20101-20199
+  server: pianyi-us.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: US_50
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20109
+  ports: 20101-20199
+  server: pianyi-us.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: US_51
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20146
+  ports: 20101-20199
+  server: pianyi-us.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: US_52
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20164
+  ports: 20101-20199
+  server: pianyi-us.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: US_53
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20148
+  ports: 20101-20199
+  server: pianyi-us.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: US_54
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20166
+  ports: 20101-20199
+  server: pianyi-us.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: US_55
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20196
+  ports: 20101-20199
+  server: pianyi-us.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: US_56
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20188
+  ports: 20101-20199
+  server: pianyi-us.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 1f7ce102-70c6-4b36-b4e7-5b40cd7bb904
+  client-fingerprint: chrome
+  down: 1000
+  name: US_57
+  password: 1f7ce102-70c6-4b36-b4e7-5b40cd7bb904
+  port: 13083
+  ports: 13001-13999
+  server: weilai-us.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 1f7ce102-70c6-4b36-b4e7-5b40cd7bb904
+  client-fingerprint: chrome
+  down: 1000
+  name: US_58
+  password: 1f7ce102-70c6-4b36-b4e7-5b40cd7bb904
+  port: 13324
+  ports: 13001-13999
+  server: weilai-us.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  client-fingerprint: chrome
+  down: 1000
+  name: US_59
+  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  port: 14086
+  ports: 14001-14999
+  server: xiaofeiji-us.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: f654e082-c610-4d16-9599-bfb572c8c86a
+  client-fingerprint: chrome
+  down: 1000
+  name: US_60
+  password: f654e082-c610-4d16-9599-bfb572c8c86a
+  port: 14855
+  ports: 14001-14999
+  server: xiaofeiji-us.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  client-fingerprint: chrome
+  down: 1000
+  name: US_61
+  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  port: 14236
+  ports: 14001-14999
+  server: xiaofeiji-us.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: f654e082-c610-4d16-9599-bfb572c8c86a
+  client-fingerprint: chrome
+  down: 1000
+  name: US_62
+  password: f654e082-c610-4d16-9599-bfb572c8c86a
+  port: 14069
+  ports: 14001-14999
+  server: xiaofeiji-us.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: f654e082-c610-4d16-9599-bfb572c8c86a
+  client-fingerprint: chrome
+  down: 1000
+  name: US_63
+  password: f654e082-c610-4d16-9599-bfb572c8c86a
+  port: 14577
+  ports: 14001-14999
+  server: xiaofeiji-us.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  client-fingerprint: chrome
+  down: 1000
+  name: US_64
+  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+  port: 14833
+  ports: 14001-14999
+  server: xiaofeiji-us.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- cipher: chacha20-ietf
+  client-fingerprint: chrome
+  name: HK_65
+  password: asd123456
+  port: 8388
+  server: 103.149.182.61
+  type: ss
+  udp: true
+- cipher: chacha20
+  client-fingerprint: chrome
+  name: HK_66
+  password: nUthZ7z3VmyV
+  port: 9001
+  server: 14.18.253.178
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: JP_67
+  password: amazonskr05
+  port: 443
+  server: 13.113.219.207
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: JP_68
+  password: amazonskr05
+  port: 443
+  server: 13.230.141.176
+  type: ss
+- cipher: chacha20
+  client-fingerprint: chrome
+  name: JP_69
+  password: GqbcCfh365aT
+  port: 8331
+  server: 14.18.253.178
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: JP_70
+  password: amazonskr05
+  port: 443
+  server: 18.181.198.147
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: JP_71
+  password: amazonskr05
+  port: 443
+  server: 3.112.1.95
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: JP_72
+  password: amazonskr05
+  port: 443
+  server: 52.195.185.114
+  type: ss
+- cipher: chacha20
+  client-fingerprint: chrome
+  name: KR_73
+  password: ADZmRQUGHTwX
+  port: 8339
+  server: 14.18.253.178
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: SG_74
+  password: amazonskr05
+  port: 443
+  server: 13.229.127.74
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: SG_75
+  password: amazonskr05
+  port: 443
+  server: 13.229.213.8
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: SG_76
+  password: amazonskr05
+  port: 443
+  server: 13.250.31.115
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: SG_77
+  password: amazonskr05
+  port: 443
+  server: 13.250.53.137
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: SG_78
+  password: amazonskr05
+  port: 443
+  server: 13.250.96.5
+  type: ss
+- cipher: chacha20
+  client-fingerprint: chrome
+  name: SG_79
+  password: DvPfKa8vsV9K
+  port: 8334
+  server: 14.18.253.178
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: SG_80
+  password: amazonskr05
+  port: 443
+  server: 18.140.3.253
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: SG_81
+  password: amazonskr05
+  port: 443
+  server: 18.141.140.152
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: SG_82
+  password: amazonskr05
+  port: 443
+  server: 18.143.186.182
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: TW_83
+  password: 41f98411-6e10-41ec-86ff-c6e96b446d7e
+  port: 47564
+  server: gy.666666222.shop
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: TW_84
+  password: 1db077b4-73d4-430f-ab2f-547076a0c810
+  port: 47564
+  server: gy.666666222.shop
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: TW_85
+  password: 7db95aa9-a258-4b5e-be05-c2695a47cac7
+  port: 47564
+  server: gy.666666222.shop
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: TW_86
+  password: 1db077b4-73d4-430f-ab2f-547076a0c810
+  port: 20032
+  server: gy.666666222.shop
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: TW_87
+  password: 7db95aa9-a258-4b5e-be05-c2695a47cac7
+  port: 20032
+  server: gy.666666222.shop
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: TW_88
+  password: 41f98411-6e10-41ec-86ff-c6e96b446d7e
+  port: 20032
+  server: gy.666666222.shop
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: TW_89
+  password: 1a12ed19-5c51-4db3-bee9-3033fe9632ce
+  port: 20032
+  server: gy.666666222.shop
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: TW_90
+  password: 1a12ed19-5c51-4db3-bee9-3033fe9632ce
+  port: 47564
+  server: gy.666666222.shop
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: TW_91
+  password: 4760e34a-1b29-4eba-ae1b-b1e463d89b83
+  port: 26513
+  server: iepl.500.yd.ny.cdnlinkms001.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: TW_92
+  password: 4760e34a-1b29-4eba-ae1b-b1e463d89b83
+  port: 16052
+  server: iepl.500.yd.ny.cdnlinkms001.xyz
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  name: KR_93
+  network: tcp
+  port: 52917
+  server: 146.56.145.2
+  tls: false
+  type: vless
+  uuid: e4439d42-91d6-44ad-b4f4-15b69d47c1f3
+- client-fingerprint: chrome
+  name: KR_94
+  network: ws
+  password: 9a963be4-32cf-4df7-8254-63f5b7f5dc42
+  port: 443
+  server: l0-cdn-04.dpp.pp.ua
+  skip-cert-verify: true
+  sni: l0-cdn-04.dpp.pp.ua
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: l0-cdn-04.dpp.pp.ua
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: ‍☠️ xt1-Vm 01
+  network: ws
+  port: 443
+  server: cloudflare.182682.xyz
+  servername: 1113.714541.xyz
+  tls: true
+  type: vmess
+  uuid: 68e4d0be-a8dd-477e-9891-b75b3221ab30
+  ws-opts:
+    headers:
+      Host: 1113.714541.xyz
+    path: /argox-vm?ed=2048
+- client-fingerprint: chrome
+  name: ‍☠️ xt1-Tr 01
+  network: ws
+  password: 68e4d0be-a8dd-477e-9891-b75b3221ab30
+  port: 443
+  server: cf.090227.xyz
+  sni: 1113.714541.xyz
+  type: trojan
+  ws-opts:
+    headers:
+      Host: 1113.714541.xyz
+    path: /argox-tr?ed=2048
+- client-fingerprint: random
+  name: 🇭🇰 香港 01
+  network: ws
+  port: 443
+  server: 8.212.48.236
+  servername: 1113.714541.xyz
+  tls: true
+  type: vless
+  uuid: 68e4d0be-a8dd-477e-9891-b75b3221ab30
+  ws-opts:
+    headers:
+      Host: 1113.714541.xyz
+    path: /argox-vl?ed=2048
+- client-fingerprint: random
+  name: 🇭🇰 香港 02
+  network: ws
+  port: 587
+  server: 47.76.245.221
+  servername: 72.714513.xyz
+  tls: true
+  type: vless
+  uuid: 8d9d10b9-ea8c-4133-a39d-2b2e8b7b17a0
+  ws-opts:
+    headers:
+      Host: 72.714513.xyz
+    path: /?ed=2560
+- client-fingerprint: random
+  name: 🇭🇰 香港 03
+  network: ws
+  port: 1443
+  server: 103.148.72.147
+  servername: 1113.714541.xyz
+  tls: true
+  type: vless
+  uuid: 68e4d0be-a8dd-477e-9891-b75b3221ab30
+  ws-opts:
+    headers:
+      Host: 1113.714541.xyz
+    path: /argox-vl?ed=2048
+- client-fingerprint: random
+  name: 🇭🇰 香港 04
+  network: ws
+  port: 12317
+  server: 103.235.18.96
+  servername: 72.714513.xyz
+  tls: true
+  type: vless
+  uuid: 8d9d10b9-ea8c-4133-a39d-2b2e8b7b17a0
+  ws-opts:
+    headers:
+      Host: 72.714513.xyz
+    path: /?ed=2560
+- client-fingerprint: chrome
+  name: 🇭🇰 香港 05
+  network: ws
+  password: qmsdh_com
+  port: 448
+  server: 43.155.71.120
+  skip-cert-verify: true
+  sni: trojanfree.1949-10-01.top
+  type: trojan
+  ws-opts:
+    headers:
+      Host: trojanfree.1949-10-01.top
+    path: /?ed=2560
+- client-fingerprint: chrome
+  name: 🇭🇰 香港 06
+  network: ws
+  password: qmsdh_com
+  port: 11563
+  server: 206.237.1.59
+  skip-cert-verify: true
+  sni: trojanfree.1949-10-01.top
+  type: trojan
+  ws-opts:
+    headers:
+      Host: trojanfree.1949-10-01.top
+    path: /?ed=2560
+- client-fingerprint: chrome
+  name: 🇭🇰 香港 07
+  network: ws
+  password: qmsdh_com
+  port: 1024
+  server: 47.239.229.165
+  skip-cert-verify: true
+  sni: trojanfree.1949-10-01.top
+  type: trojan
+  ws-opts:
+    headers:
+      Host: trojanfree.1949-10-01.top
+    path: /?ed=2560
+- auth: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  client-fingerprint: chrome
+  down: 2000
+  name: 🇭🇰 香港 08
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 1443
+  server: hkt.mjhy2.com
+  skip-cert-verify: true
+  sni: hkt.mjhy2.com
+  type: hysteria2
+  up: 2000
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 09
+  network: ws
+  port: 16632
+  server: yes.mojcn.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 10
+  network: ws
+  port: 16632
+  server: m.cnmjin.net
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 11
+  network: ws
+  port: 16622
+  server: yes.mojcn.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 12
+  network: ws
+  port: 16622
+  server: m.cnmjin.net
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- client-fingerprint: chrome
+  name: 🇭🇰 香港 13
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 443
+  server: waphk.mjt000.com
+  sni: waphk.mjt000.com
+  type: trojan
+  udp: true
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇭🇰 香港 14
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 50137
+  server: hk.helloco.xyz
+  skip-cert-verify: false
+  sni: hk.helloco.xyz
+  type: hysteria2
+  up: 1000
+- client-fingerprint: chrome
+  name: ‍☠️ xt1-Vl 01
+  network: ws
+  port: 443
+  server: cf.0sm.com
+  servername: 1113.714541.xyz
+  tls: true
+  type: vless
+  uuid: 68e4d0be-a8dd-477e-9891-b75b3221ab30
+  ws-opts:
+    headers:
+      Host: 1113.714541.xyz
+    path: /argox-vl?ed=2048
+- client-fingerprint: random
+  name: ‍☠️ 优选 01 01
+  network: ws
+  port: 17789
+  server: 154.12.179.200
+  servername: 00171.714541.xyz
+  tls: true
+  type: vless
+  uuid: 6ce494a2-69c2-4020-904b-09753fe82908
+  ws-opts:
+    headers:
+      Host: 00171.714541.xyz
+    path: /?ed=2560
+- client-fingerprint: random
+  name: 🇸🇬 新加坡 01
+  network: ws
+  port: 42235
+  server: 13.229.72.179
+  servername: 1113.714541.xyz
+  tls: true
+  type: vless
+  uuid: 68e4d0be-a8dd-477e-9891-b75b3221ab30
+  ws-opts:
+    headers:
+      Host: 1113.714541.xyz
+    path: /argox-vl?ed=2048
+- client-fingerprint: random
+  name: 🇸🇬 新加坡 02
+  network: ws
+  port: 443
+  server: 43.156.253.94
+  servername: 71.714512.xyz
+  tls: true
+  type: vless
+  uuid: 3565b9d8-56d0-4263-8c11-2e0e1dcca95f
+  ws-opts:
+    headers:
+      Host: 71.714512.xyz
+    path: /?ed=2560
+- client-fingerprint: chrome
+  name: 🇸🇬 新加坡 03
+  network: ws
+  password: qw6698
+  port: 40029
+  server: 43.128.95.110
+  skip-cert-verify: true
+  sni: sdgsd.pages.dev
+  type: trojan
+  ws-opts:
+    headers:
+      Host: sdgsd.pages.dev
+    path: /?ed=2560
+- client-fingerprint: random
+  name: 🇸🇬 新加坡 04
+  network: ws
+  port: 587
+  server: 52.163.98.70
+  servername: mihu.sorry.ip-ddns.com
+  tls: true
+  type: vless
+  uuid: 99e3375a-a9a4-4585-97d2-b1b2c029adb6
+  ws-opts:
+    headers:
+      Host: mihu.sorry.ip-ddns.com
+    path: /?ed=2560
+- auth: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  client-fingerprint: chrome
+  down: 10000
+  name: 🇸🇬 新加坡 05
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 1443
+  server: sg.mjhy2.com
+  skip-cert-verify: true
+  sni: sg.mjhy2.com
+  type: hysteria2
+  up: 10000
+- client-fingerprint: chrome
+  name: 🇸🇬 新加坡 06
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 443
+  server: sg.mjt000.com
+  skip-cert-verify: true
+  sni: sg.mjt000.com
+  type: trojan
+  udp: true
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 07
+  network: ws
+  port: 16618
+  server: yes.mojcn.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 08
+  network: ws
+  port: 16618
+  server: m.cnmjin.net
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 09
+  network: ws
+  port: 16618
+  server: t.cnmjcn.cyou
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇸🇬 新加坡 10
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: sg1.helloco.xyz
+  skip-cert-verify: false
+  sni: sg1.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇸🇬 新加坡 11
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: sg2.helloco.xyz
+  skip-cert-verify: false
+  sni: sg2.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇸🇬 新加坡 12
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: sg3.helloco.xyz
+  skip-cert-verify: false
+  sni: sg3.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇸🇬 新加坡 13
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: sg4.helloco.xyz
+  skip-cert-verify: false
+  sni: sg4.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇸🇬 新加坡 14
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: sg5.helloco.xyz
+  skip-cert-verify: false
+  sni: sg5.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇸🇬 新加坡 15
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: sg6.helloco.xyz
+  skip-cert-verify: false
+  sni: sg6.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇸🇬 新加坡 16
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: sg7.helloco.xyz
+  skip-cert-verify: false
+  sni: sg7.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇸🇬 新加坡 17
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: sg8.helloco.xyz
+  skip-cert-verify: false
+  sni: sg8.helloco.xyz
+  type: hysteria2
+  up: 1000
+- client-fingerprint: random
+  name: 🇰🇷 韩国 01
+  network: ws
+  port: 13644
+  server: 140.238.5.75
+  servername: 11.714543.xyz
+  tls: true
+  type: vless
+  uuid: 9b6529d5-19f9-4c3c-9e30-8742075b0260
+  ws-opts:
+    headers:
+      Host: 11.714543.xyz
+    path: /?ed=2560
+- client-fingerprint: random
+  name: 🇰🇷 韩国 02
+  network: ws
+  port: 443
+  server: 132.145.94.80
+  servername: 11.714543.xyz
+  tls: true
+  type: vless
+  uuid: 9b6529d5-19f9-4c3c-9e30-8742075b0260
+  ws-opts:
+    headers:
+      Host: 11.714543.xyz
+    path: /?ed=2560
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇰🇷 韩国 03
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: kr1.helloco.xyz
+  skip-cert-verify: false
+  sni: kr1.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇰🇷 韩国 04
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: kr2.helloco.xyz
+  skip-cert-verify: false
+  sni: kr2.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇰🇷 韩国 05
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: kr3.helloco.xyz
+  skip-cert-verify: false
+  sni: kr3.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇰🇷 韩国 06
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: kr4.helloco.xyz
+  skip-cert-verify: false
+  sni: kr4.helloco.xyz
+  type: hysteria2
+  up: 1000
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇩🇪 德国 01
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 134.255.210.49
+  type: ss
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇩🇪 德国 02
+  network: ws
+  port: 16644
+  server: yes.mojcn.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇩🇪 德国 03
+  network: ws
+  port: 16644
+  server: m.cnmjcn.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇩🇪 德国 04
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: de1.helloco.xyz
+  skip-cert-verify: false
+  sni: de1.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇩🇪 德国 05
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: de2.helloco.xyz
+  skip-cert-verify: false
+  sni: de2.helloco.xyz
+  type: hysteria2
+  up: 1000
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇮🇹 意大利 01
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 37.143.129.230
+  type: ss
+- client-fingerprint: chrome
+  name: 🇮🇹 意大利 02
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 443
+  server: it.mjt000.com
+  sni: it.mjt000.com
+  type: trojan
+  udp: true
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇺🇦 乌克兰 01
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 176.103.53.105
+  type: ss
+- client-fingerprint: chrome
+  name: 🇺🇦 乌克兰 02
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 443
+  server: ua.mjt000.com
+  sni: ua.mjt000.com
+  type: trojan
+  udp: true
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇷🇴 罗马尼亚 01
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 185.193.49.88
+  type: ss
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 01
+  network: ws
+  port: 16617
+  server: yes.mojcn.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 02
+  network: ws
+  port: 16617
+  server: m.cnmjin.net
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 03
+  network: ws
+  port: 16617
+  server: t.cnmjcn.cyou
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- auth: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  client-fingerprint: chrome
+  down: 10000
+  name: 🇯🇵 日本 04
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 1443
+  server: jp.mjhy2.com
+  skip-cert-verify: true
+  sni: jp.mjhy2.com
+  type: hysteria2
+  up: 10000
+- client-fingerprint: chrome
+  name: 🇯🇵 日本 05
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 443
+  server: jp.mjt000.com
+  skip-cert-verify: true
+  sni: jp.mjt000.com
+  type: trojan
+  udp: true
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇯🇵 日本 06
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: jp1.helloco.xyz
+  skip-cert-verify: false
+  sni: jp1.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇯🇵 日本 07
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: jp2.helloco.xyz
+  skip-cert-verify: false
+  sni: jp2.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇯🇵 日本 08
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: jp3.helloco.xyz
+  skip-cert-verify: false
+  sni: jp3.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇯🇵 日本 09
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: jp4.helloco.xyz
+  skip-cert-verify: false
+  sni: jp4.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇯🇵 日本 10
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: jp5.helloco.xyz
+  skip-cert-verify: false
+  sni: jp5.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇯🇵 日本 11
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: jp6.helloco.xyz
+  skip-cert-verify: false
+  sni: jp6.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇯🇵 日本 12
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: jp7.helloco.xyz
+  skip-cert-verify: false
+  sni: jp7.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇯🇵 日本 13
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: jp8.helloco.xyz
+  skip-cert-verify: false
+  sni: jp8.helloco.xyz
+  type: hysteria2
+  up: 1000
+- client-fingerprint: chrome
+  name: 🇰🇭 柬埔寨 01
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 443
+  server: kh.mjt000.com
+  sni: kh.mjt000.com
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 01
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 443
+  server: usla.mjt000.com
+  sni: usla.mjt000.com
+  type: trojan
+  udp: true
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 02
+  network: ws
+  port: 16648
+  server: yes.mojcn.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 03
+  network: ws
+  port: 16648
+  server: m.cnmjin.net
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 04
+  network: ws
+  port: 16648
+  server: t.cnmjcn.cyou
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇺🇸 美国 05
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: us1.helloco.xyz
+  skip-cert-verify: false
+  sni: us1.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇺🇸 美国 06
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: us2.helloco.xyz
+  skip-cert-verify: false
+  sni: us2.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇺🇸 美国 07
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: us3.helloco.xyz
+  skip-cert-verify: false
+  sni: us3.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇺🇸 美国 08
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: us4.helloco.xyz
+  skip-cert-verify: false
+  sni: us4.helloco.xyz
+  type: hysteria2
+  up: 1000
+- client-fingerprint: chrome
+  name: 🇹🇼 台湾 01
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 443
+  server: hinet.mjt000.com
+  sni: hinet.mjt000.com
+  type: trojan
+  udp: true
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇼 台湾 02
+  network: ws
+  port: 16616
+  server: yes.mojcn.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇼 台湾 03
+  network: ws
+  port: 16616
+  server: m.cnmjin.net
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇼 台湾 04
+  network: ws
+  port: 16616
+  server: t.cnmjcn.cyou
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇹🇼 台湾 05
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: tw.helloco.xyz
+  skip-cert-verify: false
+  sni: tw.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇹🇼 台湾 06
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: tw.helloco.xyz
+  skip-cert-verify: false
+  sni: tw.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇹🇼 台湾 07
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: tw.helloco.xyz
+  skip-cert-verify: false
+  sni: tw.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇹🇼 台湾 08
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: tw.helloco.xyz
+  skip-cert-verify: false
+  sni: tw.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇹🇼 台湾 09
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: tw.helloco.xyz
+  skip-cert-verify: false
+  sni: tw.helloco.xyz
+  type: hysteria2
+  up: 1000
+- client-fingerprint: chrome
+  name: 🇻🇳 越南 01
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 443
+  server: vn.mjt000.com
+  sni: vn.mjt000.com
+  type: trojan
+  udp: true
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇮🇳 印度 01
+  network: ws
+  port: 16626
+  server: yes.mojcn.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇦 加拿大 01
+  network: ws
+  port: 16641
+  server: yes.mojcn.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇦 加拿大 02
+  network: ws
+  port: 16641
+  server: m.cnmjcn.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇦 加拿大 03
+  network: ws
+  port: 16641
+  server: t.cnmjcn.cyou
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 01
+  network: ws
+  port: 16645
+  server: yes.mojcn.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 02
+  network: ws
+  port: 16645
+  server: m.cnmjin.net
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 03
+  network: ws
+  port: 16645
+  server: t.cnmjcn.cyou
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  ws-opts:
+    headers:
+      Host: 1ae3dd98dc649f502bf4906d961a536f.mobgslb.tbcache.com
+    path: /
+- client-fingerprint: chrome
+  name: 🇬🇧 英国 04
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 443
+  server: uk.mjt000.com
+  sni: uk.mjt000.com
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇦🇺 澳大利亚 01
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 443
+  server: au.mjt000.com
+  sni: au.mjt000.com
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇹🇷 土耳其 01
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 443
+  server: tr.mjt000.com
+  sni: tr.mjt000.com
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇰🇵 朝鲜 01
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 443
+  server: kp.mjt000.com
+  sni: kp.mjt000.com
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇵🇹 葡萄牙 01
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 443
+  server: pt.mjt000.com
+  sni: pt.mjt000.com
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 01
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 443
+  server: ru.mjt000.com
+  sni: ru.mjt000.com
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇰🇿 哈萨克斯坦 01
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 443
+  server: kz.mjt000.com
+  sni: kz.mjt000.com
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇮🇱 以色列 01
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 443
+  server: il.mjt000.com
+  sni: il.mjt000.com
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇦🇷 阿根廷 01
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 443
+  server: ar.mjt000.com
+  sni: ar.mjt000.com
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇳🇬 尼日利亚 01
+  password: 021b18ca-e18d-4f78-a00b-85141d93d6d9
+  port: 443
+  server: ni.mjt000.com
+  sni: ni.mjt000.com
+  type: trojan
+  udp: true
