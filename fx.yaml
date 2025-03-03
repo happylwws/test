@@ -3,7 +3,7 @@ proxies:
   name: 🇩🇪 德国 | 1Gbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: de.oldcloud.online
   tls: true
   type: vless
@@ -16,7 +16,7 @@ proxies:
   name: 🇻🇳 越南 | 1Gbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: vn.oldcloud.online
   tls: true
   type: vless
@@ -26,23 +26,10 @@ proxies:
       Host: vn.oldcloud.online
     path: /
 - client-fingerprint: chrome
-  name: 🇬🇧 英国 | 1Gbps
-  network: ws
-  port: 443
-  server: cdn.7zz.cn
-  servername: uk.oldcloud.online
-  tls: true
-  type: vless
-  uuid: 69fb6517-56c9-48ed-aaa5-98e3c1ba5af5
-  ws-opts:
-    headers:
-      Host: uk.oldcloud.online
-    path: /
-- client-fingerprint: chrome
   name: 🇺🇸 美国 | 1Gbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: xz.4056860.xyz
   tls: true
   type: vless
@@ -55,7 +42,7 @@ proxies:
   name: 🇲🇳 蒙古 | 1Gbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: mn.4056860.xyz
   tls: true
   type: vless
@@ -68,7 +55,7 @@ proxies:
   name: 🇦🇶 南极 | 1Gbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: aq.oldcloud.online
   tls: true
   type: vless
@@ -81,7 +68,7 @@ proxies:
   name: 🇲🇴 澳门 | 1Gbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: mo.4056860.xyz
   tls: true
   type: vless
@@ -94,7 +81,7 @@ proxies:
   name: 🇰🇷 韩国 | 1Gbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: kr.4056860.xyz
   tls: true
   type: vless
@@ -107,7 +94,7 @@ proxies:
   name: 🇮🇸 冰岛 | 1Gbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: is.oldcloud.online
   tls: true
   type: vless
@@ -132,7 +119,7 @@ proxies:
   name: 🇹🇼 台湾 | 30Mbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: tw.oldcloud.online
   tls: true
   type: vless
@@ -145,7 +132,7 @@ proxies:
   name: 帕劳 |  30Mbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: pw.9901157.xyz
   tls: true
   type: vless
@@ -158,7 +145,7 @@ proxies:
   name: 海地 |  30Mbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: ht.9901157.xyz
   tls: true
   type: vless
@@ -171,7 +158,7 @@ proxies:
   name: 🇦🇷 阿根廷  | 1Gbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: ar.oldcloud.online
   tls: true
   type: vless
@@ -181,10 +168,23 @@ proxies:
       Host: ar.oldcloud.online
     path: /
 - client-fingerprint: chrome
+  name: 🇹🇷 土耳其 | 1Gbps
+  network: ws
+  port: 443
+  server: hyun.cloudflare.182682.xyz
+  servername: tr.oldcloud.online
+  tls: true
+  type: vless
+  uuid: c085c9e0-6666-4ba4-a0af-f17a67eade85
+  ws-opts:
+    headers:
+      Host: tr.oldcloud.online
+    path: /
+- client-fingerprint: chrome
   name: 格陵兰  | 1Gbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: gl.9901154.xyz
   tls: true
   type: vless
@@ -197,7 +197,7 @@ proxies:
   name: 安道尔 | 100Mbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: ad.oldcloud.online
   tls: true
   type: vless
@@ -210,7 +210,7 @@ proxies:
   name: 索马里 | 30Mbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: so.9901157.xyz
   tls: true
   type: vless
@@ -223,7 +223,7 @@ proxies:
   name: 🇻🇦 梵蒂冈 | 30Mbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: ua.9901157.xyz
   tls: true
   type: vless
@@ -236,7 +236,7 @@ proxies:
   name: 阿富汗 |  30Mbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: af.9901157.xyz
   tls: true
   type: vless
@@ -249,7 +249,7 @@ proxies:
   name: 布隆迪 | 30Mbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: bi.9901157.xyz
   tls: true
   type: vless
@@ -262,7 +262,7 @@ proxies:
   name: 🇸🇬 新加坡 | 30Mbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: sg.9901157.xyz
   tls: true
   type: vless
@@ -275,7 +275,7 @@ proxies:
   name: 东帝汶 | 30Mbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: tl.4056860.xyz
   tls: true
   type: vless
@@ -288,7 +288,7 @@ proxies:
   name: 🇲🇩 摩尔多瓦 | 100Mbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: md.4056860.xyz
   tls: true
   type: vless
@@ -301,7 +301,7 @@ proxies:
   name: 🇲🇾 马来西亚 | 30Mbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: my.4056860.xyz
   tls: true
   type: vless
@@ -314,7 +314,7 @@ proxies:
   name: 🇳🇬 尼日利亚 | 30Mbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: ng.9901157.xyz
   tls: true
   type: vless
@@ -327,7 +327,7 @@ proxies:
   name: 毛里求斯 | 30Mbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: mu.4056860.xyz
   tls: true
   type: vless
@@ -340,7 +340,7 @@ proxies:
   name: 开曼群岛 | 30Mbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: ky.9901157.xyz
   tls: true
   type: vless
@@ -353,7 +353,7 @@ proxies:
   name: 直布罗陀 | 30Mbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: gi.9901157.xyz
   tls: true
   type: vless
@@ -366,7 +366,7 @@ proxies:
   name: 斯里兰卡 | 10Mbps
   network: ws
   port: 443
-  server: cdn.7zz.cn
+  server: hyun.cloudflare.182682.xyz
   servername: lk.4056860.xyz
   tls: true
   type: vless
