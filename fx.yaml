@@ -383,23 +383,22 @@ proxies:
   server: 50.114.152.111
   skip-cert-verify: true
   type: hysteria2
-- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+- auth: 13bb4afa-79f1-46c1-85a0-bd2221cb7e9c
   client-fingerprint: chrome
-  down: 1000
   name: HK_02
-  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
-  port: 20131
-  ports: 20101-20199
-  server: pianyi-hk.jiumaojiu.org
+  password: 13bb4afa-79f1-46c1-85a0-bd2221cb7e9c
+  port: 38546
+  server: xxyd.bbgjc.cc
   skip-cert-verify: true
+  sni: xxyd.bbgjc.cc
   type: hysteria2
-  up: 1000
+  udp: true
 - auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
   client-fingerprint: chrome
   down: 1000
   name: HK_03
   password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
-  port: 20185
+  port: 20168
   ports: 20101-20199
   server: pianyi-hk.jiumaojiu.org
   skip-cert-verify: true
@@ -410,18 +409,18 @@ proxies:
   down: 1000
   name: HK_04
   password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
-  port: 20153
+  port: 20179
   ports: 20101-20199
   server: pianyi-hk.jiumaojiu.org
   skip-cert-verify: true
   type: hysteria2
   up: 1000
-- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
   client-fingerprint: chrome
   down: 1000
   name: HK_05
-  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
-  port: 20168
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20126
   ports: 20101-20199
   server: pianyi-hk.jiumaojiu.org
   skip-cert-verify: true
@@ -432,7 +431,7 @@ proxies:
   down: 1000
   name: HK_06
   password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
-  port: 20170
+  port: 20155
   ports: 20101-20199
   server: pianyi-hk.jiumaojiu.org
   skip-cert-verify: true
@@ -443,7 +442,7 @@ proxies:
   down: 1000
   name: HK_07
   password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
-  port: 20146
+  port: 20132
   ports: 20101-20199
   server: pianyi-hk.jiumaojiu.org
   skip-cert-verify: true
@@ -454,7 +453,7 @@ proxies:
   down: 1000
   name: HK_08
   password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
-  port: 20121
+  port: 20153
   ports: 20101-20199
   server: pianyi-hk.jiumaojiu.org
   skip-cert-verify: true
@@ -465,264 +464,354 @@ proxies:
   down: 1000
   name: HK_09
   password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20131
+  ports: 20101-20199
+  server: pianyi-hk.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_10
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20139
+  ports: 20101-20199
+  server: pianyi-hk.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_11
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20122
+  ports: 20101-20199
+  server: pianyi-hk.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_12
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20107
+  ports: 20101-20199
+  server: pianyi-hk.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_13
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20121
+  ports: 20101-20199
+  server: pianyi-hk.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_14
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20154
+  ports: 20101-20199
+  server: pianyi-hk.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_15
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20146
+  ports: 20101-20199
+  server: pianyi-hk.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_16
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20156
+  ports: 20101-20199
+  server: pianyi-hk.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_17
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
   port: 20123
   ports: 20101-20199
   server: pianyi-hk.jiumaojiu.org
   skip-cert-verify: true
   type: hysteria2
   up: 1000
-- auth: 1f7ce102-70c6-4b36-b4e7-5b40cd7bb904
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
   client-fingerprint: chrome
   down: 1000
-  name: HK_10
-  password: 1f7ce102-70c6-4b36-b4e7-5b40cd7bb904
-  port: 13880
-  ports: 13001-13999
-  server: weilai-hk.sanguayun.com
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- auth: 1f7ce102-70c6-4b36-b4e7-5b40cd7bb904
-  client-fingerprint: chrome
-  down: 1000
-  name: HK_11
-  password: 1f7ce102-70c6-4b36-b4e7-5b40cd7bb904
-  port: 13637
-  ports: 13001-13999
-  server: weilai-hk.sanguayun.com
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- auth: 87745083-6b2a-4d06-bb31-95308f07febe
-  client-fingerprint: chrome
-  down: 1000
-  name: HK_12
-  password: 87745083-6b2a-4d06-bb31-95308f07febe
-  port: 14280
-  ports: 14001-14999
-  server: xiaofeiji-hk.sanguayun.com
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
-  client-fingerprint: chrome
-  down: 1000
-  name: HK_13
-  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
-  port: 14699
-  ports: 14001-14999
-  server: xiaofeiji-hk.sanguayun.com
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- auth: f654e082-c610-4d16-9599-bfb572c8c86a
-  client-fingerprint: chrome
-  down: 1000
-  name: HK_14
-  password: f654e082-c610-4d16-9599-bfb572c8c86a
-  port: 14851
-  ports: 14001-14999
-  server: xiaofeiji-hk.sanguayun.com
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
-  client-fingerprint: chrome
-  down: 1000
-  name: HK_15
-  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
-  port: 14967
-  ports: 14001-14999
-  server: xiaofeiji-hk.sanguayun.com
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- auth: f654e082-c610-4d16-9599-bfb572c8c86a
-  client-fingerprint: chrome
-  down: 1000
-  name: HK_16
-  password: f654e082-c610-4d16-9599-bfb572c8c86a
-  port: 14223
-  ports: 14001-14999
-  server: xiaofeiji-hk.sanguayun.com
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
-  client-fingerprint: chrome
-  down: 1000
-  name: HK_17
-  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
-  port: 14300
-  ports: 14001-14999
-  server: xiaofeiji-hk.sanguayun.com
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- auth: d227adad-d1c9-4218-aff4-773f0ce5ba1d
-  client-fingerprint: chrome
   name: HK_18
-  password: d227adad-d1c9-4218-aff4-773f0ce5ba1d
-  port: 50000
-  server: ackxg.hssl8088.icu
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20137
+  ports: 20101-20199
+  server: pianyi-hk.jiumaojiu.org
   skip-cert-verify: true
-  sni: ackxg.hssl8088.icu
   type: hysteria2
-  udp: true
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_19
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20173
+  ports: 20101-20199
+  server: pianyi-hk.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: HK_20
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20170
+  ports: 20101-20199
+  server: pianyi-hk.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
 - auth: ijwqIjsEiFVOjkSoiuyTKwFufo
   client-fingerprint: chrome
-  name: JP_19
+  name: JP_21
   password: ijwqIjsEiFVOjkSoiuyTKwFufo
   port: 21621
   server: 13.230.187.226
   skip-cert-verify: true
   sni: bing.com
   type: hysteria2
-- auth: f654e082-c610-4d16-9599-bfb572c8c86a
-  client-fingerprint: chrome
-  down: 1000
-  name: JP_20
-  password: f654e082-c610-4d16-9599-bfb572c8c86a
-  port: 14859
-  ports: 14001-14999
-  server: xiaofeiji-jp.sanguayun.com
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- auth: 87745083-6b2a-4d06-bb31-95308f07febe
-  client-fingerprint: chrome
-  down: 1000
-  name: JP_21
-  password: 87745083-6b2a-4d06-bb31-95308f07febe
-  port: 14219
-  ports: 14001-14999
-  server: xiaofeiji-jp.sanguayun.com
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
   client-fingerprint: chrome
   down: 1000
   name: JP_22
-  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
-  port: 14649
-  ports: 14001-14999
-  server: xiaofeiji-jp.sanguayun.com
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20155
+  ports: 20101-20199
+  server: pianyi-jp.jiumaojiu.org
   skip-cert-verify: true
   type: hysteria2
   up: 1000
-- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
   client-fingerprint: chrome
   down: 1000
   name: JP_23
-  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
-  port: 14282
-  ports: 14001-14999
-  server: xiaofeiji-jp.sanguayun.com
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20128
+  ports: 20101-20199
+  server: pianyi-jp.jiumaojiu.org
   skip-cert-verify: true
   type: hysteria2
   up: 1000
-- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
   client-fingerprint: chrome
   down: 1000
   name: JP_24
-  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
-  port: 14229
-  ports: 14001-14999
-  server: xiaofeiji-jp.sanguayun.com
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20114
+  ports: 20101-20199
+  server: pianyi-jp.jiumaojiu.org
   skip-cert-verify: true
   type: hysteria2
   up: 1000
-- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
   client-fingerprint: chrome
   down: 1000
   name: JP_25
-  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
-  port: 14214
-  ports: 14001-14999
-  server: xiaofeiji-jp.sanguayun.com
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20143
+  ports: 20101-20199
+  server: pianyi-jp.jiumaojiu.org
   skip-cert-verify: true
   type: hysteria2
   up: 1000
-- auth: f654e082-c610-4d16-9599-bfb572c8c86a
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
   client-fingerprint: chrome
   down: 1000
   name: JP_26
-  password: f654e082-c610-4d16-9599-bfb572c8c86a
-  port: 14279
-  ports: 14001-14999
-  server: xiaofeiji-jp.sanguayun.com
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20136
+  ports: 20101-20199
+  server: pianyi-jp.jiumaojiu.org
   skip-cert-verify: true
   type: hysteria2
   up: 1000
-- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
+- auth: 9a70fbe3-a0ab-4cfa-86f3-6fd62988eefa
   client-fingerprint: chrome
-  down: 1000
+  down: 500
   name: JP_27
-  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
-  port: 14523
-  ports: 14001-14999
-  server: xiaofeiji-jp.sanguayun.com
+  password: 9a70fbe3-a0ab-4cfa-86f3-6fd62988eefa
+  port: 33251
+  server: jph1.youxuan.wiki
   skip-cert-verify: true
+  sni: jph1.youxuan.wiki
   type: hysteria2
-  up: 1000
-- auth: f654e082-c610-4d16-9599-bfb572c8c86a
+  up: 500
+- auth: 1f7ce102-70c6-4b36-b4e7-5b40cd7bb904
   client-fingerprint: chrome
   down: 1000
   name: JP_28
-  password: f654e082-c610-4d16-9599-bfb572c8c86a
-  port: 14032
-  ports: 14001-14999
-  server: xiaofeiji-jp.sanguayun.com
+  password: 1f7ce102-70c6-4b36-b4e7-5b40cd7bb904
+  port: 13988
+  ports: 13001-13999
+  server: weilai-jp.sanguayun.com
   skip-cert-verify: true
   type: hysteria2
   up: 1000
-- auth: f654e082-c610-4d16-9599-bfb572c8c86a
+- auth: de20caee-bea8-4b83-a1f7-bdcfc7e4a6e0
   client-fingerprint: chrome
   down: 1000
   name: JP_29
-  password: f654e082-c610-4d16-9599-bfb572c8c86a
-  port: 14013
-  ports: 14001-14999
-  server: xiaofeiji-jp.sanguayun.com
+  password: de20caee-bea8-4b83-a1f7-bdcfc7e4a6e0
+  port: 13352
+  ports: 13001-13999
+  server: weilai-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 0e57e0a8-939e-478d-8513-63b70e961e21
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_30
+  password: 0e57e0a8-939e-478d-8513-63b70e961e21
+  port: 13583
+  ports: 13001-13999
+  server: weilai-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 8d93f837-cff4-42fd-95ab-4d813c585552
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_31
+  password: 8d93f837-cff4-42fd-95ab-4d813c585552
+  port: 13340
+  ports: 13001-13999
+  server: weilai-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 8d93f837-cff4-42fd-95ab-4d813c585552
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_32
+  password: 8d93f837-cff4-42fd-95ab-4d813c585552
+  port: 13731
+  ports: 13001-13999
+  server: weilai-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 0e57e0a8-939e-478d-8513-63b70e961e21
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_33
+  password: 0e57e0a8-939e-478d-8513-63b70e961e21
+  port: 13675
+  ports: 13001-13999
+  server: weilai-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 0e57e0a8-939e-478d-8513-63b70e961e21
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_34
+  password: 0e57e0a8-939e-478d-8513-63b70e961e21
+  port: 13192
+  ports: 13001-13999
+  server: weilai-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 8d93f837-cff4-42fd-95ab-4d813c585552
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_35
+  password: 8d93f837-cff4-42fd-95ab-4d813c585552
+  port: 13201
+  ports: 13001-13999
+  server: weilai-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 0e57e0a8-939e-478d-8513-63b70e961e21
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_36
+  password: 0e57e0a8-939e-478d-8513-63b70e961e21
+  port: 13491
+  ports: 13001-13999
+  server: weilai-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 0e57e0a8-939e-478d-8513-63b70e961e21
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_37
+  password: 0e57e0a8-939e-478d-8513-63b70e961e21
+  port: 13884
+  ports: 13001-13999
+  server: weilai-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 8d93f837-cff4-42fd-95ab-4d813c585552
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_38
+  password: 8d93f837-cff4-42fd-95ab-4d813c585552
+  port: 13674
+  ports: 13001-13999
+  server: weilai-jp.sanguayun.com
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 1f7ce102-70c6-4b36-b4e7-5b40cd7bb904
+  client-fingerprint: chrome
+  down: 1000
+  name: JP_39
+  password: 1f7ce102-70c6-4b36-b4e7-5b40cd7bb904
+  port: 13498
+  ports: 13001-13999
+  server: weilai-jp.sanguayun.com
   skip-cert-verify: true
   type: hysteria2
   up: 1000
 - auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
   client-fingerprint: chrome
   down: 1000
-  name: JP_30
+  name: JP_40
   password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
-  port: 14519
+  port: 14439
   ports: 14001-14999
   server: xiaofeiji-jp.sanguayun.com
   skip-cert-verify: true
   type: hysteria2
   up: 1000
-- auth: f654e082-c610-4d16-9599-bfb572c8c86a
-  client-fingerprint: chrome
-  down: 1000
-  name: JP_31
-  password: f654e082-c610-4d16-9599-bfb572c8c86a
-  port: 14411
-  ports: 14001-14999
-  server: xiaofeiji-jp.sanguayun.com
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- auth: bc4aa0d5-bab3-4198-bc6e-71a703dae55d
-  client-fingerprint: chrome
-  name: JP_32
-  password: bc4aa0d5-bab3-4198-bc6e-71a703dae55d
-  port: 50000
-  server: ackrb.hssl8088.icu
-  skip-cert-verify: true
-  sni: ackrb.hssl8088.icu
-  type: hysteria2
-  udp: true
 - auth: 94J2kkzDhIZZ0apKiEyMYNNT9U
   client-fingerprint: chrome
-  name: KR_33
+  name: KR_41
   password: 94J2kkzDhIZZ0apKiEyMYNNT9U
   port: 33164
   server: 13.125.56.185
@@ -731,17 +820,116 @@ proxies:
   type: hysteria2
 - auth: reGGK67ULVOcuKo8zkWm2DcEA
   client-fingerprint: chrome
-  name: SG_34
+  name: SG_42
   password: reGGK67ULVOcuKo8zkWm2DcEA
   port: 23745
   server: 3.0.147.221
   skip-cert-verify: true
   sni: bing.com
   type: hysteria2
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: SG_43
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20116
+  ports: 20101-20199
+  server: pianyi-sg.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
 - auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
   client-fingerprint: chrome
   down: 1000
-  name: SG_35
+  name: SG_44
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20132
+  ports: 20101-20199
+  server: pianyi-sg.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: SG_45
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20102
+  ports: 20101-20199
+  server: pianyi-sg.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: SG_46
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20107
+  ports: 20101-20199
+  server: pianyi-sg.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: SG_47
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20188
+  ports: 20101-20199
+  server: pianyi-sg.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: SG_48
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20187
+  ports: 20101-20199
+  server: pianyi-sg.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: SG_49
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20138
+  ports: 20101-20199
+  server: pianyi-sg.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: SG_50
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20118
+  ports: 20101-20199
+  server: pianyi-sg.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: SG_51
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20161
+  ports: 20101-20199
+  server: pianyi-sg.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: SG_52
   password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
   port: 20179
   ports: 20101-20199
@@ -752,31 +940,9 @@ proxies:
 - auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
   client-fingerprint: chrome
   down: 1000
-  name: SG_36
+  name: SG_53
   password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
   port: 20119
-  ports: 20101-20199
-  server: pianyi-sg.jiumaojiu.org
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
-  client-fingerprint: chrome
-  down: 1000
-  name: SG_37
-  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
-  port: 20116
-  ports: 20101-20199
-  server: pianyi-sg.jiumaojiu.org
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
-  client-fingerprint: chrome
-  down: 1000
-  name: SG_38
-  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
-  port: 20188
   ports: 20101-20199
   server: pianyi-sg.jiumaojiu.org
   skip-cert-verify: true
@@ -785,9 +951,9 @@ proxies:
 - auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
   client-fingerprint: chrome
   down: 1000
-  name: SG_39
+  name: SG_54
   password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
-  port: 20181
+  port: 20149
   ports: 20101-20199
   server: pianyi-sg.jiumaojiu.org
   skip-cert-verify: true
@@ -796,7 +962,40 @@ proxies:
 - auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
   client-fingerprint: chrome
   down: 1000
-  name: SG_40
+  name: SG_55
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20120
+  ports: 20101-20199
+  server: pianyi-sg.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: SG_56
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20105
+  ports: 20101-20199
+  server: pianyi-sg.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: SG_57
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20167
+  ports: 20101-20199
+  server: pianyi-sg.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: SG_58
   password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
   port: 20131
   ports: 20101-20199
@@ -807,9 +1006,20 @@ proxies:
 - auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
   client-fingerprint: chrome
   down: 1000
-  name: SG_41
+  name: SG_59
   password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
-  port: 20116
+  port: 20181
+  ports: 20101-20199
+  server: pianyi-sg.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: SG_60
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20190
   ports: 20101-20199
   server: pianyi-sg.jiumaojiu.org
   skip-cert-verify: true
@@ -818,39 +1028,19 @@ proxies:
 - auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
   client-fingerprint: chrome
   down: 1000
-  name: SG_42
+  name: SG_61
   password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
-  port: 20102
+  port: 20160
   ports: 20101-20199
   server: pianyi-sg.jiumaojiu.org
   skip-cert-verify: true
   type: hysteria2
   up: 1000
-- auth: d227adad-d1c9-4218-aff4-773f0ce5ba1d
-  client-fingerprint: chrome
-  name: SG_43
-  password: d227adad-d1c9-4218-aff4-773f0ce5ba1d
-  port: 50000
-  server: doxjp.hssl8088.icu
-  skip-cert-verify: true
-  sni: doxjp.hssl8088.icu
-  type: hysteria2
-  udp: true
-- auth: bc4aa0d5-bab3-4198-bc6e-71a703dae55d
-  client-fingerprint: chrome
-  name: SG_44
-  password: bc4aa0d5-bab3-4198-bc6e-71a703dae55d
-  port: 50000
-  server: doxjp.hssl8088.icu
-  skip-cert-verify: true
-  sni: doxjp.hssl8088.icu
-  type: hysteria2
-  udp: true
 - alpn:
   - h3
   auth: 3e9bc412-6c40-4f68-9a31-fdd20c81a87c
   client-fingerprint: chrome
-  name: US_45
+  name: US_62
   password: 3e9bc412-6c40-4f68-9a31-fdd20c81a87c
   port: 40837
   server: 104.233.211.26
@@ -858,41 +1048,29 @@ proxies:
   type: hysteria2
 - auth: 88bb1b27
   client-fingerprint: chrome
-  name: US_46
+  name: US_63
   password: 88bb1b27
   port: 6888
   server: 209.141.59.231
   skip-cert-verify: true
   sni: www.bing.com
   type: hysteria2
-- auth: eee0bc24-189b-4f12-8686-2a0a45ae67c5
+- auth: 13bb4afa-79f1-46c1-85a0-bd2221cb7e9c
   client-fingerprint: chrome
-  down: 300
-  name: US_47
-  password: eee0bc24-189b-4f12-8686-2a0a45ae67c5
-  port: 29116
-  server: 46.17.44.136
+  name: US_64
+  password: 13bb4afa-79f1-46c1-85a0-bd2221cb7e9c
+  port: 38546
+  server: xxyg.bbgjc.cc
   skip-cert-verify: true
-  sni: min.zongyunti.site
+  sni: xxyg.bbgjc.cc
   type: hysteria2
-  up: 300
-- auth: cbd1d425-5379-4c44-82fc-5765d1d34dc9
-  client-fingerprint: chrome
-  down: 1000
-  name: US_48
-  password: cbd1d425-5379-4c44-82fc-5765d1d34dc9
-  port: 2083
-  server: nyc2.shigure.eu.org
-  skip-cert-verify: true
-  sni: nyc2.shigure.eu.org
-  type: hysteria2
-  up: 1000
+  udp: true
 - auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
   client-fingerprint: chrome
   down: 1000
-  name: US_49
+  name: US_65
   password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
-  port: 20195
+  port: 20163
   ports: 20101-20199
   server: pianyi-us.jiumaojiu.org
   skip-cert-verify: true
@@ -901,9 +1079,9 @@ proxies:
 - auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
   client-fingerprint: chrome
   down: 1000
-  name: US_50
+  name: US_66
   password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
-  port: 20109
+  port: 20185
   ports: 20101-20199
   server: pianyi-us.jiumaojiu.org
   skip-cert-verify: true
@@ -912,9 +1090,31 @@ proxies:
 - auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
   client-fingerprint: chrome
   down: 1000
-  name: US_51
+  name: US_67
   password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
-  port: 20146
+  port: 20131
+  ports: 20101-20199
+  server: pianyi-us.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: US_68
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20196
+  ports: 20101-20199
+  server: pianyi-us.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: US_69
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20118
   ports: 20101-20199
   server: pianyi-us.jiumaojiu.org
   skip-cert-verify: true
@@ -923,7 +1123,7 @@ proxies:
 - auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
   client-fingerprint: chrome
   down: 1000
-  name: US_52
+  name: US_70
   password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
   port: 20164
   ports: 20101-20199
@@ -934,9 +1134,53 @@ proxies:
 - auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
   client-fingerprint: chrome
   down: 1000
-  name: US_53
+  name: US_71
   password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
   port: 20148
+  ports: 20101-20199
+  server: pianyi-us.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: US_72
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20188
+  ports: 20101-20199
+  server: pianyi-us.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: US_73
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20184
+  ports: 20101-20199
+  server: pianyi-us.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: US_74
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20180
+  ports: 20101-20199
+  server: pianyi-us.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: US_75
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20123
   ports: 20101-20199
   server: pianyi-us.jiumaojiu.org
   skip-cert-verify: true
@@ -945,7 +1189,51 @@ proxies:
 - auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
   client-fingerprint: chrome
   down: 1000
-  name: US_54
+  name: US_76
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20187
+  ports: 20101-20199
+  server: pianyi-us.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: US_77
+  password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  port: 20109
+  ports: 20101-20199
+  server: pianyi-us.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: US_78
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20166
+  ports: 20101-20199
+  server: pianyi-us.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  client-fingerprint: chrome
+  down: 1000
+  name: US_79
+  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
+  port: 20195
+  ports: 20101-20199
+  server: pianyi-us.jiumaojiu.org
+  skip-cert-verify: true
+  type: hysteria2
+  up: 1000
+- auth: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
+  client-fingerprint: chrome
+  down: 1000
+  name: US_80
   password: a4ec3c5d-aa6b-45f1-ab0d-36cab6e9db26
   port: 20166
   ports: 20101-20199
@@ -956,7 +1244,7 @@ proxies:
 - auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
   client-fingerprint: chrome
   down: 1000
-  name: US_55
+  name: US_81
   password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
   port: 20196
   ports: 20101-20199
@@ -964,236 +1252,17 @@ proxies:
   skip-cert-verify: true
   type: hysteria2
   up: 1000
-- auth: 92937960-796d-4f99-af4d-1e6d0a2d93b7
-  client-fingerprint: chrome
-  down: 1000
-  name: US_56
-  password: 92937960-796d-4f99-af4d-1e6d0a2d93b7
-  port: 20188
-  ports: 20101-20199
-  server: pianyi-us.jiumaojiu.org
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- auth: 1f7ce102-70c6-4b36-b4e7-5b40cd7bb904
-  client-fingerprint: chrome
-  down: 1000
-  name: US_57
-  password: 1f7ce102-70c6-4b36-b4e7-5b40cd7bb904
-  port: 13083
-  ports: 13001-13999
-  server: weilai-us.sanguayun.com
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- auth: 1f7ce102-70c6-4b36-b4e7-5b40cd7bb904
-  client-fingerprint: chrome
-  down: 1000
-  name: US_58
-  password: 1f7ce102-70c6-4b36-b4e7-5b40cd7bb904
-  port: 13324
-  ports: 13001-13999
-  server: weilai-us.sanguayun.com
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
-  client-fingerprint: chrome
-  down: 1000
-  name: US_59
-  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
-  port: 14086
-  ports: 14001-14999
-  server: xiaofeiji-us.sanguayun.com
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- auth: f654e082-c610-4d16-9599-bfb572c8c86a
-  client-fingerprint: chrome
-  down: 1000
-  name: US_60
-  password: f654e082-c610-4d16-9599-bfb572c8c86a
-  port: 14855
-  ports: 14001-14999
-  server: xiaofeiji-us.sanguayun.com
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
-  client-fingerprint: chrome
-  down: 1000
-  name: US_61
-  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
-  port: 14236
-  ports: 14001-14999
-  server: xiaofeiji-us.sanguayun.com
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- auth: f654e082-c610-4d16-9599-bfb572c8c86a
-  client-fingerprint: chrome
-  down: 1000
-  name: US_62
-  password: f654e082-c610-4d16-9599-bfb572c8c86a
-  port: 14069
-  ports: 14001-14999
-  server: xiaofeiji-us.sanguayun.com
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- auth: f654e082-c610-4d16-9599-bfb572c8c86a
-  client-fingerprint: chrome
-  down: 1000
-  name: US_63
-  password: f654e082-c610-4d16-9599-bfb572c8c86a
-  port: 14577
-  ports: 14001-14999
-  server: xiaofeiji-us.sanguayun.com
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- auth: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
-  client-fingerprint: chrome
-  down: 1000
-  name: US_64
-  password: 7bd5d5a0-d6ac-4ce0-8953-7d4408fcdd7f
-  port: 14833
-  ports: 14001-14999
-  server: xiaofeiji-us.sanguayun.com
-  skip-cert-verify: true
-  type: hysteria2
-  up: 1000
-- cipher: chacha20-ietf
-  client-fingerprint: chrome
-  name: HK_65
-  password: asd123456
-  port: 8388
-  server: 103.149.182.61
-  type: ss
-  udp: true
 - cipher: chacha20
   client-fingerprint: chrome
-  name: HK_66
-  password: nUthZ7z3VmyV
-  port: 9001
-  server: 14.18.253.178
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: JP_67
-  password: amazonskr05
-  port: 443
-  server: 13.113.219.207
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: JP_68
-  password: amazonskr05
-  port: 443
-  server: 13.230.141.176
-  type: ss
-- cipher: chacha20
-  client-fingerprint: chrome
-  name: JP_69
-  password: GqbcCfh365aT
-  port: 8331
-  server: 14.18.253.178
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: JP_70
-  password: amazonskr05
-  port: 443
-  server: 18.181.198.147
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: JP_71
-  password: amazonskr05
-  port: 443
-  server: 3.112.1.95
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: JP_72
-  password: amazonskr05
-  port: 443
-  server: 52.195.185.114
-  type: ss
-- cipher: chacha20
-  client-fingerprint: chrome
-  name: KR_73
+  name: KR_82
   password: ADZmRQUGHTwX
   port: 8339
   server: 14.18.253.178
   type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: SG_74
-  password: amazonskr05
-  port: 443
-  server: 13.229.127.74
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: SG_75
-  password: amazonskr05
-  port: 443
-  server: 13.229.213.8
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: SG_76
-  password: amazonskr05
-  port: 443
-  server: 13.250.31.115
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: SG_77
-  password: amazonskr05
-  port: 443
-  server: 13.250.53.137
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: SG_78
-  password: amazonskr05
-  port: 443
-  server: 13.250.96.5
-  type: ss
-- cipher: chacha20
-  client-fingerprint: chrome
-  name: SG_79
-  password: DvPfKa8vsV9K
-  port: 8334
-  server: 14.18.253.178
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: SG_80
-  password: amazonskr05
-  port: 443
-  server: 18.140.3.253
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: SG_81
-  password: amazonskr05
-  port: 443
-  server: 18.141.140.152
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: SG_82
-  password: amazonskr05
-  port: 443
-  server: 18.143.186.182
-  type: ss
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: TW_83
-  password: 41f98411-6e10-41ec-86ff-c6e96b446d7e
+  password: a954a24e-4feb-4132-86f1-9deef42c77ce
   port: 47564
   server: gy.666666222.shop
   type: ss
@@ -1201,47 +1270,47 @@ proxies:
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: TW_84
-  password: 1db077b4-73d4-430f-ab2f-547076a0c810
-  port: 47564
+  password: 0c5a2201-a911-4761-a850-ce07834696ba
+  port: 20032
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: TW_85
-  password: 7db95aa9-a258-4b5e-be05-c2695a47cac7
-  port: 47564
+  password: a954a24e-4feb-4132-86f1-9deef42c77ce
+  port: 20032
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: TW_86
-  password: 1db077b4-73d4-430f-ab2f-547076a0c810
-  port: 20032
+  password: 24925bc7-da80-4717-9bb8-b0763b3a1671
+  port: 47564
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: TW_87
-  password: 7db95aa9-a258-4b5e-be05-c2695a47cac7
-  port: 20032
+  password: 22bc4830-36a8-4a5a-a7f7-6fe61d46b530
+  port: 47564
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: TW_88
-  password: 41f98411-6e10-41ec-86ff-c6e96b446d7e
-  port: 20032
+  password: a675565c-e1c1-4783-a33d-6f364708a746
+  port: 47564
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: TW_89
-  password: 1a12ed19-5c51-4db3-bee9-3033fe9632ce
+  password: a675565c-e1c1-4783-a33d-6f364708a746
   port: 20032
   server: gy.666666222.shop
   type: ss
@@ -1249,29 +1318,13 @@ proxies:
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: TW_90
-  password: 1a12ed19-5c51-4db3-bee9-3033fe9632ce
+  password: 0c5a2201-a911-4761-a850-ce07834696ba
   port: 47564
   server: gy.666666222.shop
   type: ss
   udp: true
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: TW_91
-  password: 4760e34a-1b29-4eba-ae1b-b1e463d89b83
-  port: 26513
-  server: iepl.500.yd.ny.cdnlinkms001.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: TW_92
-  password: 4760e34a-1b29-4eba-ae1b-b1e463d89b83
-  port: 16052
-  server: iepl.500.yd.ny.cdnlinkms001.xyz
-  type: ss
-  udp: true
 - client-fingerprint: chrome
-  name: KR_93
+  name: KR_91
   network: tcp
   port: 52917
   server: 146.56.145.2
@@ -1279,7 +1332,7 @@ proxies:
   type: vless
   uuid: e4439d42-91d6-44ad-b4f4-15b69d47c1f3
 - client-fingerprint: chrome
-  name: KR_94
+  name: KR_92
   network: ws
   password: 9a963be4-32cf-4df7-8254-63f5b7f5dc42
   port: 443
@@ -1292,6 +1345,94 @@ proxies:
     headers:
       Host: l0-cdn-04.dpp.pp.ua
     path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: KR_93
+  port: 45245
+  server: ye.fxlcn.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: e1ad66b5-b62b-4cee-9f71-66c3ad3aaad6
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: TW_94
+  port: 45296
+  server: 112.65.92.20
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: e1ad66b5-b62b-4cee-9f71-66c3ad3aaad6
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: TW_95
+  port: 45214
+  server: 120.233.64.151
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: e1ad66b5-b62b-4cee-9f71-66c3ad3aaad6
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: TW_96
+  port: 45411
+  server: 183.232.235.115
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: e1ad66b5-b62b-4cee-9f71-66c3ad3aaad6
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: TW_97
+  port: 45407
+  server: 183.240.187.199
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: e1ad66b5-b62b-4cee-9f71-66c3ad3aaad6
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: TW_98
+  port: 45285
+  server: 36.150.232.128
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: e1ad66b5-b62b-4cee-9f71-66c3ad3aaad6
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: TW_99
+  port: 45242
+  server: g0.fxlcn.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: e1ad66b5-b62b-4cee-9f71-66c3ad3aaad6
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: TW_100
+  port: 45261
+  server: g0.fxlcn.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: e1ad66b5-b62b-4cee-9f71-66c3ad3aaad6
 - cipher: aes-128-gcm
   client-fingerprint: chrome
   name: 🇭🇰 Hongkong 021
