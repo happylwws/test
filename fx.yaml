@@ -1473,231 +1473,117 @@ proxies:
     headers:
       Host: 1113.714541.xyz
     path: /argox-vm?ed=2048
-- client-fingerprint: random
+- cipher: rc4-md5
+  client-fingerprint: chrome
   name: 🇭🇰 香港 01
-  network: ws
-  port: 443
-  server: 8.212.44.95
-  servername: 1113.714541.xyz
-  tls: true
-  type: vless
-  uuid: 68e4d0be-a8dd-477e-9891-b75b3221ab30
-  ws-opts:
-    headers:
-      Host: 1113.714541.xyz
-    path: /argox-vl?ed=2048
-- client-fingerprint: random
+  password: 8HFUas
+  port: 35455
+  server: 118.184.136.48
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
   name: 🇭🇰 香港 02
-  network: ws
-  port: 443
-  server: 8.212.48.236
-  servername: 1113.714541.xyz
-  tls: true
-  type: vless
-  uuid: 68e4d0be-a8dd-477e-9891-b75b3221ab30
-  ws-opts:
-    headers:
-      Host: 1113.714541.xyz
-    path: /argox-vl?ed=2048
-- client-fingerprint: random
+  password: 8HFUas
+  port: 35455
+  server: 118.184.136.50
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
   name: 🇭🇰 香港 03
-  network: ws
-  port: 1443
-  server: 103.148.72.147
-  servername: 1113.714541.xyz
-  tls: true
-  type: vless
-  uuid: 68e4d0be-a8dd-477e-9891-b75b3221ab30
-  ws-opts:
-    headers:
-      Host: 1113.714541.xyz
-    path: /argox-vl?ed=2048
-- client-fingerprint: random
+  password: 8HFUas
+  port: 35455
+  server: 118.184.136.51
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
   name: 🇭🇰 香港 04
-  network: ws
-  port: 30001
-  server: 103.103.245.188
-  servername: 999.714542.xyz
-  tls: true
-  type: vless
-  uuid: 2292be0a-5ae3-4276-99c6-2a9014a26533
-  ws-opts:
-    headers:
-      Host: 999.714542.xyz
-    path: /?ed=2560
-- client-fingerprint: random
+  password: 8HFUas
+  port: 35455
+  server: 118.184.136.52
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
   name: 🇭🇰 香港 05
-  network: ws
-  port: 443
-  server: 154.64.251.19
-  servername: 999.714542.xyz
-  tls: true
-  type: vless
-  uuid: 2292be0a-5ae3-4276-99c6-2a9014a26533
-  ws-opts:
-    headers:
-      Host: 999.714542.xyz
-    path: /?ed=2560
-- client-fingerprint: random
+  password: 8HFUas
+  port: 35455
+  server: 118.184.136.53
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
   name: 🇭🇰 香港 06
-  network: ws
-  port: 443
-  server: 206.237.13.162
-  servername: 999.714542.xyz
-  tls: true
-  type: vless
-  uuid: 2292be0a-5ae3-4276-99c6-2a9014a26533
-  ws-opts:
-    headers:
-      Host: 999.714542.xyz
-    path: /?ed=2560
-- client-fingerprint: random
+  password: 8HFUas
+  port: 35455
+  server: 118.184.136.54
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
   name: 🇭🇰 香港 07
-  network: ws
-  port: 587
-  server: 47.76.245.221
-  servername: 72.714513.xyz
-  tls: true
-  type: vless
-  uuid: 8d9d10b9-ea8c-4133-a39d-2b2e8b7b17a0
-  ws-opts:
-    headers:
-      Host: 72.714513.xyz
-    path: /?ed=2560
-- client-fingerprint: random
+  password: 8HFUas
+  port: 35455
+  server: 118.184.136.55
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
   name: 🇭🇰 香港 08
-  network: ws
-  port: 443
-  server: 38.207.172.42
-  servername: 72.714513.xyz
-  tls: true
-  type: vless
-  uuid: 8d9d10b9-ea8c-4133-a39d-2b2e8b7b17a0
-  ws-opts:
-    headers:
-      Host: 72.714513.xyz
-    path: /?ed=2560
-- client-fingerprint: random
+  password: 8HFUas
+  port: 35455
+  server: 118.184.136.56
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
   name: 🇭🇰 香港 09
-  network: ws
-  port: 12317
-  server: 103.235.18.96
-  servername: 72.714513.xyz
-  tls: true
-  type: vless
-  uuid: 8d9d10b9-ea8c-4133-a39d-2b2e8b7b17a0
-  ws-opts:
-    headers:
-      Host: 72.714513.xyz
-    path: /?ed=2560
-- client-fingerprint: chrome
+  password: 8HFUas
+  port: 35455
+  server: 118.184.136.57
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
   name: 🇭🇰 香港 10
-  network: ws
-  password: qmsdh_com
-  port: 11563
-  server: 206.237.1.59
-  skip-cert-verify: true
-  sni: trojanfree.1949-10-01.top
-  type: trojan
-  ws-opts:
-    headers:
-      Host: trojanfree.1949-10-01.top
-    path: /?ed=2560
-- client-fingerprint: chrome
+  password: 8HFUas
+  port: 35455
+  server: 118.184.136.58
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
   name: 🇭🇰 香港 11
-  network: ws
-  password: qmsdh_com
-  port: 448
-  server: 43.155.71.120
-  skip-cert-verify: true
-  sni: trojanfree.1949-10-01.top
-  type: trojan
-  ws-opts:
-    headers:
-      Host: trojanfree.1949-10-01.top
-    path: /?ed=2560
-- client-fingerprint: chrome
+  password: 8HFUas
+  port: 35455
+  server: 118.184.136.59
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
   name: 🇭🇰 香港 12
-  network: ws
-  password: qmsdh_com
-  port: 1024
-  server: 47.239.229.165
-  skip-cert-verify: true
-  sni: trojanfree.1949-10-01.top
-  type: trojan
-  ws-opts:
-    headers:
-      Host: trojanfree.1949-10-01.top
-    path: /?ed=2560
-- auth: 8e3ff414-608b-407f-b404-75a760e05a54
+  password: 8HFUas
+  port: 35455
+  server: 118.184.136.60
+  type: ss
+  udp: true
+- cipher: rc4-md5
   client-fingerprint: chrome
   name: 🇭🇰 香港 13
-  password: 8e3ff414-608b-407f-b404-75a760e05a54
-  port: 8899
-  server: xgbp.su8.lol
-  skip-cert-verify: false
-  sni: xgbp.su8.lol
-  type: hysteria2
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  password: 8HFUas
+  port: 35455
+  server: 118.184.136.61
+  type: ss
+  udp: true
+- cipher: rc4-md5
   client-fingerprint: chrome
-  down: 1000
   name: 🇭🇰 香港 14
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 50137
-  server: hk.helloco.xyz
-  skip-cert-verify: false
-  sni: hk.helloco.xyz
-  type: hysteria2
-  up: 1000
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 🇭🇰 香港 15
-  network: tcp
-  port: 10126
-  reality-opts:
-    public-key: wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE
-    short-id: 686c0ef0
-  server: 1a2cfa02.ddns-link-b5.uk
-  servername: swcdn.apple.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇭🇰 香港 16
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 3717
-  server: hk2.ddns-link-b5.uk
-  sni: hk2.ddns-link-b5.uk
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇭🇰 香港 17
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 5015
-  server: hk3.ddns-link-b5.uk
-  sni: hk3.ddns-link-b5.uk
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇭🇰 香港 18
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 7445
-  server: hk4.ddns-link-b5.uk
-  sni: hk4.ddns-link-b5.uk
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇭🇰 香港 19
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 9168
-  server: hk5.ddns-link-b5.uk
-  sni: hk5.ddns-link-b5.uk
-  type: hysteria2
+  password: 8HFUas
+  port: 35455
+  server: 118.184.136.62
+  type: ss
   udp: true
 - client-fingerprint: random
   name: 🇸🇬 新加坡 01
@@ -1869,7 +1755,7 @@ proxies:
   name: 🇸🇬 新加坡 14
   password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: starlink-sgp2.251314.xyz
+  server: starlink-sgp.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
@@ -1878,7 +1764,7 @@ proxies:
   name: 🇸🇬 新加坡 15
   password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: starlink-sgp2.251314.xyz
+  server: starlink-sgp3.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
@@ -1887,7 +1773,7 @@ proxies:
   name: 🇸🇬 新加坡 16
   password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: starlink-sgp2.251314.xyz
+  server: starlink-sgp.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
@@ -1896,50 +1782,14 @@ proxies:
   name: 🇸🇬 新加坡 17
   password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: starlink-sgp2.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 18
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-sgp.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 19
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-sgp.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 20
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-sgp.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 21
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-sgp.251314.xyz
+  server: starlink-sgp3.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
 - auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   client-fingerprint: chrome
   down: 1000
-  name: 🇸🇬 新加坡 22
+  name: 🇸🇬 新加坡 18
   password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   port: 30000
   server: sg1.helloco.xyz
@@ -1950,7 +1800,7 @@ proxies:
 - auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   client-fingerprint: chrome
   down: 1000
-  name: 🇸🇬 新加坡 23
+  name: 🇸🇬 新加坡 19
   password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   port: 30000
   server: sg2.helloco.xyz
@@ -1961,7 +1811,7 @@ proxies:
 - auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   client-fingerprint: chrome
   down: 1000
-  name: 🇸🇬 新加坡 24
+  name: 🇸🇬 新加坡 20
   password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   port: 30000
   server: sg3.helloco.xyz
@@ -1972,7 +1822,7 @@ proxies:
 - auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   client-fingerprint: chrome
   down: 1000
-  name: 🇸🇬 新加坡 25
+  name: 🇸🇬 新加坡 21
   password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   port: 30000
   server: sg4.helloco.xyz
@@ -1983,7 +1833,7 @@ proxies:
 - auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   client-fingerprint: chrome
   down: 1000
-  name: 🇸🇬 新加坡 26
+  name: 🇸🇬 新加坡 22
   password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   port: 30000
   server: sg5.helloco.xyz
@@ -1994,7 +1844,7 @@ proxies:
 - auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   client-fingerprint: chrome
   down: 1000
-  name: 🇸🇬 新加坡 27
+  name: 🇸🇬 新加坡 23
   password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   port: 30000
   server: sg6.helloco.xyz
@@ -2005,7 +1855,7 @@ proxies:
 - auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   client-fingerprint: chrome
   down: 1000
-  name: 🇸🇬 新加坡 28
+  name: 🇸🇬 新加坡 24
   password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   port: 30000
   server: sg7.helloco.xyz
@@ -2016,7 +1866,7 @@ proxies:
 - auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   client-fingerprint: chrome
   down: 1000
-  name: 🇸🇬 新加坡 29
+  name: 🇸🇬 新加坡 25
   password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   port: 30000
   server: sg8.helloco.xyz
@@ -2024,51 +1874,6 @@ proxies:
   sni: sg8.helloco.xyz
   type: hysteria2
   up: 1000
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 30
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 1603
-  server: sg1.dexlos.com
-  sni: sg1.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 31
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 3889
-  server: sg2.dexlos.com
-  sni: sg2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 32
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 5866
-  server: sg3.dexlos.com
-  sni: sg3.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 33
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 7717
-  server: sg4.dexlos.com
-  sni: sg4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 34
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 9286
-  server: sg5.dexlos.com
-  sni: sg5.dexlos.com
-  type: hysteria2
-  udp: true
 - client-fingerprint: random
   name: 🇰🇷 韩国 01
   network: ws
@@ -2200,7 +2005,7 @@ proxies:
   name: 🇰🇷 韩国 11
   password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: starlink-sol.251314.xyz
+  server: starlink-sol2.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
@@ -2209,50 +2014,14 @@ proxies:
   name: 🇰🇷 韩国 12
   password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: starlink-sol.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇰🇷 韩国 13
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-sol2.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇰🇷 韩国 14
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-sol2.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇰🇷 韩国 15
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-sol2.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇰🇷 韩国 16
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-sol2.251314.xyz
+  server: starlink-sol2.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
 - auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   client-fingerprint: chrome
   down: 1000
-  name: 🇰🇷 韩国 17
+  name: 🇰🇷 韩国 13
   password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   port: 30000
   server: kr1.helloco.xyz
@@ -2263,7 +2032,7 @@ proxies:
 - auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   client-fingerprint: chrome
   down: 1000
-  name: 🇰🇷 韩国 18
+  name: 🇰🇷 韩国 14
   password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   port: 30000
   server: kr2.helloco.xyz
@@ -2274,7 +2043,7 @@ proxies:
 - auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   client-fingerprint: chrome
   down: 1000
-  name: 🇰🇷 韩国 19
+  name: 🇰🇷 韩国 15
   password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   port: 30000
   server: kr3.helloco.xyz
@@ -2285,7 +2054,7 @@ proxies:
 - auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   client-fingerprint: chrome
   down: 1000
-  name: 🇰🇷 韩国 20
+  name: 🇰🇷 韩国 16
   password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   port: 30000
   server: kr4.helloco.xyz
@@ -2307,7 +2076,7 @@ proxies:
   name: 🇺🇸 美国 02
   password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: starlink-sfo.251314.xyz
+  server: starlink-sfo2.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
@@ -2316,7 +2085,7 @@ proxies:
   name: 🇺🇸 美国 03
   password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: starlink-sfo.251314.xyz
+  server: starlink-sfo2.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
@@ -2325,7 +2094,7 @@ proxies:
   name: 🇺🇸 美国 04
   password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: starlink-sfo.251314.xyz
+  server: starlink-sfo2.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
@@ -2334,50 +2103,14 @@ proxies:
   name: 🇺🇸 美国 05
   password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: starlink-sfo.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 06
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-sfo2.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 07
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-sfo2.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 08
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-sfo2.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 09
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-sfo2.251314.xyz
+  server: starlink-sfo2.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
 - auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   client-fingerprint: chrome
   down: 1000
-  name: 🇺🇸 美国 10
+  name: 🇺🇸 美国 06
   password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   port: 30000
   server: us1.helloco.xyz
@@ -2388,7 +2121,7 @@ proxies:
 - auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   client-fingerprint: chrome
   down: 1000
-  name: 🇺🇸 美国 11
+  name: 🇺🇸 美国 07
   password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   port: 30000
   server: us2.helloco.xyz
@@ -2399,7 +2132,7 @@ proxies:
 - auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   client-fingerprint: chrome
   down: 1000
-  name: 🇺🇸 美国 12
+  name: 🇺🇸 美国 08
   password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   port: 30000
   server: us3.helloco.xyz
@@ -2410,7 +2143,7 @@ proxies:
 - auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   client-fingerprint: chrome
   down: 1000
-  name: 🇺🇸 美国 13
+  name: 🇺🇸 美国 09
   password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   port: 30000
   server: us4.helloco.xyz
@@ -2418,51 +2151,6 @@ proxies:
   sni: us4.helloco.xyz
   type: hysteria2
   up: 1000
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 14
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 1690
-  server: us1.dexlos.com
-  sni: us1.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 15
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 3065
-  server: us2.dexlos.com
-  sni: us2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 16
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 5497
-  server: us3.dexlos.com
-  sni: us3.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 17
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 7704
-  server: us4.dexlos.com
-  sni: us4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 18
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 9867
-  server: us5.dexlos.com
-  sni: us5.dexlos.com
-  type: hysteria2
-  udp: true
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 🇺🇦 乌克兰 01
@@ -2484,64 +2172,10 @@ proxies:
   port: 989
   server: 134.255.210.49
   type: ss
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇩🇪 德国 02
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-fra.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇩🇪 德国 03
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-fra.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇩🇪 德国 04
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-fra.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇩🇪 德国 05
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-fra2.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇩🇪 德国 06
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-fra2.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇩🇪 德国 07
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-fra2.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
 - auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   client-fingerprint: chrome
   down: 1000
-  name: 🇩🇪 德国 08
+  name: 🇩🇪 德国 02
   password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   port: 30000
   server: de1.helloco.xyz
@@ -2552,7 +2186,7 @@ proxies:
 - auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   client-fingerprint: chrome
   down: 1000
-  name: 🇩🇪 德国 09
+  name: 🇩🇪 德国 03
   password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   port: 30000
   server: de2.helloco.xyz
@@ -2560,24 +2194,6 @@ proxies:
   sni: de2.helloco.xyz
   type: hysteria2
   up: 1000
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇩🇪 德国 10
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 1725
-  server: de1.dexlos.com
-  sni: de1.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇩🇪 德国 11
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 5763
-  server: de3.dexlos.com
-  sni: de3.dexlos.com
-  type: hysteria2
-  udp: true
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 🇮🇹 意大利 01
@@ -2600,7 +2216,7 @@ proxies:
   server: 185.193.49.88
   type: ss
 - client-fingerprint: chrome
-  name: ‍☠️ 🌐  主页： xship.top 01
+  name: ‍☠️ 官网xship.top 01
   password: b1a89c6af25e446e669be39efb529fd5
   port: 443
   server: 88.119.175.241
@@ -2608,45 +2224,220 @@ proxies:
   sni: www.cloudflare.com
   type: trojan
 - client-fingerprint: chrome
-  name: ‍☠️ ♻️  持续防控刷流和抢占带宽 01
+  name: ‍☠️ 无防控 01
   password: b1a89c6af25e446e669be39efb529fd5
   port: 443
   server: 88.119.175.241
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: trojan
-- client-fingerprint: chrome
-  name: ‍☠️ 🚀 当前免费订阅已触发限制 01
-  password: b1a89c6af25e446e669be39efb529fd5
+- auth: MyU8KnXVUw2axvzzW6GFXRka
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 01
+  password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: 88.119.175.241
+  server: starlink-tko.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
-  type: trojan
-- client-fingerprint: chrome
-  name: 🏳️‍🌈 ️‍🌈 🌊 恢复时间：3/7 0:00 01
-  password: b1a89c6af25e446e669be39efb529fd5
+  type: hysteria2
+- auth: MyU8KnXVUw2axvzzW6GFXRka
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 02
+  password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: 88.119.175.241
+  server: starlink-tko3.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
-  type: trojan
-- client-fingerprint: chrome
-  name: ‍☠️ ⚡️ 请检查订阅链接是否泄露 01
-  password: b1a89c6af25e446e669be39efb529fd5
+  type: hysteria2
+- auth: MyU8KnXVUw2axvzzW6GFXRka
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 03
+  password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: 88.119.175.241
+  server: starlink-tko.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
-  type: trojan
-- client-fingerprint: chrome
+  type: hysteria2
+- auth: MyU8KnXVUw2axvzzW6GFXRka
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 04
+  password: MyU8KnXVUw2axvzzW6GFXRka
+  port: 443
+  server: starlink-tko3.2513142.xyz
+  skip-cert-verify: true
+  sni: www.cloudflare.com
+  type: hysteria2
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇯🇵 日本 05
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: jp1.helloco.xyz
+  skip-cert-verify: false
+  sni: jp1.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇯🇵 日本 06
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: jp2.helloco.xyz
+  skip-cert-verify: false
+  sni: jp2.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇯🇵 日本 07
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: jp3.helloco.xyz
+  skip-cert-verify: false
+  sni: jp3.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇯🇵 日本 08
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: jp4.helloco.xyz
+  skip-cert-verify: false
+  sni: jp4.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇯🇵 日本 09
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: jp5.helloco.xyz
+  skip-cert-verify: false
+  sni: jp5.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇯🇵 日本 10
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: jp6.helloco.xyz
+  skip-cert-verify: false
+  sni: jp6.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇯🇵 日本 11
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: jp7.helloco.xyz
+  skip-cert-verify: false
+  sni: jp7.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
+  name: 🇯🇵 日本 12
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: jp8.helloco.xyz
+  skip-cert-verify: false
+  sni: jp8.helloco.xyz
+  type: hysteria2
+  up: 1000
+- auth: MyU8KnXVUw2axvzzW6GFXRka
+  client-fingerprint: chrome
+  name: 🇸🇪 瑞典 01
+  password: MyU8KnXVUw2axvzzW6GFXRka
+  port: 443
+  server: starlink-sto.2513142.xyz
+  skip-cert-verify: true
+  sni: www.cloudflare.com
+  type: hysteria2
+- auth: MyU8KnXVUw2axvzzW6GFXRka
+  client-fingerprint: chrome
+  name: 🇸🇪 瑞典 02
+  password: MyU8KnXVUw2axvzzW6GFXRka
+  port: 443
+  server: starlink-sto.2513142.xyz
+  skip-cert-verify: true
+  sni: www.cloudflare.com
+  type: hysteria2
+- auth: MyU8KnXVUw2axvzzW6GFXRka
+  client-fingerprint: chrome
+  name: 🇸🇪 瑞典 03
+  password: MyU8KnXVUw2axvzzW6GFXRka
+  port: 443
+  server: starlink-sto.2513142.xyz
+  skip-cert-verify: true
+  sni: www.cloudflare.com
+  type: hysteria2
+- auth: MyU8KnXVUw2axvzzW6GFXRka
+  client-fingerprint: chrome
+  name: 🇸🇪 瑞典 04
+  password: MyU8KnXVUw2axvzzW6GFXRka
+  port: 443
+  server: starlink-sto.2513142.xyz
+  skip-cert-verify: true
+  sni: www.cloudflare.com
+  type: hysteria2
+- auth: MyU8KnXVUw2axvzzW6GFXRka
+  client-fingerprint: chrome
+  name: 🇫🇷 法国 01
+  password: MyU8KnXVUw2axvzzW6GFXRka
+  port: 443
+  server: starlink-par.2513142.xyz
+  skip-cert-verify: true
+  sni: www.cloudflare.com
+  type: hysteria2
+- auth: MyU8KnXVUw2axvzzW6GFXRka
+  client-fingerprint: chrome
+  name: 🇫🇷 法国 02
+  password: MyU8KnXVUw2axvzzW6GFXRka
+  port: 443
+  server: starlink-par.2513142.xyz
+  skip-cert-verify: true
+  sni: www.cloudflare.com
+  type: hysteria2
+- auth: MyU8KnXVUw2axvzzW6GFXRka
+  client-fingerprint: chrome
+  name: 🇫🇷 法国 03
+  password: MyU8KnXVUw2axvzzW6GFXRka
+  port: 443
+  server: starlink-par.2513142.xyz
+  skip-cert-verify: true
+  sni: www.cloudflare.com
+  type: hysteria2
+- auth: MyU8KnXVUw2axvzzW6GFXRka
+  client-fingerprint: chrome
+  name: 🇫🇷 法国 04
+  password: MyU8KnXVUw2axvzzW6GFXRka
+  port: 443
+  server: starlink-par.2513142.xyz
+  skip-cert-verify: true
+  sni: www.cloudflare.com
+  type: hysteria2
+- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  client-fingerprint: chrome
+  down: 1000
   name: 🇹🇼 台湾 01
-  password: b1a89c6af25e446e669be39efb529fd5
-  port: 443
-  server: 88.119.175.241
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: trojan
+  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
+  port: 30000
+  server: tw.helloco.xyz
+  skip-cert-verify: false
+  sni: tw.helloco.xyz
+  type: hysteria2
+  up: 1000
 - auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   client-fingerprint: chrome
   down: 1000
@@ -2691,572 +2482,6 @@ proxies:
   sni: tw.helloco.xyz
   type: hysteria2
   up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇹🇼 台湾 06
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: tw.helloco.xyz
-  skip-cert-verify: false
-  sni: tw.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇹🇼 台湾 07
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 1851
-  server: tw1.ddns-link-b5.uk
-  sni: tw1.ddns-link-b5.uk
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇹🇼 台湾 08
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 3727
-  server: tw2.ddns-link-b5.uk
-  sni: tw2.ddns-link-b5.uk
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇹🇼 台湾 09
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 5689
-  server: tw3.ddns-link-b5.uk
-  sni: tw3.ddns-link-b5.uk
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇹🇼 台湾 10
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 7273
-  server: tw4.ddns-link-b5.uk
-  sni: tw4.ddns-link-b5.uk
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇹🇼 台湾 11
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 9667
-  server: tw5.ddns-link-b5.uk
-  sni: tw5.ddns-link-b5.uk
-  type: hysteria2
-  udp: true
-- client-fingerprint: chrome
-  name: ‍☠️ 🔰 升级订阅畅享无限丝滑 01
-  password: b1a89c6af25e446e669be39efb529fd5
-  port: 443
-  server: 88.119.175.241
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: trojan
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 01
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-tko.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 02
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-tko.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 03
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-tko.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 04
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-tko.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 05
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-tko2.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 06
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-tko2.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 07
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-tko2.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 08
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-tko2.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇯🇵 日本 09
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: jp1.helloco.xyz
-  skip-cert-verify: false
-  sni: jp1.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇯🇵 日本 10
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: jp2.helloco.xyz
-  skip-cert-verify: false
-  sni: jp2.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇯🇵 日本 11
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: jp3.helloco.xyz
-  skip-cert-verify: false
-  sni: jp3.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇯🇵 日本 12
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: jp4.helloco.xyz
-  skip-cert-verify: false
-  sni: jp4.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇯🇵 日本 13
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: jp5.helloco.xyz
-  skip-cert-verify: false
-  sni: jp5.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇯🇵 日本 14
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: jp6.helloco.xyz
-  skip-cert-verify: false
-  sni: jp6.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇯🇵 日本 15
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: jp7.helloco.xyz
-  skip-cert-verify: false
-  sni: jp7.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇯🇵 日本 16
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: jp8.helloco.xyz
-  skip-cert-verify: false
-  sni: jp8.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 17
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 1000
-  server: jp1.dexlos.com
-  sni: jp1.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 18
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 3735
-  server: jp2.dexlos.com
-  sni: jp2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 19
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 5643
-  server: jp3.dexlos.com
-  sni: jp3.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 20
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 7542
-  server: jp4.dexlos.com
-  sni: jp4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 21
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 9038
-  server: jp5.dexlos.com
-  sni: jp5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇦🇺 澳大利亚 01
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-syd.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇦🇺 澳大利亚 02
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-syd2.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇦🇺 澳大利亚 03
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-syd.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇦🇺 澳大利亚 04
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-syd2.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇨🇦 加拿大 01
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-tor.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇨🇦 加拿大 02
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-tor.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇨🇦 加拿大 03
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-tor.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇨🇦 加拿大 04
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-tor.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇳🇱 荷兰 01
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-ams.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇳🇱 荷兰 02
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-ams.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇳🇱 荷兰 03
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-ams.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇳🇱 荷兰 04
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-ams.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 01
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-lon.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 02
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-lon.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 03
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-lon.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 04
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-lon.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 05
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 1941
-  server: gb1.dexlos.com
-  sni: gb1.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 06
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 3730
-  server: gb2.dexlos.com
-  sni: gb2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 07
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 5835
-  server: gb3.dexlos.com
-  sni: gb3.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 08
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 7436
-  server: gb4.dexlos.com
-  sni: gb4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 09
-  password: 70FEE712-8B6E-4410-9161-6A84F5BA9DD3
-  port: 9729
-  server: gb5.dexlos.com
-  sni: gb5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇮🇳 印度 01
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-blr.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇮🇳 印度 02
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-blr.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇮🇳 印度 03
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-blr.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇮🇳 印度 04
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-blr.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇸🇪 瑞典 01
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-sto.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇸🇪 瑞典 02
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-sto.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇸🇪 瑞典 03
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-sto.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇸🇪 瑞典 04
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-sto.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇫🇷 法国 01
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-par.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇫🇷 法国 02
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-par.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇫🇷 法国 03
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-par.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
-- auth: MyU8KnXVUw2axvzzW6GFXRka
-  client-fingerprint: chrome
-  name: 🇫🇷 法国 04
-  password: MyU8KnXVUw2axvzzW6GFXRka
-  port: 443
-  server: starlink-par.251314.xyz
-  skip-cert-verify: true
-  sni: www.cloudflare.com
-  type: hysteria2
 - cipher: aes-128-gcm
   client-fingerprint: chrome
   name: 🇭🇰 Hongkong 021
@@ -3840,3 +3065,2372 @@ proxies:
   port: 45932
   server: console.03.aliyun.aq.kunlunaqs.com
   type: ss
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 1 备用登录 管人痴.com
+  password: 8HFUas
+  port: 35455
+  server: 114.51.41.91
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 1 备用面板 ssr.wtf
+  password: 8HFUas
+  port: 35455
+  server: 59.43.17.23
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 1 忘记登录需联系客服
+  password: 8HFUas
+  port: 35455
+  server: 59.43.120.67
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 1 此计划禁止工作室使用 禁止任何商业使用
+  password: 8HFUas
+  port: 35455
+  server: 114.152.162.31
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 1 请使用全局代理访问官网，非全局会拦截报1020
+  password: 8HFUas
+  port: 35455
+  server: 116.236.21.7
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC C01
+  password: 8HFUas
+  port: 35455
+  server: pvcc01.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: Next generation AnyPath® Direct Internet Zero Trust Network Access (DIZTNA3.0)
+    CloudBlades 1
+  password: 8HFUas
+  port: 35455
+  server: zero01.graniterapids.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: Next generation AnyPath® Direct Internet Zero Trust Network Access (DIZTNA3.0)
+    CloudBlades 2
+  password: 8HFUas
+  port: 35455
+  server: zero02.graniterapids.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: Next generation AnyPath® Direct Internet Zero Trust Network Access (DIZTNA3.0)
+    CloudBlades 3
+  password: 8HFUas
+  port: 35455
+  server: zero03.graniterapids.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: Next generation AnyPath® Direct Internet Zero Trust Network Access (DIZTNA3.0)
+    CloudBlades 4
+  password: 8HFUas
+  port: 35455
+  server: zero04.graniterapids.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: Next generation AnyPath® Direct Internet Zero Trust Network Access (DIZTNA3.0)
+    CloudBlades 5
+  password: 8HFUas
+  port: 35455
+  server: zero05.graniterapids.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: Next generation AnyPath® Direct Internet Zero Trust Network Access (DIZTNA3.0)
+    CloudBlades 6
+  password: 8HFUas
+  port: 35455
+  server: zero06.graniterapids.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇨🇦 中国-加拿大 IPLC C01
+  password: 8HFUas
+  port: 35455
+  server: ca01.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇨🇦 中国-加拿大 IPLC C02
+  password: 8HFUas
+  port: 35455
+  server: ca02.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇨🇦 中国-加拿大 IPLC C03
+  password: 8HFUas
+  port: 35455
+  server: ca03.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇨🇦 中国-加拿大 IPLC C04
+  password: 8HFUas
+  port: 35455
+  server: ca04.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇨🇦 中国-加拿大 IPLC C05
+  password: 8HFUas
+  port: 35455
+  server: ca05.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇮🇳 中国-印度 班加罗尔 एयरटेल IPLC C01
+  password: 8HFUas
+  port: 35455
+  server: in01.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇮🇳 中国-印度 班加罗尔 एयरटेल IPLC C02
+  password: 8HFUas
+  port: 35455
+  server: in02.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇮🇳 中国-印度 班加罗尔 एयरटेल IPLC C03
+  password: 8HFUas
+  port: 35455
+  server: in03.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇮🇳 中国-印度 班加罗尔 एयरटेल IPLC C04
+  password: 8HFUas
+  port: 35455
+  server: in04.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇮🇳 中国-印度 班加罗尔 एयरटेल IPLC C05
+  password: 8HFUas
+  port: 35455
+  server: in05.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇮🇳 中国-印度 班加罗尔 एयरटेल IPLC C06
+  password: 8HFUas
+  port: 35455
+  server: in06.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇮🇳 中国-印度 班加罗尔 एयरटेल IPLC C07
+  password: 8HFUas
+  port: 35455
+  server: in07.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇮🇳 中国-印度 班加罗尔 एयरटेल IPLC C08
+  password: 8HFUas
+  port: 35455
+  server: in08.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾 VPDN 嘉义游戏专线 C01 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: twgame01.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾 VPDN 嘉义游戏专线 C02 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: twgame02.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾 VPDN 嘉义游戏专线 C03 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: twgame03.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾 VPDN 嘉义游戏专线 C04 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: twgame04.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾 VPDN 嘉义游戏专线 C05 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: twgame05.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾 VPDN 嘉义游戏专线 C06 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: twgame06.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾 VPDN 嘉义游戏专线 C07 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: twgame07.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾 VPDN 嘉义游戏专线 C08 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: twgame08.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾 VPDN 嘉义游戏专线 C09 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: twgame09.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾彰化 IEPL HiNet固接 C01 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: tw01.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾彰化 IEPL HiNet固接 C02 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: tw02.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾彰化 IEPL HiNet固接 C03 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: tw03.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾彰化 IEPL HiNet固接 C04 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: tw04.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾彰化 IEPL HiNet固接 C05 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: tw05.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾彰化 IEPL HiNet固接 C06 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: tw06.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾彰化 IEPL HiNet固接 C07 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: tw07.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾彰化 IEPL HiNet固接 C08 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: tw08.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾彰化 IEPL HiNet固接 C09 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: tw09.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾桃园 IPLC 台湾固网 C01 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: twct01.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾桃园 IPLC 台湾固网 C02 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: twct02.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾桃园 IPLC 台湾固网 C03 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: twct03.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾桃园 IPLC 台湾固网 C04 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: twct04.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾桃园 IPLC 台湾固网 C05 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: twct05.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾桃园 IPLC 台湾固网 C06 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: twct06.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾桃园 IPLC 台湾固网 C07 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: twct07.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾桃园 IPLC 台湾固网 C08 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: twct08.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾桃园 IPLC 台湾固网 C09 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: twct09.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾桃园 IPLC 台湾固网 C10 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: twct10.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇹🇼 中国-台湾桃园 IPLC 台湾固网 C11 Netflix 动画疯
+  password: 8HFUas
+  port: 35455
+  server: twct11.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网（三） A 1000Mbps
+  password: 8HFUas
+  port: 35455
+  server: hr01.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网（三） B 1000Mbps
+  password: 8HFUas
+  port: 35455
+  server: hr02.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网（三） C 1000Mbps
+  password: 8HFUas
+  port: 35455
+  server: hr03.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网（三） D 1000Mbps
+  password: 8HFUas
+  port: 35455
+  server: hr04.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网（三） E 1000Mbps
+  password: 8HFUas
+  port: 35455
+  server: hr05.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网（三） F 1000Mbps
+  password: 8HFUas
+  port: 35455
+  server: hr06.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网（三） G 1000Mbps
+  password: 8HFUas
+  port: 35455
+  server: hr07.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网（三） H 1000Mbps
+  password: 8HFUas
+  port: 35455
+  server: hr07.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网（三） I 1000Mbps
+  password: 8HFUas
+  port: 35455
+  server: hr08.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网（三） J 1000Mbps
+  password: 8HFUas
+  port: 35455
+  server: hr10.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 中国-日本 沪日IEPL传输 Equinix-TY8 C01 Netflix
+  password: 8HFUas
+  port: 35455
+  server: jp01.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 中国-日本 沪日IEPL传输 Equinix-TY8 C02 Netflix
+  password: 8HFUas
+  port: 35455
+  server: jp02.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 中国-日本 沪日IEPL传输 Equinix-TY8 C03 Netflix
+  password: 8HFUas
+  port: 35455
+  server: jp03.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 中国-日本 沪日IEPL传输 Equinix-TY8 C04 Netflix
+  password: 8HFUas
+  port: 35455
+  server: jp04.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 中国-日本 沪日IEPL传输 Equinix-TY8 C05 Netflix
+  password: 8HFUas
+  port: 35455
+  server: jp05.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 中国-日本 沪日IEPL传输 Equinix-TY8 C06 Netflix
+  password: 8HFUas
+  port: 35455
+  server: jp06.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 中国-日本 沪日IEPL传输 Equinix-TY8 C07 Netflix
+  password: 8HFUas
+  port: 35455
+  server: jp07.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 中国-日本 沪日IEPL传输 Equinix-TY8 C08 Netflix
+  password: 8HFUas
+  port: 35455
+  server: jp08.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇫🇷 中国-法国 IPLC C01
+  password: 8HFUas
+  port: 35455
+  server: fr01.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇫🇷 中国-法国 IPLC C02
+  password: 8HFUas
+  port: 35455
+  server: fr02.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇫🇷 中国-法国 IPLC C03
+  password: 8HFUas
+  port: 35455
+  server: fr03.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇫🇷 中国-法国 IPLC C04
+  password: 8HFUas
+  port: 35455
+  server: fr04.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇫🇷 中国-法国 IPLC C05
+  password: 8HFUas
+  port: 35455
+  server: fr05.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇦🇺 中国-澳大利亚 IPLC 悉尼 C01
+  password: 8HFUas
+  port: 35455
+  server: au01.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇦🇺 中国-澳大利亚 IPLC 悉尼 C02
+  password: 8HFUas
+  port: 35455
+  server: au02.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇦🇺 中国-澳大利亚 IPLC 悉尼 C03
+  password: 8HFUas
+  port: 35455
+  server: au03.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇦🇺 中国-澳大利亚 IPLC 悉尼 C04
+  password: 8HFUas
+  port: 35455
+  server: au04.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇦🇺 中国-澳大利亚 IPLC 悉尼 C05
+  password: 8HFUas
+  port: 35455
+  server: au05.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇮🇪 中国-爱尔兰 IPLC C01
+  password: 8HFUas
+  port: 35455
+  server: ir01.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇮🇪 中国-爱尔兰 IPLC C02
+  password: 8HFUas
+  port: 35455
+  server: ir02.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇮🇪 中国-爱尔兰 IPLC C03
+  password: 8HFUas
+  port: 35455
+  server: ir03.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇮🇪 中国-爱尔兰 IPLC C04
+  password: 8HFUas
+  port: 35455
+  server: ir04.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇮🇪 中国-爱尔兰 IPLC C05
+  password: 8HFUas
+  port: 35455
+  server: ir05.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇬🇧 中国-英国伦敦 IPLC BBC C01
+  password: 8HFUas
+  port: 35455
+  server: uk01.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇬🇧 中国-英国伦敦 IPLC BBC C02
+  password: 8HFUas
+  port: 35455
+  server: uk02.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇬🇧 中国-英国伦敦 IPLC BBC C03
+  password: 8HFUas
+  port: 35455
+  server: uk03.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇬🇧 中国-英国伦敦 IPLC BBC C04
+  password: 8HFUas
+  port: 35455
+  server: uk04.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇬🇧 中国-英国伦敦 IPLC BBC C05
+  password: 8HFUas
+  port: 35455
+  server: uk05.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇬🇧 中国-英国伦敦 IPLC BBC C06
+  password: 8HFUas
+  port: 35455
+  server: uk06.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇰🇷 中国-韩国 IEPL（三）A 1Gbps
+  password: 8HFUas
+  port: 35455
+  server: kr01.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇰🇷 中国-韩国 IEPL（三）B 1Gbps
+  password: 8HFUas
+  port: 35455
+  server: kr02.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇰🇷 中国-韩国 IEPL（三）C 1Gbps
+  password: 8HFUas
+  port: 35455
+  server: kr03.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇰🇷 中国-韩国 IEPL（三）D 1Gbps
+  password: 8HFUas
+  port: 35455
+  server: kr04.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇰🇷 中国-韩国 IEPL（三）E 1Gbps
+  password: 8HFUas
+  port: 35455
+  server: kr05.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 中国-香港 IEPL Equinix HK8 C 01 1Gbps HBO TVB
+  password: 8HFUas
+  port: 35455
+  server: sg11.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 中国-香港 IEPL Equinix HK8 C 02 1Gbps HBO TVB
+  password: 8HFUas
+  port: 35455
+  server: sg12.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 中国-香港 IEPL Equinix HK8 C 03 1Gbps HBO TVB
+  password: 8HFUas
+  port: 35455
+  server: sg13.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 中国-香港 IEPL Equinix HK8 C 04 1Gbps HBO TVB
+  password: 8HFUas
+  port: 35455
+  server: sg14.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 中国-香港 IEPL Equinix HK8 C 05 1Gbps HBO TVB
+  password: 8HFUas
+  port: 35455
+  server: sg15.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 中国-香港 IEPL Equinix HK8 C 06 1Gbps HBO TVB
+  password: 8HFUas
+  port: 35455
+  server: sg16.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 中国-香港 IEPL Equinix HK8 C 07 1Gbps HBO TVB
+  password: 8HFUas
+  port: 35455
+  server: sg17.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 中国-香港 IEPL Equinix HK8 C 08 1Gbps HBO TVB
+  password: 8HFUas
+  port: 35455
+  server: sg18.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 中国-香港 IEPL Equinix HK8 C 09 1Gbps HBO TVB
+  password: 8HFUas
+  port: 35455
+  server: sg19.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 中国-香港 IEPL Equinix HK8 C 10 1Gbps HBO TVB
+  password: 8HFUas
+  port: 35455
+  server: sg20.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 中国-香港 IPLC Equinix HK2 C 01 1Gbps HBO TVB
+  password: 8HFUas
+  port: 35455
+  server: sg01.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 中国-香港 IPLC Equinix HK2 C 02 1Gbps HBO TVB
+  password: 8HFUas
+  port: 35455
+  server: sg02.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 中国-香港 IPLC Equinix HK2 C 03 1Gbps HBO TVB
+  password: 8HFUas
+  port: 35455
+  server: sg03.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 中国-香港 IPLC Equinix HK2 C 04 1Gbps HBO TVB
+  password: 8HFUas
+  port: 35455
+  server: sg04.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 中国-香港 IPLC Equinix HK2 C 05 1Gbps HBO TVB
+  password: 8HFUas
+  port: 35455
+  server: sg05.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 中国-香港 IPLC Equinix HK2 C 06 1Gbps HBO TVB
+  password: 8HFUas
+  port: 35455
+  server: sg06.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 中国-香港 IPLC Equinix HK2 C 07 1Gbps HBO TVB
+  password: 8HFUas
+  port: 35455
+  server: sg07.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 中国-香港 IPLC Equinix HK2 C 08 1Gbps HBO TVB
+  password: 8HFUas
+  port: 35455
+  server: sg08.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 中国-香港 IPLC Equinix HK2 C 09 1Gbps HBO TVB
+  password: 8HFUas
+  port: 35455
+  server: sg09.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 中国-香港 IPLC Equinix HK2 C 10 1Gbps HBO TVB
+  password: 8HFUas
+  port: 35455
+  server: sg10.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 01
+  password: 8HFUas
+  port: 35455
+  server: ru01.fjk.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 02
+  password: 8HFUas
+  port: 35455
+  server: ru02.fjk.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 03
+  password: 8HFUas
+  port: 35455
+  server: ru03.fjk.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 04
+  password: 8HFUas
+  port: 35455
+  server: ru04.fjk.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 05
+  password: 8HFUas
+  port: 35455
+  server: ru05.fjk.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 06
+  password: 8HFUas
+  port: 35455
+  server: ru06.fjk.wtf
+  type: ss
+  udp: true
+- alterId: 1
+  cipher: auto
+  client-fingerprint: chrome
+  name: 因V2ray重大漏洞问题，暂时下架全部V2节点。请使用ssr/ss连接方式进行使用。
+  port: 681
+  server: v2-jp01.fjk.wtf
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8abdcef-45c2-34aa-bd2f-55b662e5b466
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇨🇳 山东联通临时接入
+  password: 8HFUas
+  port: 35455
+  server: 118.184.136.48
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇩🇪 德国 H1
+  password: 8HFUas
+  port: 35455
+  server: ge01.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇩🇪 德国 H2
+  password: 8HFUas
+  port: 35455
+  server: ge02.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇩🇪 德国 H3
+  password: 8HFUas
+  port: 35455
+  server: ge03.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇩🇪 德国 H4
+  password: 8HFUas
+  port: 35455
+  server: ge04.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇩🇪 德国 H5
+  password: 8HFUas
+  port: 35455
+  server: ge05.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇩🇪 德国 H6
+  password: 8HFUas
+  port: 35455
+  server: ge06.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 Legacy Magic IEPL 中继 C01 Netflix
+  password: 8HFUas
+  port: 35455
+  server: sgp01.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 Legacy Magic IEPL 中继 C02 Netflix
+  password: 8HFUas
+  port: 35455
+  server: sgp02.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 Legacy Magic IEPL 中继 C03 Netflix
+  password: 8HFUas
+  port: 35455
+  server: sgp03.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 Legacy Magic IEPL 中继 C04 Netflix
+  password: 8HFUas
+  port: 35455
+  server: sgp04.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 Legacy Magic IEPL 中继 C05 Netflix
+  password: 8HFUas
+  port: 35455
+  server: sgp05.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 Magic IEPL 中继 C01 Netflix
+  password: 8HFUas
+  port: 35455
+  server: sgp06.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 Magic IEPL 中继 C02 Netflix
+  password: 8HFUas
+  port: 35455
+  server: sgp07.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 Magic IEPL 中继 C03 Netflix
+  password: 8HFUas
+  port: 35455
+  server: sgp08.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 Magic IEPL 中继 C04 Netflix
+  password: 8HFUas
+  port: 35455
+  server: sgp09.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 Magic IEPL 中继 C05 Netflix
+  password: 8HFUas
+  port: 35455
+  server: sgp10.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡高级 IEPL 中继 C01 Netflix
+  password: 8HFUas
+  port: 35455
+  server: sgp11.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡高级 IEPL 中继 C02 Netflix
+  password: 8HFUas
+  port: 35455
+  server: sgp12.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡高级 IEPL 中继 C03 Netflix
+  password: 8HFUas
+  port: 35455
+  server: sgp13.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 无Ins购买渠道 Ins购买均为二手倒卖
+  password: 8HFUas
+  port: 35455
+  server: 127.0.0.8
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 无QQ购买渠道 QQ购买均为二手倒卖
+  password: 8HFUas
+  port: 35455
+  server: 127.0.0.7
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 无微信购买渠道 微信均为二手倒卖
+  password: 8HFUas
+  port: 35455
+  server: 127.0.0.6
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 ソフトバンク C01 500Mbps 1x Netflix
+  password: 8HFUas
+  port: 35455
+  server: jpsb01.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 ソフトバンク C02 500Mbps 1x Netflix
+  password: 8HFUas
+  port: 35455
+  server: jpsb02.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 ソフトバンク C03 500Mbps 1x Netflix
+  password: 8HFUas
+  port: 35455
+  server: jpsb03.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 ソフトバンク C04 500Mbps 1x Netflix
+  password: 8HFUas
+  port: 35455
+  server: jpsb04.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 ソフトバンク C05 500Mbps 1x Netflix
+  password: 8HFUas
+  port: 35455
+  server: jpsb05.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 ソフトバンク C06 500Mbps 1x Netflix
+  password: 8HFUas
+  port: 35455
+  server: jpsb06.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 ソフトバンク C07 500Mbps 1x Netflix
+  password: 8HFUas
+  port: 35455
+  server: jpsb07.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 ソフトバンク C08 500Mbps 1x Netflix
+  password: 8HFUas
+  port: 35455
+  server: jpsb08.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 ソフトバンク C09 500Mbps 1x Netflix
+  password: 8HFUas
+  port: 35455
+  server: jpsb09.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 ソフトバンク C10 500Mbps 1x Netflix
+  password: 8HFUas
+  port: 35455
+  server: jpsb10.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 ソフトバンク C11 500Mbps 1x Netflix
+  password: 8HFUas
+  port: 35455
+  server: jpsb11.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 ソフトバンク C12 500Mbps 1x Netflix
+  password: 8HFUas
+  port: 35455
+  server: jpsb12.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇯🇵 海外连接 日本
+  password: 8HFUas
+  port: 35455
+  server: 103.152.227.147
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 纯IPV6接入
+  password: 8HFUas
+  port: 35455
+  server: 2001:e42:102:1523:160:16:95:158
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇺🇸 美国实验性 IEPL 中继 C01
+  password: 8HFUas
+  port: 35455
+  server: us06.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇺🇸 美国实验性 IEPL 中继 C02
+  password: 8HFUas
+  port: 35455
+  server: us07.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇺🇸 美国实验性 IEPL 中继 C03
+  password: 8HFUas
+  port: 35455
+  server: us08.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇺🇸 美国实验性 IEPL 中继 C04
+  password: 8HFUas
+  port: 35455
+  server: us09.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇺🇸 美国实验性 IEPL 中继 C05
+  password: 8HFUas
+  port: 35455
+  server: us10.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇺🇸 美国高级 IEPL 中继 C01
+  password: 8HFUas
+  port: 35455
+  server: us01.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇺🇸 美国高级 IEPL 中继 C02
+  password: 8HFUas
+  port: 35455
+  server: us02.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇺🇸 美国高级 IEPL 中继 C03
+  password: 8HFUas
+  port: 35455
+  server: us03.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇺🇸 美国高级 IEPL 中继 C04
+  password: 8HFUas
+  port: 35455
+  server: us04.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇺🇸 美国高级 IEPL 中继 C05
+  password: 8HFUas
+  port: 35455
+  server: us05.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 京畿道板桥 原生游戏解锁 C 01
+  password: 8HFUas
+  port: 35455
+  server: krgame01.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 京畿道板桥 原生游戏解锁 C 02
+  password: 8HFUas
+  port: 35455
+  server: krgame02.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 京畿道板桥 原生游戏解锁 C 03
+  password: 8HFUas
+  port: 35455
+  server: krgame03.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 京畿道板桥 原生游戏解锁 C 04
+  password: 8HFUas
+  port: 35455
+  server: krgame04.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 京畿道板桥 原生游戏解锁 C 05
+  password: 8HFUas
+  port: 35455
+  server: krgame05.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 京畿道板桥 原生游戏解锁 C 06
+  password: 8HFUas
+  port: 35455
+  server: krgame06.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 京畿道板桥 原生游戏解锁 C 07
+  password: 8HFUas
+  port: 35455
+  server: krgame07.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 京畿道板桥 原生游戏解锁 C 08
+  password: 8HFUas
+  port: 35455
+  server: krgame08.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 京畿道板桥 原生游戏解锁 C 09
+  password: 8HFUas
+  port: 35455
+  server: krgame09.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 京畿道板桥 原生游戏解锁 C 10
+  password: 8HFUas
+  port: 35455
+  server: krgame10.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 전라북도 전주시 商宽 C 01
+  password: 8HFUas
+  port: 35455
+  server: kr06.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 전라북도 전주시 商宽 C 02
+  password: 8HFUas
+  port: 35455
+  server: kr07.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 전라북도 전주시 商宽 C 03
+  password: 8HFUas
+  port: 35455
+  server: kr08.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 전라북도 전주시 商宽 C 04
+  password: 8HFUas
+  port: 35455
+  server: kr09.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 전라북도 전주시 商宽 C 05
+  password: 8HFUas
+  port: 35455
+  server: kr10.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 15
+  password: 8HFUas
+  port: 35455
+  server: 118.184.136.130
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 16
+  password: 8HFUas
+  port: 35455
+  server: 118.184.136.131
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 油尖旺御金·国峯 名氣通電訊 C01
+  password: 8HFUas
+  port: 35455
+  server: hkhe01.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 油尖旺御金·国峯 名氣通電訊 C02
+  password: 8HFUas
+  port: 35455
+  server: hkhe02.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 油尖旺御金·国峯 名氣通電訊 C03
+  password: 8HFUas
+  port: 35455
+  server: hkhe03.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 油尖旺御金·国峯 名氣通電訊 C04
+  password: 8HFUas
+  port: 35455
+  server: hkhe04.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 油尖旺御金·国峯 名氣通電訊 C06
+  password: 8HFUas
+  port: 35455
+  server: hkhe06.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 油尖旺御金·国峯 名氣通電訊 C07
+  password: 8HFUas
+  port: 35455
+  server: hkhe07.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 油尖旺御金·国峯 名氣通電訊 C08
+  password: 8HFUas
+  port: 35455
+  server: hkhe08.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 油尖旺御金·国峯 名氣通電訊 C09
+  password: 8HFUas
+  port: 35455
+  server: hkhe09.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 油尖旺御金·国峯 環球全域電訊 C01
+  password: 8HFUas
+  port: 35455
+  server: hgc01.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 油尖旺御金·国峯 環球全域電訊 C02
+  password: 8HFUas
+  port: 35455
+  server: hgc02.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 油尖旺御金·国峯 環球全域電訊 C03
+  password: 8HFUas
+  port: 35455
+  server: hgc03.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 油尖旺御金·国峯 環球全域電訊 C04
+  password: 8HFUas
+  port: 35455
+  server: hgc04.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 油尖旺御金·国峯 環球全域電訊 C05
+  password: 8HFUas
+  port: 35455
+  server: hgc05.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 油尖旺御金·国峯 環球全域電訊 C06
+  password: 8HFUas
+  port: 35455
+  server: hgc06.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 油尖旺御金·国峯 環球全域電訊 C07
+  password: 8HFUas
+  port: 35455
+  server: hgc07.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 油尖旺御金·国峯 環球全域電訊 C08
+  password: 8HFUas
+  port: 35455
+  server: hgc08.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 油尖旺御金·国峯 環球全域電訊 C09
+  password: 8HFUas
+  port: 35455
+  server: hgc09.htz.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 油尖旺御金·国峯 環球全域電訊 C10
+  password: 8HFUas
+  port: 35455
+  server: hgc10.htz.wtf
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: '🇸🇬 最新官网: we7.moe'
+  network: ws
+  port: 53
+  server: 127.0.0.1
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇳 禁止回国
+  network: ws
+  port: 53
+  server: 127.0.0.1
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: '-----以下为国内区-----'
+  network: ws
+  port: 53
+  server: 127.0.0.1
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇳 徐州移动 01 | ws
+  network: ws
+  port: 80
+  server: 223.113.54.140
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇳 徐州移动 02 | tcp
+  port: 80
+  server: 223.113.54.141
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇳 徐州移动 03 | ws | ipv6
+  network: ws
+  port: 80
+  server: 2409:8c20:26c2:4:c000::36
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇳 徐州移动 04 | tcp | ipv6
+  port: 80
+  server: 2409:8c20:26c2:4:c000::37
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇳 镇江联通 01 | ws
+  network: ws
+  port: 80
+  server: 103.56.63.19
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇳 镇江联通 02 | tcp
+  port: 80
+  server: 103.56.63.253
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 武汉电信 01 | ws
+  network: ws
+  port: 80
+  server: 61.184.8.51
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 武汉电信 02 | tcp
+  port: 80
+  server: 61.184.8.62
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 济南联通 01 | ws
+  network: ws
+  port: 80
+  server: 60.215.152.136
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 济南联通 02 | tcp
+  port: 80
+  server: 60.215.152.142
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: '-----以下为国际区-----'
+  network: ws
+  port: 53
+  server: 127.0.0.1
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 01 | ws
+  network: ws
+  port: 80
+  server: d1d71439-993f-6cfc-ab7a-25a1945b45da.castlepeakhospital.moe
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 02 | ws
+  network: ws
+  port: 80
+  server: a8606b8a-7412-19ea-dd7f-2d29cf247dcb.castlepeakhospital.moe
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 03 | ws
+  network: ws
+  port: 80
+  server: 619d3460-e201-be79-d7f9-b8c85f7ba8e4.castlepeakhospital.moe
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 04 | tcp
+  port: 80
+  server: 8c082111-0e9d-16eb-7101-1210cf96ac0a.castlepeakhospital.moe
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 05 | tcp
+  port: 80
+  server: 58c54bd5-b4c6-f7bd-9d71-9914773afafc.castlepeakhospital.moe
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 06 | tcp
+  port: 80
+  server: 1c7dcd56-033d-e1bd-156f-3196b843cda6.castlepeakhospital.moe
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇼 台湾 01 | ws
+  network: ws
+  port: 80
+  server: 5522dbbd-d0d8-6cf0-95cf-754584bf28bf.castlepeakhospital.moe
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇼 台湾 02 | ws
+  network: ws
+  port: 80
+  server: a6f0b439-712e-fd63-520c-5180966786e6.castlepeakhospital.moe
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇼 台湾 03 | tcp
+  port: 80
+  server: 9a3c58ae-6c4a-d94a-9a83-030ab81a0880.castlepeakhospital.moe
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇼 台湾 04 | tcp
+  port: 80
+  server: be633e22-3cb1-d69d-3bde-9c7940fafa11.castlepeakhospital.moe
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 01 | ws
+  network: ws
+  port: 80
+  server: 3fc8cee7-4c89-a363-264d-6cbc4ddf92fc.castlepeakhospital.moe
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 02 | ws
+  network: ws
+  port: 80
+  server: f26ce00c-b544-2353-9c8d-609bdab4eb4d.castlepeakhospital.moe
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 03 | tcp
+  port: 80
+  server: 945b5a1e-e0bc-428f-9971-1693ff81e5db.castlepeakhospital.moe
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 04 | tcp
+  port: 80
+  server: ebce812f-df59-637f-33a1-9298cc702970.castlepeakhospital.moe
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 01 | ws
+  network: ws
+  port: 80
+  server: a41da1ab-5ae0-fa3e-eabe-70e680bdf1bf.castlepeakhospital.moe
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 02 | ws
+  network: ws
+  port: 80
+  server: 2884cd7b-1cc6-5409-6c6d-558efa46a066.castlepeakhospital.moe
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 03 | tcp
+  port: 80
+  server: f2e8e37e-63a9-d4ba-0209-89c8aefbc495.castlepeakhospital.moe
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 04 | tcp
+  port: 80
+  server: c0c818cf-bc4a-d3f0-94ea-636c325ed650.castlepeakhospital.moe
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 01 | ws
+  network: ws
+  port: 20000
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 02 | tcp
+  port: 20001
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇭 泰国 01 | ws
+  network: ws
+  port: 20006
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇭 泰国 02 | tcp
+  port: 20007
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 01 | ws
+  network: ws
+  port: 20012
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 02 | ws
+  network: ws
+  port: 20013
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 03 | ws
+  network: ws
+  port: 20014
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 04 | tcp
+  port: 20015
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 05 | tcp
+  port: 20016
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 06 | tcp
+  port: 20017
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 01 | ws
+  network: ws
+  port: 20022
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 02 | tcp
+  port: 20023
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇦 乌克兰 01 | ws
+  network: ws
+  port: 20024
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇦 乌克兰 02 | tcp
+  port: 20025
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇷 土耳其 01 | ws
+  network: ws
+  port: 20026
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇷 土耳其 02 | tcp
+  port: 20027
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 伊拉克 01 | ws
+  network: ws
+  port: 20028
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 伊拉克 02 | tcp
+  port: 20029
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇩🇪 德国 01 | ws
+  network: ws
+  port: 20030
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇩🇪 德国 02 | tcp
+  port: 20031
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 01 | ws
+  network: ws
+  port: 20032
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 02 | tcp
+  port: 20033
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇫🇮 芬兰 01 | ws
+  network: ws
+  port: 20036
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇫🇮 芬兰 02 | tcp
+  port: 20037
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇱🇺 卢森堡 01 | ws
+  network: ws
+  port: 20046
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇱🇺 卢森堡 02 | tcp
+  port: 20047
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇦🇷 阿根廷 01 | ws
+  network: ws
+  port: 20056
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇦🇷 阿根廷 02 | ws
+  network: ws
+  port: 20057
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  tls: false
+  type: vmess
+  uuid: f9ebbbb6-103e-46fe-9005-6dca2b63f9f5
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
