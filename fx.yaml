@@ -1577,14 +1577,6 @@ proxies:
   server: 118.184.136.61
   type: ss
   udp: true
-- cipher: rc4-md5
-  client-fingerprint: chrome
-  name: 🇭🇰 香港 14
-  password: 8HFUas
-  port: 35455
-  server: 118.184.136.62
-  type: ss
-  udp: true
 - client-fingerprint: random
   name: 🇸🇬 新加坡 01
   network: ws
@@ -1786,94 +1778,6 @@ proxies:
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇸🇬 新加坡 18
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: sg1.helloco.xyz
-  skip-cert-verify: false
-  sni: sg1.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇸🇬 新加坡 19
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: sg2.helloco.xyz
-  skip-cert-verify: false
-  sni: sg2.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇸🇬 新加坡 20
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: sg3.helloco.xyz
-  skip-cert-verify: false
-  sni: sg3.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇸🇬 新加坡 21
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: sg4.helloco.xyz
-  skip-cert-verify: false
-  sni: sg4.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇸🇬 新加坡 22
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: sg5.helloco.xyz
-  skip-cert-verify: false
-  sni: sg5.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇸🇬 新加坡 23
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: sg6.helloco.xyz
-  skip-cert-verify: false
-  sni: sg6.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇸🇬 新加坡 24
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: sg7.helloco.xyz
-  skip-cert-verify: false
-  sni: sg7.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇸🇬 新加坡 25
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: sg8.helloco.xyz
-  skip-cert-verify: false
-  sni: sg8.helloco.xyz
-  type: hysteria2
-  up: 1000
 - client-fingerprint: random
   name: 🇰🇷 韩国 01
   network: ws
@@ -2018,50 +1922,6 @@ proxies:
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇰🇷 韩国 13
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: kr1.helloco.xyz
-  skip-cert-verify: false
-  sni: kr1.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇰🇷 韩国 14
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: kr2.helloco.xyz
-  skip-cert-verify: false
-  sni: kr2.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇰🇷 韩国 15
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: kr3.helloco.xyz
-  skip-cert-verify: false
-  sni: kr3.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇰🇷 韩国 16
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: kr4.helloco.xyz
-  skip-cert-verify: false
-  sni: kr4.helloco.xyz
-  type: hysteria2
-  up: 1000
 - auth: 8e3ff414-608b-407f-b404-75a760e05a54
   client-fingerprint: chrome
   name: 🇺🇸 美国 01
@@ -2107,50 +1967,6 @@ proxies:
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇺🇸 美国 06
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: us1.helloco.xyz
-  skip-cert-verify: false
-  sni: us1.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇺🇸 美国 07
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: us2.helloco.xyz
-  skip-cert-verify: false
-  sni: us2.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇺🇸 美国 08
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: us3.helloco.xyz
-  skip-cert-verify: false
-  sni: us3.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇺🇸 美国 09
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: us4.helloco.xyz
-  skip-cert-verify: false
-  sni: us4.helloco.xyz
-  type: hysteria2
-  up: 1000
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 🇺🇦 乌克兰 01
@@ -2172,28 +1988,6 @@ proxies:
   port: 989
   server: 134.255.210.49
   type: ss
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇩🇪 德国 02
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: de1.helloco.xyz
-  skip-cert-verify: false
-  sni: de1.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇩🇪 德国 03
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: de2.helloco.xyz
-  skip-cert-verify: false
-  sni: de2.helloco.xyz
-  type: hysteria2
-  up: 1000
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 🇮🇹 意大利 01
@@ -2215,38 +2009,22 @@ proxies:
   port: 989
   server: 185.193.49.88
   type: ss
-- alpn:
-  - http/1.1
-  client-fingerprint: chrome
+- client-fingerprint: chrome
   name: ‍☠️ 官网：xship.top 01
-  network: ws
-  password: 6d898085-bf6a-449b-9763-0073d4dc2ce0
+  password: de90778477bc38ceab36383f8dd00ee8
   port: 443
-  server: BOston01.852224.GgfF.Net
-  skip-cert-verify: false
-  sni: bOStoN01.890606.GgfF.neT
+  server: 88.119.175.241
+  skip-cert-verify: true
+  sni: www.cloudflare.com
   type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: bOStoN01.890606.GgfF.neT
-    path: /Q3cz2AWTPMCtDGV1L6R1Jz18eIUw
-- alpn:
-  - http/1.1
-  client-fingerprint: chrome
+- client-fingerprint: chrome
   name: ‍☠️ 🔰 免费订阅，此节点无风控 01
-  network: ws
-  password: 6d898085-bf6a-449b-9763-0073d4dc2ce0
+  password: de90778477bc38ceab36383f8dd00ee8
   port: 443
-  server: BOston01.852224.GgfF.Net
-  skip-cert-verify: false
-  sni: bOStoN01.890606.GgfF.neT
+  server: 88.119.175.241
+  skip-cert-verify: true
+  sni: www.cloudflare.com
   type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: bOStoN01.890606.GgfF.neT
-    path: /Q3cz2AWTPMCtDGV1L6R1Jz18eIUw
 - auth: MyU8KnXVUw2axvzzW6GFXRka
   client-fingerprint: chrome
   name: 🇯🇵 日本 01
@@ -2283,94 +2061,6 @@ proxies:
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇯🇵 日本 05
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: jp1.helloco.xyz
-  skip-cert-verify: false
-  sni: jp1.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇯🇵 日本 06
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: jp2.helloco.xyz
-  skip-cert-verify: false
-  sni: jp2.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇯🇵 日本 07
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: jp3.helloco.xyz
-  skip-cert-verify: false
-  sni: jp3.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇯🇵 日本 08
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: jp4.helloco.xyz
-  skip-cert-verify: false
-  sni: jp4.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇯🇵 日本 09
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: jp5.helloco.xyz
-  skip-cert-verify: false
-  sni: jp5.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇯🇵 日本 10
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: jp6.helloco.xyz
-  skip-cert-verify: false
-  sni: jp6.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇯🇵 日本 11
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: jp7.helloco.xyz
-  skip-cert-verify: false
-  sni: jp7.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇯🇵 日本 12
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: jp8.helloco.xyz
-  skip-cert-verify: false
-  sni: jp8.helloco.xyz
-  type: hysteria2
-  up: 1000
 - auth: MyU8KnXVUw2axvzzW6GFXRka
   client-fingerprint: chrome
   name: 🇸🇪 瑞典 01
@@ -2443,61 +2133,6 @@ proxies:
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇹🇼 台湾 01
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: tw.helloco.xyz
-  skip-cert-verify: false
-  sni: tw.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇹🇼 台湾 02
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: tw.helloco.xyz
-  skip-cert-verify: false
-  sni: tw.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇹🇼 台湾 03
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: tw.helloco.xyz
-  skip-cert-verify: false
-  sni: tw.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇹🇼 台湾 04
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: tw.helloco.xyz
-  skip-cert-verify: false
-  sni: tw.helloco.xyz
-  type: hysteria2
-  up: 1000
-- auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  client-fingerprint: chrome
-  down: 1000
-  name: 🇹🇼 台湾 05
-  password: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
-  port: 30000
-  server: tw.helloco.xyz
-  skip-cert-verify: false
-  sni: tw.helloco.xyz
-  type: hysteria2
-  up: 1000
 - cipher: aes-128-gcm
   client-fingerprint: chrome
   name: 🇭🇰 Hongkong 021
@@ -4587,6 +4222,14 @@ proxies:
   udp: true
 - cipher: rc4-md5
   client-fingerprint: chrome
+  name: 🇭🇰 香港 14
+  password: 8HFUas
+  port: 35455
+  server: 118.184.136.62
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
   name: 🇭🇰 香港 15
   password: 8HFUas
   port: 35455
@@ -4745,3 +4388,157 @@ proxies:
   server: hgc10.htz.wtf
   type: ss
   udp: true
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇸🇬 81-新加坡-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30811
+  server: bgp.u17.xyz
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇸🇬 99-新加坡-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30991
+  server: bgp.u17.xyz
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 98-英国-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30981
+  server: bgp.u17.xyz
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇸🇬 97-新加坡-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30971
+  server: bgp.u17.xyz
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇺🇸 91-美国-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30911
+  server: bgp.u17.xyz
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇺🇸 96-美国-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30961
+  server: bgp.u17.xyz
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇯🇵 95-日本-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30951
+  server: bgp.u17.xyz
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇸🇬 94-新加坡-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30941
+  server: bgp.u17.xyz
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇰🇷 93-韩国-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30931
+  server: bgp.u17.xyz
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇺🇸 90-美国-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30901
+  server: bgp.u17.xyz
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇺🇸 89-美国-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30891
+  server: bgp.u17.xyz
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇯🇵 88-日本-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30881
+  server: bgp.u17.xyz
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇸🇬 87-新加坡-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30871
+  server: bgp.u17.xyz
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇰🇷 86-韩国-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30861
+  server: bgp.u17.xyz
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇫🇷 85-法国-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30851
+  server: bgp.u17.xyz
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇩🇪 84-德国-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30841
+  server: bgp.u17.xyz
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇸🇬 83-新加坡-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30831
+  server: bgp.u17.xyz
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇺🇸 82-美国-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30821
+  server: m81.u17.xyz
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇸🇬 80-新加坡-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30801
+  server: bgp.u17.xyz
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 79-英国-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30791
+  server: bgp.u17.xyz
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇹🇭 77-泰国-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30771
+  server: m81.u17.xyz
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇸🇬 92-新加坡-专线
+  password: d2cb5677-5e2d-42ab-9350-8c0ab9a62730
+  port: 30921
+  server: bgp.u17.xyz
+  type: ss
