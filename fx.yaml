@@ -1562,27 +1562,59 @@ proxies:
   sni: us4.helloco.xyz
   type: hysteria2
   up: 1000
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
+- client-fingerprint: chrome
   name: 🇺🇸 美国 13
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9831
-  server: us5.dexlos.com
-  sni: us5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
+  network: ws
+  port: 80
+  server: 104.16.86.2
+  tls: false
+  type: vless
+  uuid: 9f0eae34-97c1-4c07-8a55-438379981334
+  ws-opts:
+    headers:
+      Host: snowy-bush-4df8-ppal03.toxebex651.workers.dev
+    path: /?ed=2560
+- client-fingerprint: chrome
   name: 🇺🇸 美国 14
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3409
-  server: us2.dexlos.com
-  sni: us2.dexlos.com
-  type: hysteria2
+  network: ws
+  port: 80
+  server: 104.16.1.47
+  servername: flat-bread-ddb6-ppal03.joriy39169.workers.dev
+  tls: false
+  type: vless
+  uuid: b550a101-63fe-4862-bfd3-8b87bb4168dd
+  ws-opts:
+    headers:
+      Host: flat-bread-ddb6-ppal03.joriy39169.workers.dev
+    path: /?ed=2560
+- alterId: 2
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 15
+  network: ws
+  port: 22641
+  server: tk.hzlt.tkddns.xyz
+  servername: tk.hzlt.tkddns.xyz
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
+  ws-opts:
+    headers:
+      Host: zxjp-a.tkong.cc
+    path: /
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 16
+  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
+  port: 19780
+  server: usax2.155001.xyz
+  type: ss
   udp: true
 - cipher: aes-128-gcm
   client-fingerprint: chrome
-  name: 🇺🇸 美国 15
+  name: 🇺🇸 美国 17
   password: Sj10bnYDe7w6V29E
   plugin: obfs
   plugin-opts:
@@ -1592,305 +1624,128 @@ proxies:
   server: east.inmysecretlife.xyz
   type: ss
   udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 16
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3672
-  server: us2.dexlos.com
-  sni: us2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 17
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9904
-  server: us5.dexlos.com
-  sni: us5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
+- client-fingerprint: chrome
   name: 🇺🇸 美国 18
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7176
-  server: us4.dexlos.com
-  sni: us4.dexlos.com
-  type: hysteria2
-  udp: true
+  network: ws
+  port: 80
+  server: 104.16.178.238
+  servername: little-bird-a235-ppal03.fosawaw121.workers.dev
+  tls: false
+  type: vless
+  uuid: d4eddaf9-a660-4905-b835-cad98677b380
+  ws-opts:
+    headers:
+      Host: little-bird-a235-ppal03.fosawaw121.workers.dev
+    path: /?ed=2560
 - client-fingerprint: chrome
   name: 🇺🇸 美国 19
   network: ws
   port: 80
-  server: 104.16.182.65
+  server: 104.24.186.156
   tls: false
   type: vless
-  uuid: f86586c2-3a4c-49c9-83ec-5ae43786d4f7
+  uuid: 6ff4726f-3650-4803-95eb-50b240f6ac75
   ws-opts:
     headers:
-      Host: dark-bonus-0f2f-ppal03.yapeyef825.workers.dev
-    path: /Telegram
+      Host: red-math-7092-ppal03.mewoco2522.workers.dev
+    path: /?ed=2560
 - client-fingerprint: chrome
   name: 🇺🇸 美国 20
   network: ws
-  port: 8880
-  server: 185.146.173.112
+  port: 80
+  server: 104.16.76.55
   tls: false
   type: vless
-  uuid: f6bd2c47-99da-4bca-bf70-7186aa9e7e06
+  uuid: 5d8bc42a-d345-4bd3-a844-4b90afc44670
   ws-opts:
     headers:
-      Host: photographipictureai.ir
-    path: /Telegram
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
+      Host: patient-shadow-baf1-ppal03.hohel98085.workers.dev
+    path: /?ed=2560
+- client-fingerprint: chrome
   name: 🇺🇸 美国 21
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3159
-  server: us2.dexlos.com
-  sni: us2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 22
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3901
-  server: us2.dexlos.com
-  sni: us2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 23
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3136
-  server: us2.dexlos.com
-  sni: us2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 24
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9130
-  server: us5.dexlos.com
-  sni: us5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 25
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9933
-  server: us5.dexlos.com
-  sni: us5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 26
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7078
-  server: us4.dexlos.com
-  sni: us4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 27
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7358
-  server: us4.dexlos.com
-  sni: us4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 28
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3883
-  server: us2.dexlos.com
-  sni: us2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 29
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9670
-  server: us5.dexlos.com
-  sni: us5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 30
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9137
-  server: us5.dexlos.com
-  sni: us5.dexlos.com
-  type: hysteria2
-  udp: true
-- alterId: 2
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 31
   network: ws
-  port: 22643
-  server: tk.hzlt.tkddns.xyz
-  servername: zxjp-c.tkong.cc
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
+  port: 8880
+  server: 154.83.2.230
+  tls: false
+  type: vless
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
   ws-opts:
     headers:
-      Host: zxjp-c.tkong.cc
+      Host: redw.pooriam.ir
     path: /
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 22
+  network: ws
+  port: 80
+  server: 172.67.189.174
+  tls: false
+  type: vless
+  uuid: 19b3cbba-e6ac-485a-9481-926a0415eab2
+  ws-opts:
+    headers:
+      Host: sHrill-tErm-639b.TageLIT414.workeRs.dEv
+    path: /
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 23
+  network: ws
+  port: 2095
+  server: 104.18.21.69
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: fuckingxijinping.xijinpingbigsb.workers.dev
+    path: /?ed=2560
 - cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 🇺🇸 美国 32
+  name: 🇺🇸 美国 24
   password: amazonskr05
   port: 443
-  server: 34.219.71.252
+  server: 34.211.230.161
   type: ss
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 33
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9363
-  server: us5.dexlos.com
-  sni: us5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 34
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7873
-  server: us4.dexlos.com
-  sni: us4.dexlos.com
-  type: hysteria2
   udp: true
 - client-fingerprint: chrome
-  name: 🇺🇸 美国 35
+  name: 🇺🇸 美国 25
   network: ws
   port: 443
-  server: 162.159.152.195
-  servername: vx.vs2024.us.kg
+  server: ny.360832.xyz
+  servername: nY.360832.xYz
   tls: true
   type: vless
-  udp: true
-  uuid: 55520747-311e-4015-83ce-be46e2060ce3
+  uuid: 5f5fe97a-73ee-4584-87cb-1e5cd510d572
   ws-opts:
     headers:
-      Host: vx.vs2024.us.kg
-    path: /?ed=2560
-- auth: pPgOLFwmkmYYBZi6q6ZjzK6gJTQ
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 36
-  password: pPgOLFwmkmYYBZi6q6ZjzK6gJTQ
-  port: 8243
-  server: 64.23.178.208
-  skip-cert-verify: true
-  sni: bing.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 37
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9709
-  server: us5.dexlos.com
-  sni: us5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 38
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3705
-  server: us2.dexlos.com
-  sni: us2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 39
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7721
-  server: us4.dexlos.com
-  sni: us4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 40
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9925
-  server: us5.dexlos.com
-  sni: us5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 41
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9198
-  server: us5.dexlos.com
-  sni: us5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 42
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7803
-  server: us4.dexlos.com
-  sni: us4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 43
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3334
-  server: us2.dexlos.com
-  sni: us2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 44
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3487
-  server: us2.dexlos.com
-  sni: us2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 45
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3083
-  server: us2.dexlos.com
-  skip-cert-verify: true
-  sni: us2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 46
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7690
-  server: us4.dexlos.com
-  sni: us4.dexlos.com
-  type: hysteria2
-  udp: true
+      Host: nY.360832.xYz
+    path: /mxgPEgOLj8iAp1tHdIGP3
 - client-fingerprint: chrome
-  name: 🇺🇸 美国 47
+  name: 🇺🇸 美国 26
+  network: ws
+  port: 2095
+  server: 156.238.18.163
+  tls: false
+  type: vless
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /TM-AZARBAYJAB1TM-AZARBAYJAB1TM-AZARBAYJAB1
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 27
+  network: ws
+  port: 8080
+  server: 185.174.138.197
+  servername: a.xn--i-sx6a60i.us.kg.
+  tls: false
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.xn--i-sx6a60i.us.kg.
+    path: /
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 28
   network: ws
   port: 8880
   server: 154.83.2.230
@@ -1903,196 +1758,147 @@ proxies:
     headers:
       Host: redw.pooriam.ir
     path: /@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 29
+  network: ws
+  port: 8880
+  server: 185.146.173.112
+  tls: false
+  type: vless
+  uuid: f6bd2c47-99da-4bca-bf70-7186aa9e7e06
+  ws-opts:
+    headers:
+      Host: photographipictureai.ir
+    path: /Telegram
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 30
+  password: exaxgqkKkd0TAMrCxeonWg==
+  port: 443
+  server: ustx004-cdn-route.couldflare-cdn.com
+  skip-cert-verify: false
+  tls: true
+  type: http
+  username: mrwdfNTD8M79LCukCieldrqZWqs=
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 31
+  network: ws
+  port: 443
+  server: cash.ns.cloudflare.com
+  servername: 69svy6.bestvpninuae.com
+  tls: true
+  type: vless
+  uuid: f9e9d4d9-c7ca-4211-82fe-8f4959215347
+  ws-opts:
+    headers:
+      Host: 69svy6.bestvpninuae.com
+    path: /wss
+- alterId: 2
+  cipher: auto
   client-fingerprint: chrome
-  name: 🇺🇸 美国 48
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3295
-  server: us2.dexlos.com
-  sni: us2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
+  name: 🇺🇸 美国 32
+  network: ws
+  port: 22643
+  server: tk.hzlt.tkddns.xyz
+  servername: zxjp-c.tkong.cc
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
+  ws-opts:
+    headers:
+      Host: zxjp-c.tkong.cc
+    path: /
+- alterId: 2
+  cipher: auto
   client-fingerprint: chrome
-  name: 🇺🇸 美国 49
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9348
-  server: us5.dexlos.com
-  sni: us5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 50
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7272
-  server: us4.dexlos.com
-  sni: us4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 51
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7112
-  server: us4.dexlos.com
-  sni: us4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 52
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7175
-  server: us4.dexlos.com
-  sni: us4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 53
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7619
-  server: us4.dexlos.com
-  sni: us4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 54
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3457
-  server: us2.dexlos.com
-  sni: us2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 55
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9341
-  server: us5.dexlos.com
-  sni: us5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 56
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3505
-  server: us2.dexlos.com
-  sni: us2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 57
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7197
-  server: us4.dexlos.com
-  sni: us4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 58
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9613
-  server: us5.dexlos.com
-  sni: us5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 59
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3819
-  server: us2.dexlos.com
-  sni: us2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 60
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7516
-  server: us4.dexlos.com
-  sni: us4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 61
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7141
-  server: us4.dexlos.com
-  sni: us4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 62
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3426
-  server: us2.dexlos.com
-  sni: us2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 63
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9247
-  server: us5.dexlos.com
+  name: 🇺🇸 美国 33
+  network: ws
+  port: 22642
+  server: tk.hzlt.tkddns.xyz
+  servername: tk.hzlt.tkddns.xyz
   skip-cert-verify: true
-  sni: us5.dexlos.com
-  type: hysteria2
+  tls: true
+  type: vmess
   udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
+  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
+  ws-opts:
+    headers:
+      Host: zxjp-b.tkong.cc
+    path: /
+- cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 🇺🇸 美国 64
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3011
-  server: us2.dexlos.com
-  sni: us2.dexlos.com
-  type: hysteria2
+  name: 🇺🇸 美国 34
+  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
+  port: 45056
+  server: usax.155001.xyz
+  type: ss
   udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 35
+  network: ws
+  port: 443
+  server: 162.159.153.170
+  servername: vx.vs2024.us.kg
+  tls: true
+  type: vless
+  udp: true
+  uuid: 55520747-311e-4015-83ce-be46e2060ce3
+  ws-opts:
+    headers:
+      Host: vx.vs2024.us.kg
+    path: /?ed=2560
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 36
+  network: tcp
+  port: 443
+  server: 135.148.152.97
+  servername: 147135001195.sec22org.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: ea286109-d20f-415e-849e-4af20ab04b65
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 37
+  network: ws
+  port: 443
+  server: ny.360832.xyz
+  servername: nY.360832.xYz
+  tls: true
+  type: vless
+  uuid: 5f5fe97a-73ee-4584-87cb-1e5cd510d572
+  ws-opts:
+    headers:
+      Host: nY.360832.xYz
+    path: /mxgPEgOLj8iAp1tHdIGP3
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 38
+  network: ws
+  port: 2087
+  server: 172.67.130.66
+  servername: wsxaa.aleppo-janinan.info
+  tls: true
+  type: vless
+  uuid: 3dc9015f-20cb-42d6-adab-55ce831bae61
+  ws-opts:
+    headers:
+      Host: wsxaa.aleppo-janinan.info
+    path: /morano
+- alterId: 0
+  cipher: auto
   client-fingerprint: chrome
-  name: 🇺🇸 美国 65
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9008
-  server: us5.dexlos.com
-  sni: us5.dexlos.com
-  type: hysteria2
+  name: 🇺🇸 美国 39
+  network: ws
+  port: 20013
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  skip-cert-verify: true
+  tls: false
+  type: vmess
   udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 66
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3595
-  server: us2.dexlos.com
-  sni: us2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 67
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9264
-  server: us5.dexlos.com
-  sni: us5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 68
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9151
-  server: us5.dexlos.com
-  sni: us5.dexlos.com
-  type: hysteria2
-  udp: true
+  uuid: 21c90669-193d-49d3-8e37-f5c1462eb134
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
 - cipher: rc4-md5
   client-fingerprint: chrome
   name: 🇭🇰 香港 01
@@ -2221,45 +2027,8 @@ proxies:
   server: 118.184.136.131
   type: ss
   udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
+- client-fingerprint: chrome
   name: 🇭🇰 香港 17
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9333
-  server: hk5.ddns-link-b5.uk
-  skip-cert-verify: true
-  sni: hk5.ddns-link-b5.uk
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇭🇰 香港 18
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7473
-  server: hk4.ddns-link-b5.uk
-  sni: hk4.ddns-link-b5.uk
-  type: hysteria2
-  udp: true
-- client-fingerprint: chrome
-  name: 🇭🇰 香港 19
-  password: 299beacf-37f0-41c6-a122-9260c75731bf
-  port: 49782
-  server: 41699d8ad5e758d2c6e42c1e7f40e820.v1.cac.node-is.green
-  skip-cert-verify: true
-  sni: hk12.bilibili.com
-  type: trojan
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇭🇰 香港 20
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9010
-  server: hk5.ddns-link-b5.uk
-  sni: hk5.ddns-link-b5.uk
-  type: hysteria2
-  udp: true
-- client-fingerprint: chrome
-  name: 🇭🇰 香港 21
   password: exaxgqkKkd0TAMrCxeonWg==
   port: 443
   server: hkre1-cdn-route.couldflare-cdn.com
@@ -2267,45 +2036,71 @@ proxies:
   tls: true
   type: http
   username: mrwdfNTD8M79LCukCieldrqZWqs=
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
+- alterId: 0
+  cipher: auto
   client-fingerprint: chrome
-  name: 🇭🇰 香港 22
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7173
-  server: hk4.ddns-link-b5.uk
-  sni: hk4.ddns-link-b5.uk
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
+  name: 🇭🇰 香港 18
+  port: 33311
+  server: gs.huamao888.top
+  tls: false
+  type: vmess
+  uuid: fa59f800-269d-4e2d-b29c-b4b9a570bbe0
+- cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 🇭🇰 香港 23
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 5536
-  server: hk3.ddns-link-b5.uk
-  sni: hk3.ddns-link-b5.uk
-  type: hysteria2
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 香港 24
-  password: Sj10bnYDe7w6V29E
-  plugin: obfs
-  plugin-opts:
-    host: 5c725c78c3.m.ctrip.com
-    mode: http
-  port: 10001
-  server: south.inmysecretlife.xyz
+  name: 🇭🇰 香港 19
+  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
+  port: 45763
+  server: newhks2x.155001.xyz
   type: ss
   udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
+- cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 🇭🇰 香港 25
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3286
-  server: hk2.ddns-link-b5.uk
-  sni: hk2.ddns-link-b5.uk
-  type: hysteria2
+  name: 🇭🇰 香港 20
+  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
+  port: 43202
+  server: newhks1x.155001.xyz
+  type: ss
   udp: true
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 21
+  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
+  port: 43922
+  server: newhkn4x.155001.xyz
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 22
+  network: ws
+  port: 80
+  server: d1d71439-993f-6cfc-ab7a-25a1945b45da.castlepeakhospital.moe
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 21c90669-193d-49d3-8e37-f5c1462eb134
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 香港 23
+  network: ws
+  port: 80
+  server: 619d3460-e201-be79-d7f9-b8c85f7ba8e4.castlepeakhospital.moe
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 21c90669-193d-49d3-8e37-f5c1462eb134
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
 - client-fingerprint: random
   name: 🇸🇬 新加坡 01
   network: ws
@@ -2476,7 +2271,7 @@ proxies:
   name: 🇸🇬 新加坡 14
   password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: starlink-sgp.2513142.xyz
+  server: starlink-sgp4.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
@@ -2494,7 +2289,7 @@ proxies:
   name: 🇸🇬 新加坡 16
   password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: starlink-sgp.2513142.xyz
+  server: starlink-sgp4.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
@@ -2595,118 +2390,57 @@ proxies:
   sni: sg8.helloco.xyz
   type: hysteria2
   up: 1000
-- auth: 4ce4d6a7-e47c-4d80-800c-bf874479c9b0
+- cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 🇸🇬 新加坡 26
-  password: 4ce4d6a7-e47c-4d80-800c-bf874479c9b0
-  port: 5001
-  server: jp-oracle.aikunapp.com
-  skip-cert-verify: true
-  sni: d1--cn-gotcha204-4.bilivideo.com
-  type: hysteria2
+  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
+  port: 44216
+  server: fang01.155001.xyz
+  type: ss
   udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
+- cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 🇸🇬 新加坡 27
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9620
-  server: sg5.dexlos.com
-  sni: sg5.dexlos.com
-  type: hysteria2
+  password: amazonskr05
+  port: 443
+  server: 13.215.141.135
+  type: ss
   udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
+- cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 🇸🇬 新加坡 28
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7551
-  server: sg4.dexlos.com
-  sni: sg4.dexlos.com
-  type: hysteria2
+  password: amazonskr05
+  port: 443
+  server: 54.169.183.172
+  type: ss
   udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
+- cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 🇸🇬 新加坡 29
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7600
-  server: sg4.dexlos.com
-  sni: sg4.dexlos.com
-  type: hysteria2
+  password: amazonskr05
+  port: 443
+  server: 54.255.138.185
+  type: ss
   udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
+- cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 🇸🇬 新加坡 30
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7508
-  server: sg4.dexlos.com
-  sni: sg4.dexlos.com
-  type: hysteria2
+  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
+  port: 47813
+  server: sg2x.155001.xyz
+  type: ss
   udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
+- cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 🇸🇬 新加坡 31
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7869
-  server: sg4.dexlos.com
-  sni: sg4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 32
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9599
-  server: sg5.dexlos.com
-  sni: sg5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 33
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7581
-  server: sg4.dexlos.com
-  sni: sg4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 34
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7829
-  server: sg4.dexlos.com
-  sni: sg4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 35
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9337
-  server: sg5.dexlos.com
-  sni: sg5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 36
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7632
-  server: sg4.dexlos.com
-  sni: sg4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 37
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 5997
-  server: sg3.dexlos.com
-  sni: sg3.dexlos.com
-  type: hysteria2
+  password: amazonskr05
+  port: 443
+  server: 13.212.52.106
+  type: ss
   udp: true
 - cipher: aes-128-gcm
   client-fingerprint: chrome
-  name: 🇸🇬 新加坡 38
+  name: 🇸🇬 新加坡 32
   password: Sj10bnYDe7w6V29E
   plugin: obfs
   plugin-opts:
@@ -2718,267 +2452,59 @@ proxies:
   udp: true
 - cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 🇸🇬 新加坡 39
+  name: 🇸🇬 新加坡 33
   password: amazonskr05
   port: 443
-  server: 13.215.141.135
+  server: 54.254.138.40
   type: ss
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 40
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3578
-  server: sg2.dexlos.com
-  sni: sg2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 41
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 1001
-  server: sg1.dexlos.com
-  sni: sg1.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 42
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7368
-  server: sg4.dexlos.com
-  sni: sg4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 43
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7398
-  server: sg4.dexlos.com
-  sni: sg4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 44
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9746
-  server: sg5.dexlos.com
-  sni: sg5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 45
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7296
-  server: sg4.dexlos.com
-  sni: sg4.dexlos.com
-  type: hysteria2
   udp: true
 - cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 🇸🇬 新加坡 46
+  name: 🇸🇬 新加坡 34
   password: amazonskr05
   port: 443
-  server: 54.255.138.185
+  server: 54.179.211.228
   type: ss
   udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
+- cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 🇸🇬 新加坡 47
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9687
-  server: sg5.dexlos.com
-  sni: sg5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 48
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9847
-  server: sg5.dexlos.com
-  sni: sg5.dexlos.com
-  type: hysteria2
+  name: 🇸🇬 新加坡 35
+  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
+  port: 42762
+  server: sgx.155001.xyz
+  type: ss
   udp: true
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 🇸🇬 新加坡 49
+  name: 🇸🇬 新加坡 36
   network: ws
-  port: 12883
-  server: gtm1.ktmwan.net
+  port: 80
+  server: 3fc8cee7-4c89-a363-264d-6cbc4ddf92fc.castlepeakhospital.moe
+  skip-cert-verify: true
   tls: false
   type: vmess
   udp: true
-  uuid: 9207a3fc-18cc-4af7-ab1c-1c0000e57e37
+  uuid: 21c90669-193d-49d3-8e37-f5c1462eb134
   ws-opts:
     headers:
-      Host: gtm1.ktmwan.net
+      Host: tms.dingtalk.com
     path: /
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
+- cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 🇸🇬 新加坡 50
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7558
-  server: sg4.dexlos.com
-  sni: sg4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 51
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9996
-  server: sg5.dexlos.com
-  sni: sg5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 52
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7509
-  server: sg4.dexlos.com
-  sni: sg4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 53
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7703
-  server: sg4.dexlos.com
-  sni: sg4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 54
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7136
-  server: sg4.dexlos.com
-  sni: sg4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 55
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 1293
-  server: sg1.dexlos.com
-  sni: sg1.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 56
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9311
-  server: sg5.dexlos.com
-  sni: sg5.dexlos.com
-  type: hysteria2
+  name: 🇸🇬 新加坡 37
+  password: amazonskr05
+  port: 443
+  server: 54.169.64.98
+  type: ss
   udp: true
 - cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 🇸🇬 新加坡 57
+  name: 🇸🇬 新加坡 38
   password: amazonskr05
   port: 443
-  server: 47.129.54.127
+  server: 13.215.178.168
   type: ss
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 58
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9080
-  server: sg5.dexlos.com
-  sni: sg5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 59
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7582
-  server: sg4.dexlos.com
-  sni: sg4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 60
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9960
-  server: sg5.dexlos.com
-  sni: sg5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 61
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9447
-  server: sg5.dexlos.com
-  sni: sg5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 62
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7988
-  server: sg4.dexlos.com
-  sni: sg4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 63
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9160
-  server: sg5.dexlos.com
-  sni: sg5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 64
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9985
-  server: sg5.dexlos.com
-  sni: sg5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 65
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3219
-  server: sg2.dexlos.com
-  sni: sg2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 66
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9433
-  server: sg5.dexlos.com
-  sni: sg5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 67
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 5817
-  server: sg3.dexlos.com
-  sni: sg3.dexlos.com
-  type: hysteria2
   udp: true
 - client-fingerprint: random
   name: 🇰🇷 韩国 01
@@ -3168,16 +2694,36 @@ proxies:
   sni: kr4.helloco.xyz
   type: hysteria2
   up: 1000
-- cipher: aes-128-gcm
+- cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 🇰🇷 韩国 17
-  password: Sj10bnYDe7w6V29E
-  plugin: obfs
-  plugin-opts:
-    host: 5c725c78c3.m.ctrip.com
-    mode: http
-  port: 11071
-  server: shdata1.fc-sigma.xyz
+  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
+  port: 39773
+  server: krx2.155001.xyz
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 18
+  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
+  port: 48340
+  server: krx.155001.xyz
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 19
+  password: amazonskr05
+  port: 443
+  server: 43.203.122.90
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 20
+  password: amazonskr05
+  port: 443
+  server: 43.203.193.109
   type: ss
   udp: true
 - cipher: aes-256-cfb
@@ -3194,15 +2740,13 @@ proxies:
   port: 8388
   server: 185.234.64.35
   type: ss
-- client-fingerprint: chrome
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
   name: 🇺🇦 乌克兰 03
-  password: 299beacf-37f0-41c6-a122-9260c75731bf
-  port: 49782
-  server: 41699d8ad5e758d2c6e42c1e7f40e820.v1.cac.node-is.green
-  skip-cert-verify: true
-  sni: hk12.bilibili.com
-  type: trojan
-  udp: true
+  password: d0fa3a9b-2115-4cc0-a8f5-7f4f7caf6ec1
+  port: 8080
+  server: 85.90.194.200
+  type: ss
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 🇩🇪 德国 01
@@ -3232,9 +2776,66 @@ proxies:
   sni: de2.helloco.xyz
   type: hysteria2
   up: 1000
-- auth: MICPT1LLn6
+- auth: a3661fb3-b0ab-4022-ba5c-7c0ef0e01db8
   client-fingerprint: chrome
   name: 🇩🇪 德国 04
+  password: a3661fb3-b0ab-4022-ba5c-7c0ef0e01db8
+  port: 37732
+  server: 207.180.248.7
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria2
+  udp: true
+- alpn:
+  - h3,h2,http/1.1
+  client-fingerprint: chrome
+  name: 🇩🇪 德国 05
+  network: ws
+  port: 443
+  server: www.vpslook.com
+  servername: dewuxian.pai50288.uk
+  tls: true
+  type: vless
+  uuid: a8e84392-4d52-4886-afa6-76fdfaf49c86
+  ws-opts:
+    headers:
+      Host: dewuxian.pai50288.uk
+    path: /a8e84392
+- client-fingerprint: chrome
+  name: 🇩🇪 德国 06
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 18.159.91.234
+  sni: trojan.burgerip.co.uk
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇩🇪 德国 07
+  network: ws
+  port: 443
+  server: cdn.7zz.cn
+  servername: de.oldcloud.online
+  tls: true
+  type: vless
+  udp: true
+  uuid: b3903a4d-d9e7-4b7d-82a3-292116fbceb8
+  ws-opts:
+    headers:
+      Host: de.oldcloud.online
+    path: /
+- client-fingerprint: chrome
+  grpc-opts:
+    grpc-service-name: TEL@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-JOIN-@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-JOIN-@V2rayNG_SPDNet-TEL-@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-JOIN-@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet
+  name: 🇩🇪 德国 08
+  network: grpc
+  port: 48929
+  server: v2rayng.spdnet.online
+  tls: false
+  type: vless
+  uuid: 0cb0008e-72d6-432c-9c02-fc58da58f6ac
+- auth: MICPT1LLn6
+  client-fingerprint: chrome
+  name: 🇩🇪 德国 09
   obfs: salamander
   obfs-password: hsdirhrrkskdhebdjdj
   password: MICPT1LLn6
@@ -3243,16 +2844,47 @@ proxies:
   skip-cert-verify: true
   type: hysteria2
   udp: true
-- auth: a3661fb3-b0ab-4022-ba5c-7c0ef0e01db8
-  client-fingerprint: chrome
-  name: 🇩🇪 德国 05
-  password: a3661fb3-b0ab-4022-ba5c-7c0ef0e01db8
-  port: 37732
-  server: 207.180.248.7
-  skip-cert-verify: true
-  sni: www.bing.com
-  type: hysteria2
+- client-fingerprint: chrome
+  name: 🇩🇪 德国 10
+  network: ws
+  port: 8443
+  server: www.speedtest.net
+  servername: vpn.filmekade.ru
+  tls: true
+  type: vless
+  uuid: e03205d8-5ee4-432f-acab-34e16e844174
+  ws-opts:
+    headers:
+      Host: vpn.filmekade.ru
+    path: /telegram----------------v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---------------v2ryNG01---v2ryNG01--v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01?ed=2048
+- client-fingerprint: chrome
+  name: 🇩🇪 德国 11
+  network: ws
+  port: 443
+  server: www.vpslook.com
+  servername: dewuxian.pai50288.uk
+  tls: true
+  type: vless
   udp: true
+  uuid: a8e84392-4d52-4886-afa6-76fdfaf49c86
+  ws-opts:
+    headers:
+      Host: dewuxian.pai50288.uk
+    path: /a8e84392
+- client-fingerprint: chrome
+  name: 🇩🇪 德国 12
+  network: ws
+  port: 443
+  server: 193.9.49.241
+  servername: eua.kobtty.me
+  tls: true
+  type: vless
+  udp: true
+  uuid: cd01db3b-4b0a-4718-98dd-1d38f55be03f
+  ws-opts:
+    headers:
+      Host: eua.kobtty.me
+    path: /bing
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 🇮🇹 意大利 01
@@ -3267,6 +2899,20 @@ proxies:
   port: 989
   server: 37.143.129.230
   type: ss
+- client-fingerprint: firefox
+  grpc-opts:
+    grpc-service-name: vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl
+  name: 🇮🇹 意大利 03
+  network: grpc
+  port: 443
+  reality-opts:
+    public-key: gH_h3-mo0stXouQX61J22W14N9-RlRjwo6BQgAcUay4
+    short-id: c5508bd7
+  server: 209.227.230.243
+  servername: wordpress.org
+  tls: true
+  type: vless
+  uuid: 253f59da-b708-4404-cebe-3854aad88880
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 🇷🇴 罗马尼亚 01
@@ -3276,7 +2922,7 @@ proxies:
   type: ss
 - client-fingerprint: chrome
   name: ‍☠️ 官网：xship.top 01
-  password: a3998b7d5951c3fdd571fcd1bb040047
+  password: a9214df071231bdf28bd958dcfd38e8e
   port: 443
   server: 88.119.175.241
   skip-cert-verify: true
@@ -3284,7 +2930,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: ‍☠️ 🔰 免费订阅，此节点无风控 01
-  password: a3998b7d5951c3fdd571fcd1bb040047
+  password: a9214df071231bdf28bd958dcfd38e8e
   port: 443
   server: 88.119.175.241
   skip-cert-verify: true
@@ -3414,388 +3060,45 @@ proxies:
   sni: jp8.helloco.xyz
   type: hysteria2
   up: 1000
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
   name: 🇯🇵 日本 13
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9167
-  server: jp5.dexlos.com
-  sni: jp5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
+  network: tcp
+  port: 63134
+  reality-opts:
+    public-key: sJyLIpS_6XMDEDhIgr0Xq2yAI8LdUaktWyrUKIVMOSw
+  server: 156.246.89.131
+  servername: www.ebay.com
+  tls: true
+  type: vless
+  uuid: f212a7d3-7175-40bb-bba2-fde5668893e6
+- alterId: 0
+  cipher: auto
   client-fingerprint: chrome
   name: 🇯🇵 日本 14
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7712
-  server: jp4.dexlos.com
-  sni: jp4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
+  network: ws
+  port: 443
+  server: mix1.998998.best
+  servername: jp1-2.zfork.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 07b7b563-f868-49fb-943a-6425e3dc34d9
+  ws-opts:
+    headers:
+      Host: mix1.998998.best
+    path: /wpmckfpajfng?ed=2560
+- cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 🇯🇵 日本 15
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 5073
-  server: jp3.dexlos.com
-  sni: jp3.dexlos.com
-  type: hysteria2
+  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
+  port: 42110
+  server: digx.155001.xyz
+  type: ss
   udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 16
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7819
-  server: jp4.dexlos.com
-  sni: jp4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 17
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3483
-  server: jp2.dexlos.com
-  sni: jp2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 18
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9706
-  server: jp5.dexlos.com
-  sni: jp5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 19
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 5422
-  server: jp3.dexlos.com
-  sni: jp3.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 20
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3418
-  server: jp2.dexlos.com
-  sni: jp2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 21
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 5434
-  server: jp3.dexlos.com
-  sni: jp3.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 22
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 5993
-  server: jp3.dexlos.com
-  sni: jp3.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 23
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7535
-  server: jp4.dexlos.com
-  sni: jp4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 24
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7544
-  server: jp4.dexlos.com
-  sni: jp4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 25
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 5605
-  server: jp3.dexlos.com
-  sni: jp3.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 26
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3657
-  server: jp2.dexlos.com
-  sni: jp2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 27
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3205
-  server: jp2.dexlos.com
-  sni: jp2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 28
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7668
-  server: jp4.dexlos.com
-  sni: jp4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 29
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 5118
-  server: jp3.dexlos.com
-  sni: jp3.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 30
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 5886
-  server: jp3.dexlos.com
-  sni: jp3.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 31
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 5036
-  server: jp3.dexlos.com
-  sni: jp3.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 32
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7497
-  server: jp4.dexlos.com
-  sni: jp4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 33
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3509
-  server: jp2.dexlos.com
-  sni: jp2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 34
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7452
-  server: jp4.dexlos.com
-  sni: jp4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 35
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9509
-  server: jp5.dexlos.com
-  sni: jp5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 36
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7624
-  server: jp4.dexlos.com
-  sni: jp4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 37
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9204
-  server: jp5.dexlos.com
-  sni: jp5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 38
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7391
-  server: jp4.dexlos.com
-  sni: jp4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 39
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9581
-  server: jp5.dexlos.com
-  sni: jp5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 40
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7212
-  server: jp4.dexlos.com
-  sni: jp4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 41
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9354
-  server: jp5.dexlos.com
-  sni: jp5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 42
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9836
-  server: jp5.dexlos.com
-  sni: jp5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 43
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 5229
-  server: jp3.dexlos.com
-  sni: jp3.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 44
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3304
-  server: jp2.dexlos.com
-  sni: jp2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 45
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9422
-  server: jp5.dexlos.com
-  sni: jp5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 46
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9620
-  server: jp5.dexlos.com
-  sni: jp5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 47
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9152
-  server: jp5.dexlos.com
-  sni: jp5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 48
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7407
-  server: jp4.dexlos.com
-  sni: jp4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 49
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 5515
-  server: jp3.dexlos.com
-  sni: jp3.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 50
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 5729
-  server: jp3.dexlos.com
-  skip-cert-verify: true
-  sni: jp3.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 51
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9623
-  server: jp5.dexlos.com
-  sni: jp5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 52
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3598
-  server: jp2.dexlos.com
-  sni: jp2.dexlos.com
-  type: hysteria2
-  udp: true
-- client-fingerprint: chrome
-  name: 🇯🇵 日本 53
-  password: 5a81db08-7af3-49a4-b089-b7a5b2c24c38
-  port: 20230
-  server: jp007.421421.xyz
-  skip-cert-verify: true
-  sni: jp007.421421.xyz
-  type: trojan
-  udp: true
-- client-fingerprint: chrome
-  name: 🇯🇵 日本 54
-  password: exaxgqkKkd0TAMrCxeonWg==
-  port: 443
-  server: jp104-cdn-route.couldflare-cdn.com
-  skip-cert-verify: false
-  tls: true
-  type: http
-  username: mrwdfNTD8M79LCukCieldrqZWqs=
 - cipher: aes-128-gcm
   client-fingerprint: chrome
-  name: 🇯🇵 日本 55
+  name: 🇯🇵 日本 16
   password: Sj10bnYDe7w6V29E
   plugin: obfs
   plugin-opts:
@@ -3805,184 +3108,127 @@ proxies:
   server: east.inmysecretlife.xyz
   type: ss
   udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 56
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3786
-  server: jp2.dexlos.com
-  sni: jp2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 57
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 5171
-  server: jp3.dexlos.com
-  sni: jp3.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 58
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3489
-  server: jp2.dexlos.com
-  sni: jp2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 59
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9835
-  server: jp5.dexlos.com
-  sni: jp5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 60
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7946
-  server: jp4.dexlos.com
-  sni: jp4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 61
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 5257
-  server: jp3.dexlos.com
-  sni: jp3.dexlos.com
-  type: hysteria2
-  udp: true
+- client-fingerprint: chrome
+  name: 🇯🇵 日本 17
+  password: exaxgqkKkd0TAMrCxeonWg==
+  port: 443
+  server: jp104-cdn-route.couldflare-cdn.com
+  skip-cert-verify: false
+  tls: true
+  type: http
+  username: mrwdfNTD8M79LCukCieldrqZWqs=
+- client-fingerprint: chrome
+  name: 🇯🇵 日本 18
+  network: ws
+  port: 2095
+  server: 156.238.18.48
+  tls: false
+  type: vless
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /TM-AZARBAYJAB1TM-AZARBAYJAB1TM-AZARBAYJAB1
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 🇯🇵 日本 19
+  network: tcp
+  port: 54854
+  reality-opts:
+    public-key: 0FC6OFyfJJJoxulSNvQwDArwYigxABrcHmm0CPXsOlQ
+  server: 156.246.94.220
+  servername: www.amazon.com
+  tls: true
+  type: vless
+  uuid: fa59050b-1ca3-474b-aa1a-b7058d79f75b
+- client-fingerprint: chrome
+  name: 🇯🇵 日本 20
+  password: fa59f800-269d-4e2d-b29c-b4b9a570bbe0
+  port: 33345
+  server: bg.guangsu888.cc
+  skip-cert-verify: true
+  sni: bg.guangsu888.cc
+  type: trojan
 - cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 🇯🇵 日本 62
-  password: hGkQ6915tD
-  port: 15084
-  server: 120.232.81.50
+  name: 🇯🇵 日本 21
+  password: amazonskr05
+  port: 443
+  server: 18.183.167.187
   type: ss
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 63
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7733
-  server: jp4.dexlos.com
-  sni: jp4.dexlos.com
-  type: hysteria2
   udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 🇯🇵 日本 22
+  network: tcp
+  port: 62492
+  reality-opts:
+    public-key: NQEG-uVCTDaw6KN56MmbJpOJTZwC3ADYjKhiqwL9lRg
+  server: 156.246.95.253
+  servername: www.cloudflare.com
+  tls: true
+  type: vless
+  uuid: 0ca430a8-d4a9-41c2-9096-cbe073578843
+- cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 🇯🇵 日本 64
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7363
-  server: jp4.dexlos.com
-  sni: jp4.dexlos.com
-  type: hysteria2
+  name: 🇯🇵 日本 23
+  password: amazonskr05
+  port: 443
+  server: 54.178.115.191
+  type: ss
   udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 🇯🇵 日本 24
+  network: tcp
+  port: 4132
+  reality-opts:
+    public-key: tAiPw07Na8UsZ8m7dfTy9bDqqc-aVECs_-NLlGk-YQY
+  server: 45.192.249.184
+  servername: www.cloudflare.com
+  tls: true
+  type: vless
+  uuid: e190cf54-cabc-4585-88ec-0e80f72f1abf
+- cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 🇯🇵 日本 65
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 5553
-  server: jp3.dexlos.com
-  sni: jp3.dexlos.com
-  type: hysteria2
+  name: 🇯🇵 日本 25
+  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
+  port: 16914
+  server: gyjp3.155001.xyz
+  type: ss
   udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
+- cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 🇯🇵 日本 66
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 5983
-  server: jp3.dexlos.com
-  sni: jp3.dexlos.com
-  type: hysteria2
+  name: 🇯🇵 日本 26
+  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
+  port: 47985
+  server: lvjp.155001.xyz
+  type: ss
   udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
+- alterId: 0
+  cipher: auto
   client-fingerprint: chrome
-  name: 🇯🇵 日本 67
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9883
-  server: jp5.dexlos.com
-  sni: jp5.dexlos.com
-  type: hysteria2
+  name: 🇯🇵 日本 27
+  network: ws
+  port: 80
+  server: a41da1ab-5ae0-fa3e-eabe-70e680bdf1bf.castlepeakhospital.moe
+  skip-cert-verify: true
+  tls: false
+  type: vmess
   udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 68
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 3377
-  server: jp2.dexlos.com
-  sni: jp2.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 69
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7306
-  server: jp4.dexlos.com
-  sni: jp4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 70
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9000
-  server: jp5.dexlos.com
-  sni: jp5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 71
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 7790
-  server: jp4.dexlos.com
-  sni: jp4.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 72
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9558
-  server: jp5.dexlos.com
-  sni: jp5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 73
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 1585
-  server: jp1.dexlos.com
-  sni: jp1.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 74
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9247
-  server: jp5.dexlos.com
-  sni: jp5.dexlos.com
-  type: hysteria2
-  udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 75
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 5292
-  server: jp3.dexlos.com
-  sni: jp3.dexlos.com
-  type: hysteria2
-  udp: true
+  uuid: 21c90669-193d-49d3-8e37-f5c1462eb134
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /
+- client-fingerprint: chrome
+  name: 🇯🇵 日本 28
+  password: fa59f800-269d-4e2d-b29c-b4b9a570bbe0
+  port: 39346
+  server: bg.guangsu888.cc
+  skip-cert-verify: true
+  sni: bg.guangsu888.cc
+  type: trojan
 - auth: MyU8KnXVUw2axvzzW6GFXRka
   client-fingerprint: chrome
   name: 🇫🇷 法国 01
@@ -4019,6 +3265,37 @@ proxies:
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
+- client-fingerprint: chrome
+  name: 🇫🇷 法国 05
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 13.36.222.87
+  sni: trojan.burgerip.co.uk
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇫🇷 法国 06
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 51.44.132.12
+  skip-cert-verify: true
+  sni: 51.44.132.12
+  type: trojan
+  udp: true
+- alpn:
+  - h3
+  auth-str: dongtaiwang.com
+  auth_str: dongtaiwang.com
+  client-fingerprint: chrome
+  down: 55
+  name: 🇫🇷 法国 07
+  port: 44557
+  protocol: udp
+  server: 195.154.200.178
+  skip-cert-verify: true
+  sni: apple.com
+  type: hysteria
+  up: 11
 - auth: MyU8KnXVUw2axvzzW6GFXRka
   client-fingerprint: chrome
   name: 🇸🇪 瑞典 01
@@ -4055,6 +3332,15 @@ proxies:
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
+- client-fingerprint: chrome
+  name: 🇸🇪 瑞典 05
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 13.51.155.184
+  skip-cert-verify: true
+  sni: trojan.burgerip.co.uk
+  type: trojan
+  udp: true
 - auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   client-fingerprint: chrome
   down: 1000
@@ -4110,9 +3396,29 @@ proxies:
   sni: tw.helloco.xyz
   type: hysteria2
   up: 1000
+- client-fingerprint: chrome
+  name: 🇹🇼 台湾 06
+  network: ws
+  port: 2086
+  server: 195.85.59.95
+  tls: false
+  type: vless
+  uuid: a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5
+  ws-opts:
+    headers:
+      Host: 0210.uous1wog.workers.dev
+    path: /?ed=2560
+- client-fingerprint: chrome
+  name: 🇹🇼 台湾 07
+  password: fa59f800-269d-4e2d-b29c-b4b9a570bbe0
+  port: 33344
+  server: bg.guangsu888.cc
+  skip-cert-verify: true
+  sni: bg.guangsu888.cc
+  type: trojan
 - cipher: aes-128-gcm
   client-fingerprint: chrome
-  name: 🇹🇼 台湾 06
+  name: 🇹🇼 台湾 08
   password: Sj10bnYDe7w6V29E
   plugin: obfs
   plugin-opts:
@@ -4122,24 +3428,17 @@ proxies:
   server: gzdata1.fc-sigma.xyz
   type: ss
   udp: true
-- auth: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
+- cipher: aes-128-gcm
   client-fingerprint: chrome
-  name: 🇸🇬 ‍☠️ Power By BestSub 更新日期 03/10 01
-  password: 39BD176B-36E3-4446-B2E3-2F0E9C59DD83
-  port: 9979
-  server: hk5.ddns-link-b5.uk
-  sni: hk5.ddns-link-b5.uk
-  type: hysteria2
-  udp: true
-- auth: be758973-186d-46fe-8aa4-e017134fa291
-  client-fingerprint: chrome
-  name: 🇵🇱 波兰 01
-  password: be758973-186d-46fe-8aa4-e017134fa291
-  port: 4029
-  server: 31.186.87.211
-  skip-cert-verify: true
-  sni: www.bing.com
-  type: hysteria2
+  name: 🇦🇹 奥地利 01
+  password: Sj10bnYDe7w6V29E
+  plugin: obfs
+  plugin-opts:
+    host: 5c725c78c3.m.ctrip.com
+    mode: http
+  port: 11071
+  server: shdata1.fc-sigma.xyz
+  type: ss
   udp: true
 - cipher: rc4-md5
   client-fingerprint: chrome
@@ -4165,21 +3464,108 @@ proxies:
   server: ru03.fjk.wtf
   type: ss
   udp: true
-- client-fingerprint: chrome
-  name: 🇦🇹 奥地利 01
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 04
+  password: 8HFUas
+  port: 35455
+  server: ru04.fjk.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 05
+  password: 8HFUas
+  port: 35455
+  server: ru05.fjk.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 06
+  password: 8HFUas
+  port: 35455
+  server: ru06.fjk.wtf
+  type: ss
+  udp: true
+- auth: b79ef901-eae9-4cd3-b2e2-e9464ec0fa25
+  client-fingerprint: chrome
+  down: 100
+  name: 🇷🇺 俄罗斯 07
+  obfs: salamander
+  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
+  password: b79ef901-eae9-4cd3-b2e2-e9464ec0fa25
+  port: 33007
+  server: 185.22.152.236
+  skip-cert-verify: true
+  type: hysteria2
+  udp: true
+  up: 100
+- alpn:
+  - h3
+  auth-str: dongtaiwang.com
+  auth_str: dongtaiwang.com
+  client-fingerprint: chrome
+  down: 55
+  name: 🇷🇺 俄罗斯 08
+  port: 62003
+  protocol: udp
+  server: 176.32.35.226
+  skip-cert-verify: true
+  sni: apple.com
+  type: hysteria
+  up: 11
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 09
   network: ws
-  port: 2086
-  server: 212.183.88.84
+  port: 20022
+  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
+  skip-cert-verify: true
   tls: false
-  type: vless
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  type: vmess
+  udp: true
+  uuid: 21c90669-193d-49d3-8e37-f5c1462eb134
   ws-opts:
     headers:
-      Host: redw.pooriam.ir
-    path: /TABRIZ.NET, TABRIZ.NET, TABRIZ.NET, TABRIZ.NET, TABRIZ.NET, TABRIZ.NET/?ed=2048
+      Host: tms.dingtalk.com
+    path: /
+- client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 10
+  network: ws
+  port: 443
+  server: 193.9.49.241
+  servername: eua.kobtty.me
+  tls: true
+  type: vless
+  udp: true
+  uuid: cd01db3b-4b0a-4718-98dd-1d38f55be03f
+  ws-opts:
+    headers:
+      Host: eua.kobtty.me
+    path: /bing
+- client-fingerprint: chrome
+  name: 🇬🇧 英国 01
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 3.11.130.139
+  skip-cert-verify: true
+  sni: trojan.burgerip.co.uk
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇬🇧 英国 02
+  password: telegram-id-directvpn
+  port: 22222
+  server: 35.179.53.211
+  skip-cert-verify: true
+  sni: trojan.burgerip.co.uk
+  type: trojan
+  udp: true
 - cipher: aes-128-gcm
   client-fingerprint: chrome
-  name: 🇬🇧 英国 01
+  name: 🇬🇧 英国 03
   password: Sj10bnYDe7w6V29E
   plugin: obfs
   plugin-opts:
@@ -4190,10 +3576,35 @@ proxies:
   type: ss
   udp: true
 - client-fingerprint: chrome
-  name: 塞舌尔 01
+  name: 🇳🇱 荷兰 01
+  network: ws
+  port: 2053
+  server: 173.245.59.132
+  servername: holze.gt-ov.com
+  tls: true
+  type: vless
+  uuid: 62a96482-8a33-4190-a0c1-7a22bcb9effb
+  ws-opts:
+    headers:
+      Host: holze.gt-ov.com
+    path: /
+- client-fingerprint: chrome
+  name: 🇳🇱 荷兰 02
   network: ws
   port: 8880
-  server: 154.83.2.228
+  server: 45.131.211.182
+  tls: false
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: a.xn--i-sx6a60i.us.kg.
+    path: /Telegram
+- client-fingerprint: chrome
+  name: 🇳🇱 荷兰 03
+  network: ws
+  port: 2052
+  server: 45.149.12.183
   servername: redw.pooriam.ir
   tls: false
   type: vless
@@ -4202,7 +3613,58 @@ proxies:
   ws-opts:
     headers:
       Host: redw.pooriam.ir
-    path: /@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560
+    path: /TABRIZ.NET@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560
+- auth: be758973-186d-46fe-8aa4-e017134fa291
+  client-fingerprint: chrome
+  name: 🇵🇱 波兰 01
+  password: be758973-186d-46fe-8aa4-e017134fa291
+  port: 4029
+  server: 31.186.87.211
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria2
+  udp: true
+- client-fingerprint: chrome
+  name: 🇦🇺 澳大利亚 01
+  network: ws
+  port: 8880
+  server: 154.83.2.228
+  tls: false
+  type: vless
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /
+- client-fingerprint: chrome
+  name: 🇫🇮 芬兰 01
+  network: ws
+  port: 2083
+  server: www.parsvds.com
+  servername: bEAt.MIRaclETaxbiTS.Top.
+  tls: true
+  type: vless
+  uuid: cadf0483-c628-48d7-9267-514badbbdbb7
+  ws-opts:
+    headers:
+      Host: bEAt.MIRaclETaxbiTS.Top.
+    path: /2083/@VRayyNGvpn
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇻🇳 越南 01
+  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
+  port: 29900
+  server: vnx.155001.xyz
+  type: ss
+  udp: true
+- client-fingerprint: chrome
+  name: 🇮🇪 爱尔兰 01
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 99.80.111.216
+  sni: trojan.burgerip.co.uk
+  type: trojan
+  udp: true
 - cipher: aes-128-gcm
   client-fingerprint: chrome
   name: 🇭🇰 Hongkong 021
@@ -5734,30 +5196,6 @@ proxies:
   password: 8HFUas
   port: 35455
   server: sg10.htz.wtf
-  type: ss
-  udp: true
-- cipher: rc4-md5
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 04
-  password: 8HFUas
-  port: 35455
-  server: ru04.fjk.wtf
-  type: ss
-  udp: true
-- cipher: rc4-md5
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 05
-  password: 8HFUas
-  port: 35455
-  server: ru05.fjk.wtf
-  type: ss
-  udp: true
-- cipher: rc4-md5
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 06
-  password: 8HFUas
-  port: 35455
-  server: ru06.fjk.wtf
   type: ss
   udp: true
 - alterId: 1
