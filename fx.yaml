@@ -3,7 +3,7 @@ proxies:
   name: 🇩🇪 德国 | 1Gbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: de.oldcloud.online
   tls: true
   type: vless
@@ -16,7 +16,7 @@ proxies:
   name: 🇻🇳 越南 | 1Gbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: vn.oldcloud.online
   tls: true
   type: vless
@@ -29,7 +29,7 @@ proxies:
   name: 🇺🇸 美国 | 1Gbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: xz.4056860.xyz
   tls: true
   type: vless
@@ -42,7 +42,7 @@ proxies:
   name: 🇲🇳 蒙古 | 1Gbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: mn.4056860.xyz
   tls: true
   type: vless
@@ -55,7 +55,7 @@ proxies:
   name: 🇦🇶 南极 | 1Gbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: aq.oldcloud.online
   tls: true
   type: vless
@@ -68,7 +68,7 @@ proxies:
   name: 🇲🇴 澳门 | 1Gbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: mo.4056860.xyz
   tls: true
   type: vless
@@ -81,7 +81,7 @@ proxies:
   name: 🇰🇷 韩国 | 1Gbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: kr.4056860.xyz
   tls: true
   type: vless
@@ -94,7 +94,7 @@ proxies:
   name: 🇮🇸 冰岛 | 1Gbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: is.oldcloud.online
   tls: true
   type: vless
@@ -116,23 +116,10 @@ proxies:
       Host: 8.134.162.37
     path: /
 - client-fingerprint: chrome
-  name: 🇹🇼 台湾 | 30Mbps
-  network: ws
-  port: 443
-  server: hyun.cloudflare.182682.xyz
-  servername: tw.oldcloud.online
-  tls: true
-  type: vless
-  uuid: 21c87102-364a-4cfa-9188-b374bf5f2472
-  ws-opts:
-    headers:
-      Host: tw.oldcloud.online
-    path: /
-- client-fingerprint: chrome
   name: 帕劳 |  30Mbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: pw.9901157.xyz
   tls: true
   type: vless
@@ -145,7 +132,7 @@ proxies:
   name: 海地 |  30Mbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: ht.9901157.xyz
   tls: true
   type: vless
@@ -158,7 +145,7 @@ proxies:
   name: 🇦🇷 阿根廷  | 1Gbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: ar.oldcloud.online
   tls: true
   type: vless
@@ -171,7 +158,7 @@ proxies:
   name: 🇹🇷 土耳其 | 1Gbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: tr.oldcloud.online
   tls: true
   type: vless
@@ -184,7 +171,7 @@ proxies:
   name: 格陵兰  | 1Gbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: gl.9901154.xyz
   tls: true
   type: vless
@@ -197,7 +184,7 @@ proxies:
   name: 安道尔 | 100Mbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: ad.oldcloud.online
   tls: true
   type: vless
@@ -210,7 +197,7 @@ proxies:
   name: 索马里 | 30Mbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: so.9901157.xyz
   tls: true
   type: vless
@@ -223,7 +210,7 @@ proxies:
   name: 🇻🇦 梵蒂冈 | 30Mbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: ua.9901157.xyz
   tls: true
   type: vless
@@ -236,7 +223,7 @@ proxies:
   name: 阿富汗 |  30Mbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: af.9901157.xyz
   tls: true
   type: vless
@@ -249,7 +236,7 @@ proxies:
   name: 布隆迪 | 30Mbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: bi.9901157.xyz
   tls: true
   type: vless
@@ -262,7 +249,7 @@ proxies:
   name: 🇸🇬 新加坡 | 30Mbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: sg.9901157.xyz
   tls: true
   type: vless
@@ -275,7 +262,7 @@ proxies:
   name: 东帝汶 | 30Mbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: tl.4056860.xyz
   tls: true
   type: vless
@@ -288,7 +275,7 @@ proxies:
   name: 🇲🇩 摩尔多瓦 | 100Mbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: md.4056860.xyz
   tls: true
   type: vless
@@ -301,7 +288,7 @@ proxies:
   name: 🇲🇾 马来西亚 | 30Mbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: my.4056860.xyz
   tls: true
   type: vless
@@ -314,7 +301,7 @@ proxies:
   name: 🇳🇬 尼日利亚 | 30Mbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: ng.9901157.xyz
   tls: true
   type: vless
@@ -327,7 +314,7 @@ proxies:
   name: 毛里求斯 | 30Mbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: mu.4056860.xyz
   tls: true
   type: vless
@@ -340,7 +327,7 @@ proxies:
   name: 开曼群岛 | 30Mbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: ky.9901157.xyz
   tls: true
   type: vless
@@ -353,7 +340,7 @@ proxies:
   name: 直布罗陀 | 30Mbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: gi.9901157.xyz
   tls: true
   type: vless
@@ -366,7 +353,7 @@ proxies:
   name: 斯里兰卡 | 10Mbps
   network: ws
   port: 443
-  server: hyun.cloudflare.182682.xyz
+  server: 104.18.31.78
   servername: lk.4056860.xyz
   tls: true
   type: vless
@@ -1487,7 +1474,7 @@ proxies:
   name: 🇺🇸 美国 05
   password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: starlink-sfo2.2513142.xyz
+  server: starlink-sfo4.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
@@ -1496,7 +1483,7 @@ proxies:
   name: 🇺🇸 美国 06
   password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: starlink-sfo2.2513142.xyz
+  server: starlink-lax3.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
@@ -1505,7 +1492,7 @@ proxies:
   name: 🇺🇸 美国 07
   password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: starlink-sfo2.2513142.xyz
+  server: starlink-sfo4.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
@@ -1514,7 +1501,7 @@ proxies:
   name: 🇺🇸 美国 08
   password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: starlink-sfo2.2513142.xyz
+  server: starlink-lax3.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
@@ -1563,58 +1550,18 @@ proxies:
   type: hysteria2
   up: 1000
 - client-fingerprint: chrome
+  grpc-opts:
+    grpc-service-name: 2055vless
   name: 🇺🇸 美国 13
-  network: ws
-  port: 80
-  server: 104.16.86.2
+  network: grpc
+  port: 6067
+  server: 107.170.11.135
   tls: false
   type: vless
-  uuid: 9f0eae34-97c1-4c07-8a55-438379981334
-  ws-opts:
-    headers:
-      Host: snowy-bush-4df8-ppal03.toxebex651.workers.dev
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 14
-  network: ws
-  port: 80
-  server: 104.16.1.47
-  servername: flat-bread-ddb6-ppal03.joriy39169.workers.dev
-  tls: false
-  type: vless
-  uuid: b550a101-63fe-4862-bfd3-8b87bb4168dd
-  ws-opts:
-    headers:
-      Host: flat-bread-ddb6-ppal03.joriy39169.workers.dev
-    path: /?ed=2560
-- alterId: 2
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 15
-  network: ws
-  port: 22641
-  server: tk.hzlt.tkddns.xyz
-  servername: tk.hzlt.tkddns.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
-  ws-opts:
-    headers:
-      Host: zxjp-a.tkong.cc
-    path: /
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 16
-  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
-  port: 19780
-  server: usax2.155001.xyz
-  type: ss
-  udp: true
+  uuid: 391caf58-ca0e-4d36-96b4-79ca9743342b
 - cipher: aes-128-gcm
   client-fingerprint: chrome
-  name: 🇺🇸 美国 17
+  name: 🇺🇸 美国 14
   password: Sj10bnYDe7w6V29E
   plugin: obfs
   plugin-opts:
@@ -1624,281 +1571,141 @@ proxies:
   server: east.inmysecretlife.xyz
   type: ss
   udp: true
-- client-fingerprint: chrome
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 15
+  password: amazonskr05
+  port: 443
+  server: 34.219.71.252
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 16
+  password: amazonskr05
+  port: 443
+  server: 54.218.61.43
+  type: ss
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 17
+  port: 45052
+  server: haa.dashuai.cyou
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 28eb025d-3a26-4994-86fd-aa528cf8d3b3
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
   name: 🇺🇸 美国 18
-  network: ws
-  port: 80
-  server: 104.16.178.238
-  servername: little-bird-a235-ppal03.fosawaw121.workers.dev
+  port: 45052
+  server: haa.dashuai.cyou
   tls: false
-  type: vless
-  uuid: d4eddaf9-a660-4905-b835-cad98677b380
-  ws-opts:
-    headers:
-      Host: little-bird-a235-ppal03.fosawaw121.workers.dev
-    path: /?ed=2560
-- client-fingerprint: chrome
+  type: vmess
+  udp: true
+  uuid: 28eb025d-3a26-4994-86fd-aa528cf8d3b3
+- cipher: chacha20-ietf
+  client-fingerprint: chrome
   name: 🇺🇸 美国 19
-  network: ws
-  port: 80
-  server: 104.24.186.156
-  tls: false
-  type: vless
-  uuid: 6ff4726f-3650-4803-95eb-50b240f6ac75
-  ws-opts:
-    headers:
-      Host: red-math-7092-ppal03.mewoco2522.workers.dev
-    path: /?ed=2560
-- client-fingerprint: chrome
+  password: asd123456
+  port: 8388
+  server: 103.36.91.32
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
   name: 🇺🇸 美国 20
-  network: ws
-  port: 80
-  server: 104.16.76.55
-  tls: false
-  type: vless
-  uuid: 5d8bc42a-d345-4bd3-a844-4b90afc44670
-  ws-opts:
-    headers:
-      Host: patient-shadow-baf1-ppal03.hohel98085.workers.dev
-    path: /?ed=2560
+  password: amazonskr05
+  port: 443
+  server: 35.90.6.0
+  type: ss
 - client-fingerprint: chrome
   name: 🇺🇸 美国 21
   network: ws
   port: 8880
-  server: 154.83.2.230
+  server: 188.42.89.68
   tls: false
   type: vless
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: /
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 22
-  network: ws
-  port: 80
-  server: 172.67.189.174
-  tls: false
-  type: vless
-  uuid: 19b3cbba-e6ac-485a-9481-926a0415eab2
-  ws-opts:
-    headers:
-      Host: sHrill-tErm-639b.TageLIT414.workeRs.dEv
-    path: /
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 23
-  network: ws
-  port: 2095
-  server: 104.18.21.69
-  tls: false
-  type: vless
-  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-  ws-opts:
-    headers:
-      Host: fuckingxijinping.xijinpingbigsb.workers.dev
-    path: /?ed=2560
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 24
-  password: amazonskr05
-  port: 443
-  server: 34.211.230.161
-  type: ss
-  udp: true
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 25
-  network: ws
-  port: 443
-  server: ny.360832.xyz
-  servername: nY.360832.xYz
-  tls: true
-  type: vless
-  uuid: 5f5fe97a-73ee-4584-87cb-1e5cd510d572
-  ws-opts:
-    headers:
-      Host: nY.360832.xYz
-    path: /mxgPEgOLj8iAp1tHdIGP3
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 26
-  network: ws
-  port: 2095
-  server: 156.238.18.163
-  tls: false
-  type: vless
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: /TM-AZARBAYJAB1TM-AZARBAYJAB1TM-AZARBAYJAB1
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 27
-  network: ws
-  port: 8080
-  server: 185.174.138.197
-  servername: a.xn--i-sx6a60i.us.kg.
-  tls: false
-  type: vless
-  udp: true
   uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
   ws-opts:
     headers:
       Host: a.xn--i-sx6a60i.us.kg.
-    path: /
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 28
-  network: ws
-  port: 8880
-  server: 154.83.2.230
-  servername: redw.pooriam.ir
-  tls: false
-  type: vless
-  udp: true
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: /@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 29
-  network: ws
-  port: 8880
-  server: 185.146.173.112
-  tls: false
-  type: vless
-  uuid: f6bd2c47-99da-4bca-bf70-7186aa9e7e06
-  ws-opts:
-    headers:
-      Host: photographipictureai.ir
     path: /Telegram
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 30
-  password: exaxgqkKkd0TAMrCxeonWg==
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 22
+  password: amazonskr05
   port: 443
-  server: ustx004-cdn-route.couldflare-cdn.com
-  skip-cert-verify: false
-  tls: true
-  type: http
-  username: mrwdfNTD8M79LCukCieldrqZWqs=
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 31
-  network: ws
-  port: 443
-  server: cash.ns.cloudflare.com
-  servername: 69svy6.bestvpninuae.com
-  tls: true
-  type: vless
-  uuid: f9e9d4d9-c7ca-4211-82fe-8f4959215347
-  ws-opts:
-    headers:
-      Host: 69svy6.bestvpninuae.com
-    path: /wss
-- alterId: 2
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 32
-  network: ws
-  port: 22643
-  server: tk.hzlt.tkddns.xyz
-  servername: zxjp-c.tkong.cc
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
-  ws-opts:
-    headers:
-      Host: zxjp-c.tkong.cc
-    path: /
-- alterId: 2
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 33
-  network: ws
-  port: 22642
-  server: tk.hzlt.tkddns.xyz
-  servername: tk.hzlt.tkddns.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
-  ws-opts:
-    headers:
-      Host: zxjp-b.tkong.cc
-    path: /
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 34
-  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
-  port: 45056
-  server: usax.155001.xyz
+  server: 34.217.100.159
   type: ss
-  udp: true
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 35
-  network: ws
-  port: 443
-  server: 162.159.153.170
-  servername: vx.vs2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 55520747-311e-4015-83ce-be46e2060ce3
-  ws-opts:
-    headers:
-      Host: vx.vs2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 36
-  network: tcp
-  port: 443
-  server: 135.148.152.97
-  servername: 147135001195.sec22org.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: ea286109-d20f-415e-849e-4af20ab04b65
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 37
-  network: ws
-  port: 443
-  server: ny.360832.xyz
-  servername: nY.360832.xYz
-  tls: true
-  type: vless
-  uuid: 5f5fe97a-73ee-4584-87cb-1e5cd510d572
-  ws-opts:
-    headers:
-      Host: nY.360832.xYz
-    path: /mxgPEgOLj8iAp1tHdIGP3
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 38
-  network: ws
-  port: 2087
-  server: 172.67.130.66
-  servername: wsxaa.aleppo-janinan.info
-  tls: true
-  type: vless
-  uuid: 3dc9015f-20cb-42d6-adab-55ce831bae61
-  ws-opts:
-    headers:
-      Host: wsxaa.aleppo-janinan.info
-    path: /morano
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 🇺🇸 美国 39
-  network: ws
-  port: 20013
-  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
-  skip-cert-verify: true
+  name: 🇺🇸 美国 23
+  port: 45053
+  server: xdd.dashuai.cyou
   tls: false
   type: vmess
   udp: true
-  uuid: 21c90669-193d-49d3-8e37-f5c1462eb134
+  uuid: 28eb025d-3a26-4994-86fd-aa528cf8d3b3
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 24
+  network: ws
+  port: 80
+  server: biiia-vpn-whal.fast.hosting-ip.com
+  servername: cat.IR.
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: id7---@vpn-whal
   ws-opts:
     headers:
-      Host: tms.dingtalk.com
-    path: /
+      Host: biiia-vpn-whal.fast.hosting-ip.com
+    path: /?ed=2056/#id-telegram:--->@vpn_whal<---
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 25
+  password: amazonskr05
+  port: 443
+  server: 43.207.145.239
+  type: ss
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 26
+  network: tcp
+  port: 443
+  server: 135.148.142.30
+  servername: 147135010072.sec21org.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: c4fa89d4-fcb9-48ba-adbc-665181cc817f
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 27
+  password: amazonskr05
+  port: 443
+  server: 35.94.33.206
+  type: ss
+- auth: 264136cf-2212-4668-ad6e-6807e7de04c6
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 28
+  obfs: salamander
+  obfs-password: PlNYjSECZNqpSCX9
+  password: 264136cf-2212-4668-ad6e-6807e7de04c6
+  port: 40000
+  server: qyt-61-5.solook.uk
+  skip-cert-verify: true
+  sni: qyt-61-5.solook.uk
+  type: hysteria2
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 29
+  password: amazonskr05
+  port: 443
+  server: 18.237.73.216
+  type: ss
 - cipher: rc4-md5
   client-fingerprint: chrome
   name: 🇭🇰 香港 01
@@ -2027,80 +1834,18 @@ proxies:
   server: 118.184.136.131
   type: ss
   udp: true
-- client-fingerprint: chrome
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
   name: 🇭🇰 香港 17
-  password: exaxgqkKkd0TAMrCxeonWg==
-  port: 443
-  server: hkre1-cdn-route.couldflare-cdn.com
-  skip-cert-verify: false
-  tls: true
-  type: http
-  username: mrwdfNTD8M79LCukCieldrqZWqs=
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇭🇰 香港 18
-  port: 33311
-  server: gs.huamao888.top
-  tls: false
-  type: vmess
-  uuid: fa59f800-269d-4e2d-b29c-b4b9a570bbe0
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 香港 19
-  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
-  port: 45763
-  server: newhks2x.155001.xyz
+  password: Sj10bnYDe7w6V29E
+  plugin: obfs
+  plugin-opts:
+    host: 5c725c78c3.m.ctrip.com
+    mode: http
+  port: 10001
+  server: south.inmysecretlife.xyz
   type: ss
   udp: true
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 香港 20
-  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
-  port: 43202
-  server: newhks1x.155001.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 香港 21
-  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
-  port: 43922
-  server: newhkn4x.155001.xyz
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇭🇰 香港 22
-  network: ws
-  port: 80
-  server: d1d71439-993f-6cfc-ab7a-25a1945b45da.castlepeakhospital.moe
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 21c90669-193d-49d3-8e37-f5c1462eb134
-  ws-opts:
-    headers:
-      Host: tms.dingtalk.com
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇭🇰 香港 23
-  network: ws
-  port: 80
-  server: 619d3460-e201-be79-d7f9-b8c85f7ba8e4.castlepeakhospital.moe
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 21c90669-193d-49d3-8e37-f5c1462eb134
-  ws-opts:
-    headers:
-      Host: tms.dingtalk.com
-    path: /
 - client-fingerprint: random
   name: 🇸🇬 新加坡 01
   network: ws
@@ -2390,57 +2135,9 @@ proxies:
   sni: sg8.helloco.xyz
   type: hysteria2
   up: 1000
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 26
-  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
-  port: 44216
-  server: fang01.155001.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 27
-  password: amazonskr05
-  port: 443
-  server: 13.215.141.135
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 28
-  password: amazonskr05
-  port: 443
-  server: 54.169.183.172
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 29
-  password: amazonskr05
-  port: 443
-  server: 54.255.138.185
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 30
-  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
-  port: 47813
-  server: sg2x.155001.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 31
-  password: amazonskr05
-  port: 443
-  server: 13.212.52.106
-  type: ss
-  udp: true
 - cipher: aes-128-gcm
   client-fingerprint: chrome
-  name: 🇸🇬 新加坡 32
+  name: 🇸🇬 新加坡 26
   password: Sj10bnYDe7w6V29E
   plugin: obfs
   plugin-opts:
@@ -2450,62 +2147,32 @@ proxies:
   server: south.inmysecretlife.xyz
   type: ss
   udp: true
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 33
-  password: amazonskr05
-  port: 443
-  server: 54.254.138.40
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 34
-  password: amazonskr05
-  port: 443
-  server: 54.179.211.228
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 35
-  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
-  port: 42762
-  server: sgx.155001.xyz
-  type: ss
-  udp: true
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 🇸🇬 新加坡 36
-  network: ws
-  port: 80
-  server: 3fc8cee7-4c89-a363-264d-6cbc4ddf92fc.castlepeakhospital.moe
-  skip-cert-verify: true
+  name: 🇸🇬 新加坡 27
+  port: 45055
+  server: xdd.dashuai.cyou
   tls: false
   type: vmess
   udp: true
-  uuid: 21c90669-193d-49d3-8e37-f5c1462eb134
-  ws-opts:
-    headers:
-      Host: tms.dingtalk.com
-    path: /
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 🇸🇬 新加坡 37
-  password: amazonskr05
-  port: 443
-  server: 54.169.64.98
-  type: ss
+  uuid: 28eb025d-3a26-4994-86fd-aa528cf8d3b3
+- client-fingerprint: chrome
+  name: 🇸🇬 新加坡 28
+  password: 072c477b-90c1-4600-998f-1a2990542782
+  port: 20230
+  server: sg005.421421.xyz
+  skip-cert-verify: true
+  sni: sg005.421421.xyz
+  type: trojan
   udp: true
 - cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 🇸🇬 新加坡 38
+  name: 🇸🇬 新加坡 29
   password: amazonskr05
   port: 443
-  server: 13.215.178.168
+  server: 54.169.255.43
   type: ss
-  udp: true
 - client-fingerprint: random
   name: 🇰🇷 韩国 01
   network: ws
@@ -2694,36 +2361,30 @@ proxies:
   sni: kr4.helloco.xyz
   type: hysteria2
   up: 1000
-- cipher: aes-256-gcm
+- cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 🇰🇷 韩国 17
-  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
-  port: 39773
-  server: krx2.155001.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇰🇷 韩国 18
-  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
-  port: 48340
-  server: krx.155001.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 🇰🇷 韩国 19
-  password: amazonskr05
-  port: 443
-  server: 43.203.122.90
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 🇰🇷 韩国 20
   password: amazonskr05
   port: 443
   server: 43.203.193.109
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 18
+  password: amazonskr05
+  port: 443
+  server: 43.203.229.162
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 19
+  password: Sj10bnYDe7w6V29E
+  plugin: obfs
+  plugin-opts:
+    host: 5c725c78c3.m.ctrip.com
+    mode: http
+  port: 11071
+  server: shdata1.fc-sigma.xyz
   type: ss
   udp: true
 - cipher: aes-256-cfb
@@ -2739,13 +2400,6 @@ proxies:
   password: YTNjNDY5
   port: 8388
   server: 185.234.64.35
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 🇺🇦 乌克兰 03
-  password: d0fa3a9b-2115-4cc0-a8f5-7f4f7caf6ec1
-  port: 8080
-  server: 85.90.194.200
   type: ss
 - cipher: aes-256-cfb
   client-fingerprint: chrome
@@ -2776,66 +2430,9 @@ proxies:
   sni: de2.helloco.xyz
   type: hysteria2
   up: 1000
-- auth: a3661fb3-b0ab-4022-ba5c-7c0ef0e01db8
-  client-fingerprint: chrome
-  name: 🇩🇪 德国 04
-  password: a3661fb3-b0ab-4022-ba5c-7c0ef0e01db8
-  port: 37732
-  server: 207.180.248.7
-  skip-cert-verify: true
-  sni: www.bing.com
-  type: hysteria2
-  udp: true
-- alpn:
-  - h3,h2,http/1.1
-  client-fingerprint: chrome
-  name: 🇩🇪 德国 05
-  network: ws
-  port: 443
-  server: www.vpslook.com
-  servername: dewuxian.pai50288.uk
-  tls: true
-  type: vless
-  uuid: a8e84392-4d52-4886-afa6-76fdfaf49c86
-  ws-opts:
-    headers:
-      Host: dewuxian.pai50288.uk
-    path: /a8e84392
-- client-fingerprint: chrome
-  name: 🇩🇪 德国 06
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 18.159.91.234
-  sni: trojan.burgerip.co.uk
-  type: trojan
-  udp: true
-- client-fingerprint: chrome
-  name: 🇩🇪 德国 07
-  network: ws
-  port: 443
-  server: cdn.7zz.cn
-  servername: de.oldcloud.online
-  tls: true
-  type: vless
-  udp: true
-  uuid: b3903a4d-d9e7-4b7d-82a3-292116fbceb8
-  ws-opts:
-    headers:
-      Host: de.oldcloud.online
-    path: /
-- client-fingerprint: chrome
-  grpc-opts:
-    grpc-service-name: TEL@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-JOIN-@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-JOIN-@V2rayNG_SPDNet-TEL-@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet-JOIN-@V2rayNG_SPDNet-TEL--@V2rayNG_SPDNet
-  name: 🇩🇪 德国 08
-  network: grpc
-  port: 48929
-  server: v2rayng.spdnet.online
-  tls: false
-  type: vless
-  uuid: 0cb0008e-72d6-432c-9c02-fc58da58f6ac
 - auth: MICPT1LLn6
   client-fingerprint: chrome
-  name: 🇩🇪 德国 09
+  name: 🇩🇪 德国 04
   obfs: salamander
   obfs-password: hsdirhrrkskdhebdjdj
   password: MICPT1LLn6
@@ -2844,47 +2441,16 @@ proxies:
   skip-cert-verify: true
   type: hysteria2
   udp: true
-- client-fingerprint: chrome
-  name: 🇩🇪 德国 10
-  network: ws
-  port: 8443
-  server: www.speedtest.net
-  servername: vpn.filmekade.ru
-  tls: true
-  type: vless
-  uuid: e03205d8-5ee4-432f-acab-34e16e844174
-  ws-opts:
-    headers:
-      Host: vpn.filmekade.ru
-    path: /telegram----------------v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---------------v2ryNG01---v2ryNG01--v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01?ed=2048
-- client-fingerprint: chrome
-  name: 🇩🇪 德国 11
-  network: ws
-  port: 443
-  server: www.vpslook.com
-  servername: dewuxian.pai50288.uk
-  tls: true
-  type: vless
-  udp: true
-  uuid: a8e84392-4d52-4886-afa6-76fdfaf49c86
-  ws-opts:
-    headers:
-      Host: dewuxian.pai50288.uk
-    path: /a8e84392
-- client-fingerprint: chrome
-  name: 🇩🇪 德国 12
-  network: ws
-  port: 443
-  server: 193.9.49.241
-  servername: eua.kobtty.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: cd01db3b-4b0a-4718-98dd-1d38f55be03f
-  ws-opts:
-    headers:
-      Host: eua.kobtty.me
-    path: /bing
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇩🇪 德国 05
+  port: 49808
+  server: 49.13.0.130
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: ee7a20fa-cf57-4709-b48b-24bdb7d965cb
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 🇮🇹 意大利 01
@@ -2899,20 +2465,6 @@ proxies:
   port: 989
   server: 37.143.129.230
   type: ss
-- client-fingerprint: firefox
-  grpc-opts:
-    grpc-service-name: vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl
-  name: 🇮🇹 意大利 03
-  network: grpc
-  port: 443
-  reality-opts:
-    public-key: gH_h3-mo0stXouQX61J22W14N9-RlRjwo6BQgAcUay4
-    short-id: c5508bd7
-  server: 209.227.230.243
-  servername: wordpress.org
-  tls: true
-  type: vless
-  uuid: 253f59da-b708-4404-cebe-3854aad88880
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 🇷🇴 罗马尼亚 01
@@ -2922,7 +2474,7 @@ proxies:
   type: ss
 - client-fingerprint: chrome
   name: ‍☠️ 官网：xship.top 01
-  password: a9214df071231bdf28bd958dcfd38e8e
+  password: 79bba263a8d7a99ead7c10ccc69d093a
   port: 443
   server: 88.119.175.241
   skip-cert-verify: true
@@ -2930,7 +2482,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: ‍☠️ 🔰 免费订阅，此节点无风控 01
-  password: a9214df071231bdf28bd958dcfd38e8e
+  password: 79bba263a8d7a99ead7c10ccc69d093a
   port: 443
   server: 88.119.175.241
   skip-cert-verify: true
@@ -3064,38 +2616,33 @@ proxies:
   flow: xtls-rprx-vision
   name: 🇯🇵 日本 13
   network: tcp
-  port: 63134
+  port: 54854
   reality-opts:
-    public-key: sJyLIpS_6XMDEDhIgr0Xq2yAI8LdUaktWyrUKIVMOSw
-  server: 156.246.89.131
-  servername: www.ebay.com
+    public-key: 0FC6OFyfJJJoxulSNvQwDArwYigxABrcHmm0CPXsOlQ
+  server: 156.246.94.220
+  servername: www.amazon.com
   tls: true
   type: vless
-  uuid: f212a7d3-7175-40bb-bba2-fde5668893e6
-- alterId: 0
-  cipher: auto
+  uuid: fa59050b-1ca3-474b-aa1a-b7058d79f75b
+- cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 🇯🇵 日本 14
-  network: ws
+  password: amazonskr05
   port: 443
-  server: mix1.998998.best
-  servername: jp1-2.zfork.com
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 07b7b563-f868-49fb-943a-6425e3dc34d9
-  ws-opts:
-    headers:
-      Host: mix1.998998.best
-    path: /wpmckfpajfng?ed=2560
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 15
-  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
-  port: 42110
-  server: digx.155001.xyz
+  server: 52.193.176.207
   type: ss
-  udp: true
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 🇯🇵 日本 15
+  network: tcp
+  port: 62492
+  reality-opts:
+    public-key: NQEG-uVCTDaw6KN56MmbJpOJTZwC3ADYjKhiqwL9lRg
+  server: 156.246.95.253
+  servername: www.cloudflare.com
+  tls: true
+  type: vless
+  uuid: 0ca430a8-d4a9-41c2-9096-cbe073578843
 - cipher: aes-128-gcm
   client-fingerprint: chrome
   name: 🇯🇵 日本 16
@@ -3109,16 +2656,33 @@ proxies:
   type: ss
   udp: true
 - client-fingerprint: chrome
+  flow: xtls-rprx-vision
   name: 🇯🇵 日本 17
-  password: exaxgqkKkd0TAMrCxeonWg==
-  port: 443
-  server: jp104-cdn-route.couldflare-cdn.com
-  skip-cert-verify: false
+  network: tcp
+  port: 4132
+  reality-opts:
+    public-key: tAiPw07Na8UsZ8m7dfTy9bDqqc-aVECs_-NLlGk-YQY
+  server: 45.192.249.184
+  servername: www.cloudflare.com
   tls: true
-  type: http
-  username: mrwdfNTD8M79LCukCieldrqZWqs=
-- client-fingerprint: chrome
+  type: vless
+  uuid: e190cf54-cabc-4585-88ec-0e80f72f1abf
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
   name: 🇯🇵 日本 18
+  password: amazonskr05
+  port: 443
+  server: 13.114.194.6
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 19
+  password: amazonskr05
+  port: 443
+  server: 54.250.240.228
+  type: ss
+- client-fingerprint: chrome
+  name: 🇯🇵 日本 20
   network: ws
   port: 2095
   server: 156.238.18.48
@@ -3129,37 +2693,51 @@ proxies:
     headers:
       Host: redw.pooriam.ir
     path: /TM-AZARBAYJAB1TM-AZARBAYJAB1TM-AZARBAYJAB1
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 🇯🇵 日本 19
-  network: tcp
-  port: 54854
-  reality-opts:
-    public-key: 0FC6OFyfJJJoxulSNvQwDArwYigxABrcHmm0CPXsOlQ
-  server: 156.246.94.220
-  servername: www.amazon.com
-  tls: true
-  type: vless
-  uuid: fa59050b-1ca3-474b-aa1a-b7058d79f75b
-- client-fingerprint: chrome
-  name: 🇯🇵 日本 20
-  password: fa59f800-269d-4e2d-b29c-b4b9a570bbe0
-  port: 33345
-  server: bg.guangsu888.cc
-  skip-cert-verify: true
-  sni: bg.guangsu888.cc
-  type: trojan
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 🇯🇵 日本 21
   password: amazonskr05
   port: 443
-  server: 18.183.167.187
+  server: 3.112.205.40
   type: ss
-  udp: true
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 🇯🇵 日本 22
+  network: tcp
+  port: 63134
+  reality-opts:
+    public-key: sJyLIpS_6XMDEDhIgr0Xq2yAI8LdUaktWyrUKIVMOSw
+  server: 156.246.89.131
+  servername: www.ebay.com
+  tls: true
+  type: vless
+  uuid: f212a7d3-7175-40bb-bba2-fde5668893e6
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 23
+  password: amazonskr05
+  port: 443
+  server: 43.206.222.219
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 24
+  password: amazonskr05
+  port: 443
+  server: 43.207.153.78
+  type: ss
+- client-fingerprint: chrome
+  name: 🇯🇵 日本 25
+  password: exaxgqkKkd0TAMrCxeonWg==
+  port: 443
+  server: jp104-cdn-route.couldflare-cdn.com
+  skip-cert-verify: false
+  tls: true
+  type: http
+  username: mrwdfNTD8M79LCukCieldrqZWqs=
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 🇯🇵 日本 26
   network: tcp
   port: 62492
   reality-opts:
@@ -3169,17 +2747,35 @@ proxies:
   tls: true
   type: vless
   uuid: 0ca430a8-d4a9-41c2-9096-cbe073578843
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 23
-  password: amazonskr05
-  port: 443
-  server: 54.178.115.191
-  type: ss
-  udp: true
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 🇯🇵 日本 24
+  name: 🇯🇵 日本 27
+  network: tcp
+  port: 54854
+  reality-opts:
+    public-key: 0FC6OFyfJJJoxulSNvQwDArwYigxABrcHmm0CPXsOlQ
+  server: 156.246.94.220
+  servername: www.amazon.com
+  tls: true
+  type: vless
+  uuid: fa59050b-1ca3-474b-aa1a-b7058d79f75b
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 28
+  password: amazonskr05
+  port: 443
+  server: 54.249.5.208
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 29
+  password: amazonskr05
+  port: 443
+  server: 13.114.14.253
+  type: ss
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 🇯🇵 日本 30
   network: tcp
   port: 4132
   reality-opts:
@@ -3189,46 +2785,13 @@ proxies:
   tls: true
   type: vless
   uuid: e190cf54-cabc-4585-88ec-0e80f72f1abf
-- cipher: aes-256-gcm
+- cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 🇯🇵 日本 25
-  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
-  port: 16914
-  server: gyjp3.155001.xyz
+  name: 🇯🇵 日本 31
+  password: amazonskr05
+  port: 443
+  server: 54.249.187.223
   type: ss
-  udp: true
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 26
-  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
-  port: 47985
-  server: lvjp.155001.xyz
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 27
-  network: ws
-  port: 80
-  server: a41da1ab-5ae0-fa3e-eabe-70e680bdf1bf.castlepeakhospital.moe
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 21c90669-193d-49d3-8e37-f5c1462eb134
-  ws-opts:
-    headers:
-      Host: tms.dingtalk.com
-    path: /
-- client-fingerprint: chrome
-  name: 🇯🇵 日本 28
-  password: fa59f800-269d-4e2d-b29c-b4b9a570bbe0
-  port: 39346
-  server: bg.guangsu888.cc
-  skip-cert-verify: true
-  sni: bg.guangsu888.cc
-  type: trojan
 - auth: MyU8KnXVUw2axvzzW6GFXRka
   client-fingerprint: chrome
   name: 🇫🇷 法国 01
@@ -3267,41 +2830,33 @@ proxies:
   type: hysteria2
 - client-fingerprint: chrome
   name: 🇫🇷 法国 05
-  password: telegram-id-privatevpns
+  network: ws
   port: 22222
-  server: 13.36.222.87
-  sni: trojan.burgerip.co.uk
-  type: trojan
-  udp: true
-- client-fingerprint: chrome
-  name: 🇫🇷 法国 06
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 51.44.132.12
-  skip-cert-verify: true
-  sni: 51.44.132.12
-  type: trojan
-  udp: true
-- alpn:
-  - h3
-  auth-str: dongtaiwang.com
-  auth_str: dongtaiwang.com
+  server: 15.237.245.221
+  servername: telegram-channel-vlessconfig.sohala.uk
+  tls: true
+  type: vless
+  uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+  ws-opts:
+    headers:
+      Host: telegram-channel-vlessconfig.sohala.uk
+    path: /telegram-channel-vlessconfig-ws
+- alterId: 0
+  cipher: auto
   client-fingerprint: chrome
-  down: 55
-  name: 🇫🇷 法国 07
-  port: 44557
-  protocol: udp
-  server: 195.154.200.178
-  skip-cert-verify: true
-  sni: apple.com
-  type: hysteria
-  up: 11
+  name: 🇫🇷 法国 06
+  port: 52108
+  server: qd.needss.top
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 578a1068-459d-4d57-9c23-20e659d04020
 - auth: MyU8KnXVUw2axvzzW6GFXRka
   client-fingerprint: chrome
   name: 🇸🇪 瑞典 01
   password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: starlink-sto.2513142.xyz
+  server: starlink-par.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
@@ -3310,7 +2865,7 @@ proxies:
   name: 🇸🇪 瑞典 02
   password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: starlink-sto2.2513142.xyz
+  server: starlink-par2.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
@@ -3319,7 +2874,7 @@ proxies:
   name: 🇸🇪 瑞典 03
   password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: starlink-sto.2513142.xyz
+  server: starlink-par.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
@@ -3328,19 +2883,10 @@ proxies:
   name: 🇸🇪 瑞典 04
   password: MyU8KnXVUw2axvzzW6GFXRka
   port: 443
-  server: starlink-sto2.2513142.xyz
+  server: starlink-par2.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
-- client-fingerprint: chrome
-  name: 🇸🇪 瑞典 05
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 13.51.155.184
-  skip-cert-verify: true
-  sni: trojan.burgerip.co.uk
-  type: trojan
-  udp: true
 - auth: 5fb2bc8c-e2d2-41bf-8478-aa16723c23f4
   client-fingerprint: chrome
   down: 1000
@@ -3396,29 +2942,39 @@ proxies:
   sni: tw.helloco.xyz
   type: hysteria2
   up: 1000
-- client-fingerprint: chrome
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
   name: 🇹🇼 台湾 06
-  network: ws
-  port: 2086
-  server: 195.85.59.95
+  port: 45078
+  server: haa.dashuai.cyou
   tls: false
-  type: vless
-  uuid: a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5
-  ws-opts:
-    headers:
-      Host: 0210.uous1wog.workers.dev
-    path: /?ed=2560
-- client-fingerprint: chrome
+  type: vmess
+  udp: true
+  uuid: 28eb025d-3a26-4994-86fd-aa528cf8d3b3
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
   name: 🇹🇼 台湾 07
-  password: fa59f800-269d-4e2d-b29c-b4b9a570bbe0
-  port: 33344
-  server: bg.guangsu888.cc
-  skip-cert-verify: true
-  sni: bg.guangsu888.cc
-  type: trojan
-- cipher: aes-128-gcm
+  port: 45078
+  server: haa.dashuai.cyou
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 28eb025d-3a26-4994-86fd-aa528cf8d3b3
+- alterId: 0
+  cipher: auto
   client-fingerprint: chrome
   name: 🇹🇼 台湾 08
+  port: 45077
+  server: xdd.dashuai.cyou
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 28eb025d-3a26-4994-86fd-aa528cf8d3b3
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 🇹🇼 台湾 09
   password: Sj10bnYDe7w6V29E
   plugin: obfs
   plugin-opts:
@@ -3426,18 +2982,6 @@ proxies:
     mode: http
   port: 11041
   server: gzdata1.fc-sigma.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇦🇹 奥地利 01
-  password: Sj10bnYDe7w6V29E
-  plugin: obfs
-  plugin-opts:
-    host: 5c725c78c3.m.ctrip.com
-    mode: http
-  port: 11071
-  server: shdata1.fc-sigma.xyz
   type: ss
   udp: true
 - cipher: rc4-md5
@@ -3472,100 +3016,19 @@ proxies:
   server: ru04.fjk.wtf
   type: ss
   udp: true
-- cipher: rc4-md5
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 05
-  password: 8HFUas
-  port: 35455
-  server: ru05.fjk.wtf
-  type: ss
-  udp: true
-- cipher: rc4-md5
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 06
-  password: 8HFUas
-  port: 35455
-  server: ru06.fjk.wtf
-  type: ss
-  udp: true
-- auth: b79ef901-eae9-4cd3-b2e2-e9464ec0fa25
-  client-fingerprint: chrome
-  down: 100
-  name: 🇷🇺 俄罗斯 07
-  obfs: salamander
-  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
-  password: b79ef901-eae9-4cd3-b2e2-e9464ec0fa25
-  port: 33007
-  server: 185.22.152.236
-  skip-cert-verify: true
-  type: hysteria2
-  udp: true
-  up: 100
-- alpn:
-  - h3
-  auth-str: dongtaiwang.com
-  auth_str: dongtaiwang.com
-  client-fingerprint: chrome
-  down: 55
-  name: 🇷🇺 俄罗斯 08
-  port: 62003
-  protocol: udp
-  server: 176.32.35.226
-  skip-cert-verify: true
-  sni: apple.com
-  type: hysteria
-  up: 11
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 09
-  network: ws
-  port: 20022
-  server: f77f38c7-faea-1c49-708a-489769f53c40.7head.icu
-  skip-cert-verify: true
+  name: 🇨🇦 加拿大 01
+  port: 45112
+  server: qd.needss.top
   tls: false
   type: vmess
   udp: true
-  uuid: 21c90669-193d-49d3-8e37-f5c1462eb134
-  ws-opts:
-    headers:
-      Host: tms.dingtalk.com
-    path: /
-- client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 10
-  network: ws
-  port: 443
-  server: 193.9.49.241
-  servername: eua.kobtty.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: cd01db3b-4b0a-4718-98dd-1d38f55be03f
-  ws-opts:
-    headers:
-      Host: eua.kobtty.me
-    path: /bing
-- client-fingerprint: chrome
-  name: 🇬🇧 英国 01
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 3.11.130.139
-  skip-cert-verify: true
-  sni: trojan.burgerip.co.uk
-  type: trojan
-  udp: true
-- client-fingerprint: chrome
-  name: 🇬🇧 英国 02
-  password: telegram-id-directvpn
-  port: 22222
-  server: 35.179.53.211
-  skip-cert-verify: true
-  sni: trojan.burgerip.co.uk
-  type: trojan
-  udp: true
+  uuid: 578a1068-459d-4d57-9c23-20e659d04020
 - cipher: aes-128-gcm
   client-fingerprint: chrome
-  name: 🇬🇧 英国 03
+  name: 🇬🇧 英国 01
   password: Sj10bnYDe7w6V29E
   plugin: obfs
   plugin-opts:
@@ -3575,33 +3038,31 @@ proxies:
   server: bjdata1.fc-sigma.xyz
   type: ss
   udp: true
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 02
+  port: 54774
+  server: qd.needss.top
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 578a1068-459d-4d57-9c23-20e659d04020
 - client-fingerprint: chrome
   name: 🇳🇱 荷兰 01
   network: ws
-  port: 2053
-  server: 173.245.59.132
-  servername: holze.gt-ov.com
+  port: 8443
+  server: 104.17.147.22
+  servername: OyDgAjWa.sHaEyZaT.InFo
   tls: true
   type: vless
-  uuid: 62a96482-8a33-4190-a0c1-7a22bcb9effb
+  uuid: 838f5273-5d2d-4630-a0f5-9cc8e4aef4d6
   ws-opts:
     headers:
-      Host: holze.gt-ov.com
+      Host: OyDgAjWa.sHaEyZaT.InFo
     path: /
 - client-fingerprint: chrome
   name: 🇳🇱 荷兰 02
-  network: ws
-  port: 8880
-  server: 45.131.211.182
-  tls: false
-  type: vless
-  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-  ws-opts:
-    headers:
-      Host: a.xn--i-sx6a60i.us.kg.
-    path: /Telegram
-- client-fingerprint: chrome
-  name: 🇳🇱 荷兰 03
   network: ws
   port: 2052
   server: 45.149.12.183
@@ -3614,57 +3075,32 @@ proxies:
     headers:
       Host: redw.pooriam.ir
     path: /TABRIZ.NET@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560
-- auth: be758973-186d-46fe-8aa4-e017134fa291
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇳🇱 荷兰 03
+  port: 20014
+  server: qd.needss.top
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 578a1068-459d-4d57-9c23-20e659d04020
+- alterId: 0
+  cipher: auto
   client-fingerprint: chrome
   name: 🇵🇱 波兰 01
-  password: be758973-186d-46fe-8aa4-e017134fa291
-  port: 4029
-  server: 31.186.87.211
+  network: ws
+  port: 8443
+  server: 3h-poland1.09vpn.com
+  servername: 3h-poland1.09vpn.com
   skip-cert-verify: true
-  sni: www.bing.com
-  type: hysteria2
-  udp: true
-- client-fingerprint: chrome
-  name: 🇦🇺 澳大利亚 01
-  network: ws
-  port: 8880
-  server: 154.83.2.228
-  tls: false
-  type: vless
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: /
-- client-fingerprint: chrome
-  name: 🇫🇮 芬兰 01
-  network: ws
-  port: 2083
-  server: www.parsvds.com
-  servername: bEAt.MIRaclETaxbiTS.Top.
   tls: true
-  type: vless
-  uuid: cadf0483-c628-48d7-9267-514badbbdbb7
+  type: vmess
+  uuid: a4850481-9b95-430f-9b2d-192d2410b4f4
   ws-opts:
     headers:
-      Host: bEAt.MIRaclETaxbiTS.Top.
-    path: /2083/@VRayyNGvpn
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇻🇳 越南 01
-  password: 696ece11-25b8-44ce-98e5-2d5bbd712227
-  port: 29900
-  server: vnx.155001.xyz
-  type: ss
-  udp: true
-- client-fingerprint: chrome
-  name: 🇮🇪 爱尔兰 01
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 99.80.111.216
-  sni: trojan.burgerip.co.uk
-  type: trojan
-  udp: true
+      Host: 3h-poland1.09vpn.com
+    path: /vmess/
 - cipher: aes-128-gcm
   client-fingerprint: chrome
   name: 🇭🇰 Hongkong 021
@@ -5198,6 +4634,22 @@ proxies:
   server: sg10.htz.wtf
   type: ss
   udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 05
+  password: 8HFUas
+  port: 35455
+  server: ru05.fjk.wtf
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 06
+  password: 8HFUas
+  port: 35455
+  server: ru06.fjk.wtf
+  type: ss
+  udp: true
 - alterId: 1
   cipher: auto
   client-fingerprint: chrome
@@ -5967,3 +5419,952 @@ proxies:
   port: 30921
   server: m92.u17.xyz
   type: ss
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇸🇬 Basic-新加坡-BGP-01
+  port: 36676
+  server: 1111-2222.0003.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0003.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇸🇬 Basic-新加坡-BGP-02
+  port: 48752
+  server: 1111-2222.0004.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0004.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇼 Basic-台湾-BGP-01
+  port: 41765
+  server: 1111-2222.0001.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0001.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- cipher: chacha20-ietf
+  client-fingerprint: chrome
+  name: 🇹🇼 Basic-台湾-家庭宽带-01
+  obfs: plain
+  obfs-param: ''
+  password: Mv4e0QHWPwdbKiCF
+  port: 48716
+  protocol: auth_aes128_sha1
+  protocol-param: 301327:QRmOFL0g4RxjYCDz
+  server: 1111-2222.0002.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  type: ssr
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: Basic-官网 helloshudong.com
+  port: 34794
+  server: 1111-2222.0016.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0016.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇯🇵 Basic-日本-BGP-01
+  port: 50001
+  server: 1111-2222.0005.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0005.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇯🇵 Basic-日本-BGP-02
+  port: 58417
+  server: 1111-2222.0006.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0006.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 Basic-美国-BGP-01
+  port: 47602
+  server: 1111-2222.0007.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0007.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 Basic-美国-BGP-02
+  port: 49121
+  server: 1111-2222.0008.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0008.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 Basic-美国-BGP-03
+  port: 49125
+  server: 1111-2222.0009.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0009.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 Basic-美国-BGP-04
+  port: 49126
+  server: 1111-2222.0010.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0010.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 Basic-美国-BGP-05
+  port: 49127
+  server: 1111-2222.0011.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0011.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 Basic-美国-BGP-06
+  port: 53944
+  server: 1111-2222.0012.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0012.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 Basic-美国-BGP-07
+  port: 60303
+  server: 1111-2222.0013.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0013.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇫🇮 Basic-芬兰-BGP-01
+  port: 57168
+  server: 1111-2222.0014.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0014.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Basic-香港-BGP-01
+  port: 49120
+  server: 1111-2222.0015.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0015.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Basic-香港-BGP-02
+  port: 34794
+  server: 1111-2222.0016.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0016.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Basic-香港-BGP-03
+  port: 36672
+  server: 1111-2222.0017.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0017.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Basic-香港-BGP-04
+  port: 50882
+  server: 1111-2222.0018.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0018.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Basic-香港-BGP-05
+  port: 36675
+  server: 1111-2222.0019.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0019.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Basic-香港-BGP-06
+  port: 34795
+  server: 1111-2222.0020.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0020.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Basic-香港-BGP-07
+  port: 58418
+  server: 1111-2222.0021.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0021.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Basic-香港-BGP-08
+  port: 47836
+  server: 1111-2222.0022.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0022.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Basic-香港-BGP-09
+  port: 36671
+  server: 1111-2222.0023.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0023.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Basic-香港-BGP-10
+  port: 60301
+  server: 1111-2222.0024.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0024.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Basic-香港-家庭宽带-01
+  port: 35419
+  server: 1111-2222.0025.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0025.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Basic-香港-家庭宽带-02
+  port: 49511
+  server: 1111-2222.0026.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0026.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Basic-香港-家庭宽带-03
+  port: 49112
+  server: 1111-2222.0027.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0027.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇼 Pro-台湾-BGP-01
+  port: 49111
+  server: 1111-2222.0002.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0002.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇼 Pro-台湾-BGP-02
+  port: 53137
+  server: 1111-2222.0003.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0003.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇼 Pro-台湾-BGP-03
+  port: 49484
+  server: 1111-2222.0004.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0004.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- cipher: chacha20-ietf
+  client-fingerprint: chrome
+  name: 🇹🇼 Pro-台湾-家庭宽带-01
+  obfs: plain
+  obfs-param: ''
+  password: Mv4e0QHWPwdbKiCF
+  port: 49434
+  protocol: auth_aes128_sha1
+  protocol-param: 301327:QRmOFL0g4RxjYCDz
+  server: 1111-2222.0005.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  type: ssr
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇸🇬 Pro-新加坡-BGP-01
+  port: 47533
+  server: 1111-2222.0006.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0006.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇸🇬 Pro-新加坡-BGP-02
+  port: 47534
+  server: 1111-2222.0007.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0007.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇸🇬 Pro-新加坡-BGP-03
+  port: 53127
+  server: 1111-2222.0008.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0008.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇸🇬 Pro-新加坡-BGP-04
+  port: 53945
+  server: 1111-2222.0009.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0009.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇯🇵 Pro-日本-BGP-01
+  port: 50187
+  server: 1111-2222.0010.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0010.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇯🇵 Pro-日本-BGP-02
+  port: 50188
+  server: 1111-2222.0011.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0011.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇯🇵 Pro-日本-BGP-03
+  port: 50189
+  server: 1111-2222.0012.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0012.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇯🇵 Pro-日本-BGP-04
+  port: 50191
+  server: 1111-2222.0013.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0013.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇯🇵 Pro-日本-BGP-05
+  port: 50192
+  server: 1111-2222.0014.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0014.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇯🇵 Pro-日本-BGP-06
+  port: 50810
+  server: 1111-2222.0015.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0015.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 Pro-美国-BGP-01
+  port: 36677
+  server: 1111-2222.0019.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0019.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 Pro-美国-BGP-02
+  port: 23009
+  server: 1111-2222.0020.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0020.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 Pro-美国-BGP-03
+  port: 58420
+  server: 1111-2222.0021.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0021.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 Pro-美国-BGP-04
+  port: 48861
+  server: 1111-2222.0022.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0022.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 Pro-美国-BGP-05
+  network: ws
+  port: 60300
+  server: 1111-2222.0023.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0023.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+  ws-opts:
+    headers:
+      Host: 1111-2222.0023.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+    path: /game
+- cipher: chacha20-ietf
+  client-fingerprint: chrome
+  name: 🇰🇷 Pro-韩国-01
+  obfs: plain
+  obfs-param: ''
+  password: Mv4e0QHWPwdbKiCF
+  port: 54114
+  protocol: auth_aes128_sha1
+  protocol-param: 301327:QRmOFL0g4RxjYCDz
+  server: 1111-2222.0047.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  type: ssr
+- cipher: chacha20-ietf
+  client-fingerprint: chrome
+  name: 🇰🇷 Pro-韩国-02
+  obfs: plain
+  obfs-param: ''
+  password: Mv4e0QHWPwdbKiCF
+  port: 54115
+  protocol: auth_aes128_sha1
+  protocol-param: 301327:QRmOFL0g4RxjYCDz
+  server: 1111-2222.0047.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  type: ssr
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇰🇷 Pro-韩国-03
+  port: 50111
+  server: 1111-2222.0044.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0044.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇰🇷 Pro-韩国-04
+  port: 50109
+  server: 1111-2222.0043.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0043.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Pro-香港-BGP-01
+  port: 20000
+  server: 1111-2222.0025.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0025.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Pro-香港-BGP-02
+  port: 50000
+  server: 1111-2222.0026.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0026.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Pro-香港-BGP-03
+  port: 36154
+  server: 1111-2222.0027.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0027.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Pro-香港-BGP-04
+  port: 53941
+  server: 1111-2222.0028.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0028.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Pro-香港-BGP-05
+  port: 47835
+  server: 1111-2222.0029.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0029.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Pro-香港-BGP-06
+  port: 58416
+  server: 1111-2222.0030.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0030.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Pro-香港-BGP-07
+  port: 47605
+  server: 1111-2222.0031.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0031.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Pro-香港-BGP-08
+  port: 56812
+  server: 1111-2222.0032.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0032.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Pro-香港-家庭宽带-01
+  port: 36690
+  server: 1111-2222.0033.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0033.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Pro-香港-家庭宽带-02
+  port: 36679
+  server: 1111-2222.0034.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0034.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Pro-香港-家庭宽带-03
+  port: 20001
+  server: 1111-2222.0035.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0035.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 Pro-香港-家庭宽带-04
+  port: 36681
+  server: 1111-2222.0036.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0036.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇦 加拿大-Pro-01
+  port: 48764
+  server: 1111-2222.0048.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0048.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- cipher: chacha20-ietf
+  client-fingerprint: chrome
+  name: 🇮🇳 印度-Pro-01
+  obfs: plain
+  obfs-param: ''
+  password: Mv4e0QHWPwdbKiCF
+  port: 53845
+  protocol: auth_aes128_sha1
+  protocol-param: 301327:QRmOFL0g4RxjYCDz
+  server: 1111-2222.0001.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  type: ssr
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇷 土耳其-Pro-01
+  port: 25842
+  server: 1111-2222.0038.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0038.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇳🇬 尼日利亚-Pro-01
+  port: 21459
+  server: 1111-2222.0052.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0052.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- cipher: chacha20-ietf
+  client-fingerprint: chrome
+  name: 🇵🇰 巴基斯坦-Pro-01
+  obfs: plain
+  obfs-param: ''
+  password: Mv4e0QHWPwdbKiCF
+  port: 54190
+  protocol: auth_aes128_sha1
+  protocol-param: 301327:QRmOFL0g4RxjYCDz
+  server: 1111-2222.0047.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  type: ssr
+- cipher: chacha20-ietf
+  client-fingerprint: chrome
+  name: 🇧🇷 巴西-Pro-01
+  obfs: plain
+  obfs-param: ''
+  password: Mv4e0QHWPwdbKiCF
+  port: 54112
+  protocol: auth_aes128_sha1
+  protocol-param: 301327:QRmOFL0g4RxjYCDz
+  server: 1111-2222.0047.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  type: ssr
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇩🇪 德国-Pro-01
+  port: 53943
+  server: 1111-2222.0039.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0039.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇮🇹 意大利-Pro-01
+  port: 45794
+  server: 1111-2222.0049.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0049.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇫🇷 法国-Pro-01
+  port: 34765
+  server: 1111-2222.0017.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0017.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇭 泰国-Pro-01
+  port: 48414
+  server: 1111-2222.0040.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0040.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇦🇺 澳大利亚-Pro-01
+  port: 60317
+  server: 1111-2222.0018.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0018.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇭 瑞士-Pro-01
+  port: 21961
+  server: 1111-2222.0051.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0051.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇬🇧 英国-Pro-01
+  port: 53125
+  server: 1111-2222.0041.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0041.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇻🇳 越南-Pro-01
+  port: 47606
+  server: 1111-2222.0042.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0042.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- cipher: chacha20-ietf
+  client-fingerprint: chrome
+  name: 🇦🇪 迪拜-Pro-01
+  obfs: plain
+  obfs-param: ''
+  password: Mv4e0QHWPwdbKiCF
+  port: 54112
+  protocol: auth_aes128_sha1
+  protocol-param: 301327:QRmOFL0g4RxjYCDz
+  server: 1111-2222.0047.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  type: ssr
+- cipher: chacha20-ietf
+  client-fingerprint: chrome
+  name: 🇦🇷 阿根廷-Pro-01
+  obfs: plain
+  obfs-param: ''
+  password: Mv4e0QHWPwdbKiCF
+  port: 64141
+  protocol: auth_aes128_sha1
+  protocol-param: 301327:QRmOFL0g4RxjYCDz
+  server: 1111-2222.0024.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  type: ssr
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇲🇾 马来西亚-Pro-01
+  port: 25841
+  server: 1111-2222.0045.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0045.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇼 Global-台湾01-直连每小时换IP
+  port: 46148
+  server: 1-tw.root.45gb-844d-54ed-rgf6-qq12-52dc-fbb4-9ls1-4rfd-3aad-x2s1-yhf3.work
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇯🇵 Global-日本03-海外客户专用
+  port: 58417
+  server: overseas01.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: overseas01.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: "\U0001F1E6\U0001F1FA Global-澳大利亚01-海外客户专用\t"
+  port: 60317
+  server: overseas01.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0018.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 Global-美国01-海外客户专用
+  port: 49185
+  server: overseas01.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0041.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇬🇧 Global-英国01-海外客户专用
+  port: 53125
+  server: overseas01.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  servername: 1111-2222.0041.bbbb-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇰🇷 Global-韩国-海外客户专用
+  port: 53136
+  server: overseas01.aaaa-cloud-cdna-apia-gwsd-aaaa-aabb.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b8f3d7ee-9487-3d73-8587-78465d212f54
