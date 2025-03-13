@@ -1,1129 +1,54 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  name: 🇭🇰 HK 01 ALICE
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 34001
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇧🇪 比利时 布鲁塞尔
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58833
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 英格兰
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58811
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
 - alterId: 0
   cipher: auto
-  name: 🇷🇺 俄罗斯-圣彼得堡-015-1A
+  name: 🇭🇰 中国-香港-F3-001-1B
   network: ws
-  port: 20312
-  server: 195.58.49.42
+  port: 23010
+  server: 212.192.13.68
   tls: false
   type: vmess
   udp: true
-  uuid: a8e24711-f156-4b06-896c-dedb4faa830f
+  uuid: cdabf7d1-caad-4ccb-a2b0-3a664c24d736
   ws-opts:
     path: /
-- cipher: chacha20-ietf-poly1305
-  name: 🇿🇦 南非 约翰内斯堡
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58818
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇲🇾 马来西亚 吉隆坡
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58803
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
 - alterId: 0
   cipher: auto
-  name: 🇬🇧 英国1
-  port: 45066
-  server: haa.dashuai.cyou
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c6a264a4-4a2f-46c1-91eb-47ce03e76e45
-- cipher: chacha20-ietf-poly1305
-  name: 🇭🇰 香港02
-  password: c41ee693-ef0f-4278-9fa1-91a541a1d93c
-  port: 20035
-  server: gy.666666222.shop
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇲🇽 墨西哥 克雷塔罗
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58816
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇷🇺 俄罗斯 莫斯科
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58837
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇸🇪 瑞典 斯德摩尔哥
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58824
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 🇸🇬 新加坡西部
-  network: ws
-  port: 23452
-  server: westsg2-ddns.oraclenat.cc
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 8434e858-8df9-47db-8716-a39ac6c0e17d
-  ws-opts:
-    headers:
-      Host: westsg2-ddns.oraclenat.cc
-    path: /
-- cipher: chacha20-ietf-poly1305
-  name: 🇩🇪 德国 法兰克福
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58805
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 🇨🇦 加拿大1
-  port: 45064
-  server: haa.dashuai.cyou
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c6a264a4-4a2f-46c1-91eb-47ce03e76e45
-- auth: 0bbf91c3-57e5-4e23-8e81-9cf780407efb
-  down: 1000
-  name: 🇩🇪 欧洲-法兰克福-1
-  password: 0bbf91c3-57e5-4e23-8e81-9cf780407efb
-  port: 30001
-  server: oracle-arm-frankfurt1.lanmaoyun.icu
-  skip-cert-verify: true
-  sni: frankfurt1.nodes.lanmaoyun.icu
-  type: hysteria2
-  udp: true
-  up: 100
-- cipher: chacha20-ietf-poly1305
-  name: 🇹🇷 土耳其 土鸡
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58815
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 🇫🇷 法国1
-  port: 45072
-  server: haa.dashuai.cyou
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c6a264a4-4a2f-46c1-91eb-47ce03e76e45
-- auth: c47fe0f5-8b9b-480a-ae70-e101211d9d70
-  down: 50
-  name: 🇩🇪 德国-法兰克福-HY-001-1B
-  obfs: salamander
-  obfs-password: M2UyNTc5OWUwYjkyM2Q2OQ==
-  password: c47fe0f5-8b9b-480a-ae70-e101211d9d70
-  port: 31639
-  server: 185.121.134.12
-  skip-cert-verify: true
-  type: hysteria2
-  udp: true
-  up: 50
-- cipher: chacha20-ietf-poly1305
-  name: 🇯🇵 日本02
-  password: c41ee693-ef0f-4278-9fa1-91a541a1d93c
-  port: 20004
-  server: gy.666666222.shop
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇮🇹 意大利 米兰
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58835
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇰🇭 柬埔寨 金边
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58734
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- auth: 0bbf91c3-57e5-4e23-8e81-9cf780407efb
-  down: 1000
-  name: 🇸🇬 新加坡-1
-  password: 0bbf91c3-57e5-4e23-8e81-9cf780407efb
-  port: 30001
-  server: oracle-amd-singapore1.lanmaoyun.icu
-  skip-cert-verify: true
-  sni: main.nodes.lanmaoyun.icu
-  type: hysteria2
-  udp: true
-  up: 100
-- alterId: 0
-  cipher: auto
-  name: 🇦🇺 澳大利亚原生1
-  port: 45062
-  server: haa.dashuai.cyou
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c6a264a4-4a2f-46c1-91eb-47ce03e76e45
-- alterId: 0
-  cipher: auto
-  name: 🇵🇹 葡萄牙 IEPL专线NO1
-  port: 31001
-  server: qd.needss.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 94cf4c9e-7028-4516-98eb-00eb51fef5f4
-- cipher: chacha20-ietf-poly1305
-  name: 🇺🇦 乌克兰 文尼察
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58826
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 非洲 IEPL专线 NO1
-  port: 44410
-  server: i.needss.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 94cf4c9e-7028-4516-98eb-00eb51fef5f4
-- cipher: chacha20-ietf-poly1305
-  name: 🇯🇵 JP 04 LAIN
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 34104
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇺🇸 US 01 GGVISON
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 34401
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 🇮🇳 印度1
-  port: 45074
-  server: haa.dashuai.cyou
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c6a264a4-4a2f-46c1-91eb-47ce03e76e45
-- cipher: chacha20-ietf-poly1305
-  name: 🇩🇰 丹麦 哥本哈根
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58817
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- auth: 0bbf91c3-57e5-4e23-8e81-9cf780407efb
-  down: 1000
-  name: 🇰🇷 韩国-首尔
-  password: 0bbf91c3-57e5-4e23-8e81-9cf780407efb
-  port: 30001
-  server: oracle-arm-seoul1.lanmaoyun.icu
-  skip-cert-verify: true
-  sni: korea.nodes.lanmaoyun.icu
-  type: hysteria2
-  udp: true
-  up: 100
-- cipher: chacha20-ietf-poly1305
-  name: 🇳🇱 荷兰 林堡省 艾赫尔斯霍芬
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58812
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇮🇪 爱尔兰 都柏林
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58832
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇳🇿 新西兰 奥克兰
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58801
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 🇹🇼 台湾1
-  port: 45078
-  server: haa.dashuai.cyou
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c6a264a4-4a2f-46c1-91eb-47ce03e76e45
-- alterId: 0
-  cipher: auto
-  name: 🇺🇸 美国-纽约-001-1B
-  network: ws
-  port: 443
-  server: batpzevp.whmvmkwuey.store
-  tls: true
-  type: vmess
-  udp: true
-  uuid: c47fe0f5-8b9b-480a-ae70-e101211d9d70
-  ws-opts:
-    headers:
-      Host: batpzevp.whmvmkwuey.store
-    path: /
-- cipher: aes-256-gcm
-  name: XG-DKE
-  password: c41ee693-ef0f-4278-9fa1-91a541a1d93c
-  port: 1200
-  server: hk.kfsldflk.xyz
-  type: ss
-  udp: true
-- auth: 0bbf91c3-57e5-4e23-8e81-9cf780407efb
-  down: 1000
-  name: 🇰🇷 韩国-2
-  password: 0bbf91c3-57e5-4e23-8e81-9cf780407efb
-  port: 30001
-  server: oracle-arm-chuncheon2.lanmaoyun.icu
-  skip-cert-verify: true
-  sni: korea.nodes.lanmaoyun.icu
-  type: hysteria2
-  udp: true
-  up: 100
-- cipher: chacha20-ietf-poly1305
-  name: 波黑 波斯尼亚
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58813
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇹🇼 台湾01
-  password: c41ee693-ef0f-4278-9fa1-91a541a1d93c
-  port: 47564
-  server: gy.666666222.shop
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇺🇸 美国 纽约01
-  password: c41ee693-ef0f-4278-9fa1-91a541a1d93c
-  port: 20013
-  server: gy.666666222.shop
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇨🇿 捷克 维索基纳州
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58820
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇦🇺 澳大利亚 悉尼
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58851
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 🇺🇸 美国NO.2
-  port: 45053
-  server: xdd.dashuai.cyou
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c6a264a4-4a2f-46c1-91eb-47ce03e76e45
-- alterId: 0
-  cipher: auto
-  name: 🇲🇴 澳门NO.2
-  port: 45051
-  server: xdd.dashuai.cyou
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c6a264a4-4a2f-46c1-91eb-47ce03e76e45
-- alterId: 0
-  cipher: auto
-  name: 🇦🇷 阿根廷 IEPL专线NO1
-  port: 20014
-  server: i.needss.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 94cf4c9e-7028-4516-98eb-00eb51fef5f4
-- cipher: chacha20-ietf-poly1305
-  name: 🇭🇺 匈牙利 布达佩斯
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58827
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇺🇸 US 02 CCS
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 34402
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇷🇺 白俄罗斯 明斯克市
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58838
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- auth: 0bbf91c3-57e5-4e23-8e81-9cf780407efb
-  down: 1000
-  name: 🇰🇷 韩国-1
-  password: 0bbf91c3-57e5-4e23-8e81-9cf780407efb
-  port: 30001
-  server: oracle-arm-chuncheon1.lanmaoyun.icu
-  skip-cert-verify: true
-  sni: korea.nodes.lanmaoyun.icu
-  type: hysteria2
-  udp: true
-  up: 100
-- alterId: 0
-  cipher: auto
-  name: 🇨🇦 加拿大2
-  port: 45065
-  server: xdd.dashuai.cyou
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c6a264a4-4a2f-46c1-91eb-47ce03e76e45
-- cipher: chacha20-ietf-poly1305
-  name: 🇵🇱 波兰 弗罗茨瓦夫
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58814
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 🇸🇬 新加坡NO.2
-  port: 45055
-  server: xdd.dashuai.cyou
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c6a264a4-4a2f-46c1-91eb-47ce03e76e45
-- cipher: chacha20-ietf-poly1305
-  name: 🇫🇮 芬兰 赫尔辛基
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58822
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 🇹🇼 台湾 IEPL专线NO3
-  port: 20016
-  server: i.needss.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 94cf4c9e-7028-4516-98eb-00eb51fef5f4
-- cipher: chacha20-ietf-poly1305
-  name: 🇦🇪 阿联酋 富查伊拉
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58853
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- auth: c47fe0f5-8b9b-480a-ae70-e101211d9d70
-  down: 50
-  name: 🇷🇺 俄罗斯-圣彼得堡-HY-015-1B
-  obfs: salamander
-  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
-  password: c47fe0f5-8b9b-480a-ae70-e101211d9d70
-  port: 28153
-  server: 195.58.49.42
-  skip-cert-verify: true
-  type: hysteria2
-  udp: true
-  up: 50
-- alterId: 0
-  cipher: auto
-  name: 🇺🇸 美国 IEPL专线NO1
-  port: 54770
-  server: i.needss.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 94cf4c9e-7028-4516-98eb-00eb51fef5f4
-- cipher: chacha20-ietf-poly1305
-  name: 🇸🇬 SG 01 SPEEDY
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 34301
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- auth: 0bbf91c3-57e5-4e23-8e81-9cf780407efb
-  down: 1000
-  name: 🇺🇸 北美-US-圣何塞-2
-  password: 0bbf91c3-57e5-4e23-8e81-9cf780407efb
-  port: 30001
-  server: oracle-amd-san-jose2.lanmaoyun.icu
-  skip-cert-verify: true
-  sni: san-jose2.nodes.lanmaoyun.icu
-  type: hysteria2
-  udp: true
-  up: 100
-- cipher: chacha20-ietf-poly1305
-  name: 🇰🇿 哈萨克斯坦 阿斯塔纳
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58845
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇷🇸 塞尔维亚 贝尔格莱德
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58840
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 🇺🇸 美国-纽约-001-1A
-  network: ws
-  port: 443
-  server: batpzevp.whmvmkwuey.store
-  tls: true
-  type: vmess
-  udp: true
-  uuid: a8e24711-f156-4b06-896c-dedb4faa830f
-  ws-opts:
-    headers:
-      Host: batpzevp.whmvmkwuey.store
-    path: /
-- cipher: chacha20-ietf-poly1305
-  name: 🇭🇰 香港03
-  password: c41ee693-ef0f-4278-9fa1-91a541a1d93c
-  port: 20052
-  server: gy.666666222.shop
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 🇯🇵 日本 IEPL专线NO1
-  port: 20017
-  server: i.needss.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 94cf4c9e-7028-4516-98eb-00eb51fef5f4
-- alterId: 0
-  cipher: auto
-  name: 🇨🇦 加拿大 IEPL专线 NO1
-  port: 45112
-  server: qd.needss.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 94cf4c9e-7028-4516-98eb-00eb51fef5f4
-- cipher: chacha20-ietf-poly1305
-  name: 🇮🇩 印度尼西亚 雅加达
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58846
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇸🇰 斯洛伐克
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58847
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇵🇭 菲律宾 马尼拉
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58831
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 🇸🇬 新加坡 IEPL专线NO1
-  port: 20015
-  server: i.needss.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 94cf4c9e-7028-4516-98eb-00eb51fef5f4
-- cipher: chacha20-ietf-poly1305
-  name: 🇹🇳 突尼斯 突尼斯市
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58854
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- auth: 0bbf91c3-57e5-4e23-8e81-9cf780407efb
-  down: 1000
-  name: 🇪🇺 欧洲-伦敦-1
-  password: 0bbf91c3-57e5-4e23-8e81-9cf780407efb
-  port: 30001
-  server: oracle-arm-london1.lanmaoyun.icu
-  skip-cert-verify: true
-  sni: london1.nodes.lanmaoyun.icu
-  type: hysteria2
-  udp: true
-  up: 100
-- alterId: 0
-  cipher: auto
-  name: 🇯🇵 日本NO.1
-  port: 45056
-  server: haa.dashuai.cyou
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c6a264a4-4a2f-46c1-91eb-47ce03e76e45
-- cipher: chacha20-ietf-poly1305
-  name: 🇹🇼 台湾 1
-  password: c41ee693-ef0f-4278-9fa1-91a541a1d93c
-  port: 20032
-  server: gy.666666222.shop
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 🇬🇧 英国2
-  port: 45067
-  server: xdd.dashuai.cyou
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c6a264a4-4a2f-46c1-91eb-47ce03e76e45
-- cipher: chacha20-ietf-poly1305
-  name: 🇹🇼 TW 01 DUO
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 34501
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇯🇵 日本03
-  password: c41ee693-ef0f-4278-9fa1-91a541a1d93c
-  port: 20006
-  server: gy.666666222.shop
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 🇩🇪 德国
-  network: ws
-  port: 443
-  server: visa.com
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 8434e858-8df9-47db-8716-a39ac6c0e17d
-  ws-opts:
-    headers:
-      Host: go.daluquan.top
-    path: /
-- cipher: chacha20-ietf-poly1305
-  name: 缅甸 仰光
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58807
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 🇫🇷 法国2
-  port: 45071
-  server: xdd.dashuai.cyou
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c6a264a4-4a2f-46c1-91eb-47ce03e76e45
-- alterId: 0
-  cipher: auto
-  name: 🇹🇭 泰国 IEPL专线 NO1
-  port: 30028
-  server: i.needss.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 94cf4c9e-7028-4516-98eb-00eb51fef5f4
-- alterId: 0
-  cipher: auto
-  name: 🇳🇱 荷兰 IEPL专线NO1
-  port: 20014
-  server: qd.needss.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 94cf4c9e-7028-4516-98eb-00eb51fef5f4
-- alterId: 0
-  cipher: auto
-  name: 🇷🇺 俄罗斯-圣彼得堡-015-1B
-  network: ws
-  port: 20312
-  server: 195.58.49.42
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c47fe0f5-8b9b-480a-ae70-e101211d9d70
-  ws-opts:
-    path: /
-- cipher: chacha20-ietf-poly1305
-  name: 🇺🇸 美国 纽约2
-  password: c41ee693-ef0f-4278-9fa1-91a541a1d93c
-  port: 20016
-  server: gy.666666222.shop
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 🇭🇰 香港
-  port: 19901
-  server: xg.dashuai.cyou
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c6a264a4-4a2f-46c1-91eb-47ce03e76e45
-- alterId: 0
-  cipher: auto
-  name: 🇮🇳 印度 IEPL专线NO1
-  port: 15442
-  server: i.needss.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 94cf4c9e-7028-4516-98eb-00eb51fef5f4
-- alterId: 0
-  cipher: auto
-  name: 🇺🇸 美国
-  network: ws
-  port: 23451
-  server: shhh001.oraclenat.cc
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 8434e858-8df9-47db-8716-a39ac6c0e17d
-  ws-opts:
-    headers:
-      Host: shhh001.oraclenat.cc
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 🇯🇵 日本NO.2
-  port: 45057
-  server: xdd.dashuai.cyou
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c6a264a4-4a2f-46c1-91eb-47ce03e76e45
-- alterId: 0
-  cipher: auto
-  name: 🇩🇪 德国法兰克福
+  name: 🇩🇪 德国法兰克福-1B
   network: ws
   port: 23451
   server: frankfurt.faforex.eu.org
   tls: false
   type: vmess
   udp: true
-  uuid: 8434e858-8df9-47db-8716-a39ac6c0e17d
+  uuid: 1a1d2f1a-17c4-4cc7-88b0-62c08ac73afe
   ws-opts:
     headers:
       Host: us-new03.daluquan.top
     path: /itdog?ed=2560
-- cipher: chacha20-ietf-poly1305
-  name: 🇯🇵 JP 03 NTT HOME
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 34103
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇦🇷 阿根廷 布宜诺斯艾利斯
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58802
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇯🇵 日本01
-  password: c41ee693-ef0f-4278-9fa1-91a541a1d93c
-  port: 20002
-  server: gy.666666222.shop
-  type: ss
-  udp: true
-- auth: a8e24711-f156-4b06-896c-dedb4faa830f
-  down: 50
-  name: 🇷🇺 俄罗斯-圣彼得堡-HY-015-1A
-  obfs: salamander
-  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
-  password: a8e24711-f156-4b06-896c-dedb4faa830f
-  port: 28153
-  server: 195.58.49.42
-  skip-cert-verify: true
-  type: hysteria2
-  udp: true
-  up: 50
 - alterId: 0
   cipher: auto
-  name: 🇮🇳 印度2
-  port: 45073
-  server: xdd.dashuai.cyou
+  name: 🇷🇺 俄罗斯-莫斯科-F3-001-1B
+  network: ws
+  port: 23010
+  server: 185.22.152.236
   tls: false
   type: vmess
   udp: true
-  uuid: c6a264a4-4a2f-46c1-91eb-47ce03e76e45
-- cipher: chacha20-ietf-poly1305
-  name: 🇰🇬 吉尔吉斯斯坦 比什凯克
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58848
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇨🇦 加拿大 蒙特利尔
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58809
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇧🇩 孟加拉 达卡
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58825
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇨🇴 哥伦比亚 波哥大
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58849
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
+  uuid: cdabf7d1-caad-4ccb-a2b0-3a664c24d736
+  ws-opts:
+    path: /
 - alterId: 0
   cipher: auto
-  name: 🇦🇺 澳大利亚 IEPL专线NO1
-  port: 20011
-  server: i.needss.top
+  name: 🇺🇸 美国-纽约-F3-001-1B
+  network: ws
+  port: 23008
+  server: 207.90.237.96
   tls: false
   type: vmess
   udp: true
-  uuid: 94cf4c9e-7028-4516-98eb-00eb51fef5f4
-- cipher: chacha20-ietf-poly1305
-  name: 🇭🇰 香港01
-  password: c41ee693-ef0f-4278-9fa1-91a541a1d93c
-  port: 34338
-  server: gy.666666222.shop
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇱🇹 立陶宛 维尔纽斯
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58736
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- auth: 0bbf91c3-57e5-4e23-8e81-9cf780407efb
-  down: 1000
-  name: 🇯🇵 日本-2
-  password: 0bbf91c3-57e5-4e23-8e81-9cf780407efb
-  port: 30001
-  server: oracle-amd-osaka1.lanmaoyun.icu
-  skip-cert-verify: true
-  sni: osaka.nodes.lanmaoyun.icu
-  type: hysteria2
-  udp: true
-  up: 100
-- cipher: chacha20-ietf-poly1305
-  name: 🇸🇦 沙特阿拉伯 吉达
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58850
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇲🇰 北马 北马其顿
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58823
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 卡塔尔 多哈
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58852
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇳🇵 尼泊尔 加德满都
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58828
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇻🇳 越南 河内ISP
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58808
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 🇰🇷 韩国 IEPL专线NO1
-  port: 20021
-  server: i.needss.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 94cf4c9e-7028-4516-98eb-00eb51fef5f4
-- cipher: chacha20-ietf-poly1305
-  name: 🇵🇹 葡萄牙 维亚纳堡
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58830
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 安哥拉 罗安达
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58839
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- auth: 0bbf91c3-57e5-4e23-8e81-9cf780407efb
-  down: 1000
-  name: 🇯🇵 日本-1
-  password: 0bbf91c3-57e5-4e23-8e81-9cf780407efb
-  port: 30001
-  server: oracle-amd-tokyo1.lanmaoyun.icu
-  skip-cert-verify: true
-  sni: tokyo.nodes.lanmaoyun.icu
-  type: hysteria2
-  udp: true
-  up: 100
-- cipher: chacha20-ietf-poly1305
-  name: 🇭🇰 HK 04 BAGEVM
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 34004
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 🇩🇪 德国 IEPL专线NO1
-  port: 54787
-  server: i.needss.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 94cf4c9e-7028-4516-98eb-00eb51fef5f4
-- alterId: 0
-  cipher: auto
-  name: 🇫🇷 法国 CM 隧道NO1
-  port: 52108
-  server: qd.needss.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 94cf4c9e-7028-4516-98eb-00eb51fef5f4
-- cipher: chacha20-ietf-poly1305
-  name: 🇸🇬 SG 03 BAGEVM
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 34303
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇺🇸 US 03 CC
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 34403
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- auth: a8e24711-f156-4b06-896c-dedb4faa830f
-  down: 50
-  name: 🇩🇪 德国-法兰克福-HY-001-1A
-  obfs: salamander
-  obfs-password: M2UyNTc5OWUwYjkyM2Q2OQ==
-  password: a8e24711-f156-4b06-896c-dedb4faa830f
-  port: 31639
-  server: 185.121.134.12
-  skip-cert-verify: true
-  type: hysteria2
-  udp: true
-  up: 50
-- alterId: 0
-  cipher: auto
-  name: 🇹🇼 台湾2
-  port: 45077
-  server: xdd.dashuai.cyou
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c6a264a4-4a2f-46c1-91eb-47ce03e76e45
-- cipher: chacha20-ietf-poly1305
-  name: 🇮🇸 冰岛 雷克亚维克
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58710
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 🇦🇺 澳大利亚原生2
-  port: 45063
-  server: xdd.dashuai.cyou
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c6a264a4-4a2f-46c1-91eb-47ce03e76e45
-- cipher: chacha20-ietf-poly1305
-  name: 🇹🇭 泰国 曼谷
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 32306
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇯🇵 JP 02 BAGEVM
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 34102
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 🇬🇧 英国 IEPL专线NO1
-  port: 54774
-  server: qd.needss.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 94cf4c9e-7028-4516-98eb-00eb51fef5f4
-- alterId: 0
-  cipher: auto
-  name: 🇸🇬 新加坡NO.1
-  port: 45054
-  server: haa.dashuai.cyou
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c6a264a4-4a2f-46c1-91eb-47ce03e76e45
-- cipher: chacha20-ietf-poly1305
-  name: 🇧🇬 保加利亚 索菲亚
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58841
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇸🇬 SG 02 GGV
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 34302
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 🇺🇸 美国NO.1
-  port: 45052
-  server: haa.dashuai.cyou
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c6a264a4-4a2f-46c1-91eb-47ce03e76e45
-- cipher: chacha20-ietf-poly1305
-  name: 🇭🇰 HK 03 LAIN
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 34003
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 🇹🇼 台湾 IEPL专线NO1
-  port: 52103
-  server: i.needss.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 94cf4c9e-7028-4516-98eb-00eb51fef5f4
-- cipher: chacha20-ietf-poly1305
-  name: 🇳🇬 尼日利亚 阿布贾
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58804
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇵🇪 秘鲁
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58821
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 阿曼 马斯喀特
-  password: 7c5cfd70-8a29-45e6-824c-77b5533a36b5
-  port: 58819
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 🇯🇵 日本04
-  password: c41ee693-ef0f-4278-9fa1-91a541a1d93c
-  port: 20008
-  server: gy.666666222.shop
-  type: ss
-  udp: true
-- auth: cdabf7d1-caad-4ccb-a2b0-3a664c24d736
-  down: 100
-  name: 🇭🇰 中国-香港-HY-F3-001-1A
-  obfs: salamander
-  obfs-password: M2UyNTc5OWUwYjkyM2Q2OQ==
-  password: cdabf7d1-caad-4ccb-a2b0-3a664c24d736
-  port: 33007
-  server: 212.192.13.68
-  skip-cert-verify: true
-  type: hysteria2
-  udp: true
-  up: 100
+  uuid: cdabf7d1-caad-4ccb-a2b0-3a664c24d736
+  ws-opts:
+    path: /
 - alterId: 0
   cipher: auto
   name: 🇺🇸 美国-1B
@@ -1133,7 +58,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 449535d3-bc0e-4591-af16-73377c3e20d9
+  uuid: 1a1d2f1a-17c4-4cc7-88b0-62c08ac73afe
   ws-opts:
     headers:
       Host: shhh001.oraclenat.cc
@@ -1147,14 +72,68 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 449535d3-bc0e-4591-af16-73377c3e20d9
+  uuid: 1a1d2f1a-17c4-4cc7-88b0-62c08ac73afe
   ws-opts:
     headers:
       Host: westsg2-ddns.oraclenat.cc
     path: /
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸 美国-1A
+  network: ws
+  port: 23451
+  server: shhh001.oraclenat.cc
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 449535d3-bc0e-4591-af16-73377c3e20d9
+  ws-opts:
+    headers:
+      Host: shhh001.oraclenat.cc
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸 美国-纽约-F3-001-1A
+  network: ws
+  port: 23008
+  server: 207.90.237.96
+  tls: false
+  type: vmess
+  udp: true
+  uuid: d3ed0e02-6ec4-4683-bd59-edcdfda92ac2
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇩🇪 德国-1A
+  network: ws
+  port: 443
+  server: visa.com
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 449535d3-bc0e-4591-af16-73377c3e20d9
+  ws-opts:
+    headers:
+      Host: go.daluquan.top
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 🇩🇪 德国法兰克福-1A
+  network: ws
+  port: 23451
+  server: frankfurt.faforex.eu.org
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 449535d3-bc0e-4591-af16-73377c3e20d9
+  ws-opts:
+    headers:
+      Host: us-new03.daluquan.top
+    path: /itdog?ed=2560
 - auth: d3ed0e02-6ec4-4683-bd59-edcdfda92ac2
   down: 100
-  name: 🇺🇸 美国-纽约-HY-F3-001-1B
+  name: 🇺🇸 美国-纽约-HY-F3-001-1A
   obfs: salamander
   obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
   password: d3ed0e02-6ec4-4683-bd59-edcdfda92ac2
@@ -1164,36 +143,36 @@ proxies:
   type: hysteria2
   udp: true
   up: 100
-- alterId: 0
-  cipher: auto
-  name: 🇷🇺 俄罗斯-莫斯科-F3-001-1A
-  network: ws
-  port: 23009
-  server: 185.22.152.236
-  tls: false
-  type: vmess
-  udp: true
-  uuid: cdabf7d1-caad-4ccb-a2b0-3a664c24d736
-  ws-opts:
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 🇭🇰 中国-香港-F3-001-1B
-  network: ws
-  port: 23009
-  server: 212.192.13.68
-  tls: false
-  type: vmess
-  udp: true
-  uuid: d3ed0e02-6ec4-4683-bd59-edcdfda92ac2
-  ws-opts:
-    path: /
 - auth: d3ed0e02-6ec4-4683-bd59-edcdfda92ac2
+  down: 100
+  name: 🇭🇰 中国-香港-HY-F3-001-1A
+  obfs: salamander
+  obfs-password: M2UyNTc5OWUwYjkyM2Q2OQ==
+  password: d3ed0e02-6ec4-4683-bd59-edcdfda92ac2
+  port: 33007
+  server: 212.192.13.68
+  skip-cert-verify: true
+  type: hysteria2
+  udp: true
+  up: 100
+- auth: cdabf7d1-caad-4ccb-a2b0-3a664c24d736
+  down: 100
+  name: 🇺🇸 美国-纽约-HY-F3-001-1B
+  obfs: salamander
+  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
+  password: cdabf7d1-caad-4ccb-a2b0-3a664c24d736
+  port: 33006
+  server: 207.90.237.96
+  skip-cert-verify: true
+  type: hysteria2
+  udp: true
+  up: 100
+- auth: cdabf7d1-caad-4ccb-a2b0-3a664c24d736
   down: 100
   name: 🇷🇺 俄罗斯-莫斯科-HY-F3-001-1B
   obfs: salamander
   obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
-  password: d3ed0e02-6ec4-4683-bd59-edcdfda92ac2
+  password: cdabf7d1-caad-4ccb-a2b0-3a664c24d736
   port: 33007
   server: 185.22.152.236
   skip-cert-verify: true
@@ -1204,32 +183,20 @@ proxies:
   cipher: auto
   name: 🇭🇰 中国-香港-F3-001-1A
   network: ws
-  port: 23009
+  port: 23010
   server: 212.192.13.68
   tls: false
   type: vmess
   udp: true
-  uuid: cdabf7d1-caad-4ccb-a2b0-3a664c24d736
+  uuid: d3ed0e02-6ec4-4683-bd59-edcdfda92ac2
   ws-opts:
     path: /
 - auth: cdabf7d1-caad-4ccb-a2b0-3a664c24d736
   down: 100
-  name: 🇷🇺 俄罗斯-莫斯科-HY-F3-001-1A
-  obfs: salamander
-  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
-  password: cdabf7d1-caad-4ccb-a2b0-3a664c24d736
-  port: 33007
-  server: 185.22.152.236
-  skip-cert-verify: true
-  type: hysteria2
-  udp: true
-  up: 100
-- auth: d3ed0e02-6ec4-4683-bd59-edcdfda92ac2
-  down: 100
   name: 🇭🇰 中国-香港-HY-F3-001-1B
   obfs: salamander
   obfs-password: M2UyNTc5OWUwYjkyM2Q2OQ==
-  password: d3ed0e02-6ec4-4683-bd59-edcdfda92ac2
+  password: cdabf7d1-caad-4ccb-a2b0-3a664c24d736
   port: 33007
   server: 212.192.13.68
   skip-cert-verify: true
@@ -1245,11 +212,35 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 1a1d2f1a-17c4-4cc7-88b0-62c08ac73afe
+  uuid: 449535d3-bc0e-4591-af16-73377c3e20d9
   ws-opts:
     headers:
       Host: westsg2-ddns.oraclenat.cc
     path: /
+- alterId: 0
+  cipher: auto
+  name: 🇷🇺 俄罗斯-莫斯科-F3-001-1A
+  network: ws
+  port: 23010
+  server: 185.22.152.236
+  tls: false
+  type: vmess
+  udp: true
+  uuid: d3ed0e02-6ec4-4683-bd59-edcdfda92ac2
+  ws-opts:
+    path: /
+- auth: d3ed0e02-6ec4-4683-bd59-edcdfda92ac2
+  down: 100
+  name: 🇷🇺 俄罗斯-莫斯科-HY-F3-001-1A
+  obfs: salamander
+  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
+  password: d3ed0e02-6ec4-4683-bd59-edcdfda92ac2
+  port: 33007
+  server: 185.22.152.236
+  skip-cert-verify: true
+  type: hysteria2
+  udp: true
+  up: 100
 - alterId: 0
   cipher: auto
   name: 🇩🇪 德国-1B
@@ -1259,112 +250,8 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 449535d3-bc0e-4591-af16-73377c3e20d9
-  ws-opts:
-    headers:
-      Host: go.daluquan.top
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 🇺🇸 美国-纽约-F3-001-1B
-  network: ws
-  port: 23008
-  server: 207.90.237.96
-  tls: false
-  type: vmess
-  udp: true
-  uuid: d3ed0e02-6ec4-4683-bd59-edcdfda92ac2
-  ws-opts:
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 🇩🇪 德国法兰克福-1A
-  network: ws
-  port: 23451
-  server: frankfurt.faforex.eu.org
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 1a1d2f1a-17c4-4cc7-88b0-62c08ac73afe
-  ws-opts:
-    headers:
-      Host: us-new03.daluquan.top
-    path: /itdog?ed=2560
-- alterId: 0
-  cipher: auto
-  name: 🇩🇪 德国-1A
-  network: ws
-  port: 443
-  server: visa.com
-  tls: false
-  type: vmess
-  udp: true
   uuid: 1a1d2f1a-17c4-4cc7-88b0-62c08ac73afe
   ws-opts:
     headers:
       Host: go.daluquan.top
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 🇺🇸 美国-1A
-  network: ws
-  port: 23451
-  server: shhh001.oraclenat.cc
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 1a1d2f1a-17c4-4cc7-88b0-62c08ac73afe
-  ws-opts:
-    headers:
-      Host: shhh001.oraclenat.cc
-    path: /
-- auth: cdabf7d1-caad-4ccb-a2b0-3a664c24d736
-  down: 100
-  name: 🇺🇸 美国-纽约-HY-F3-001-1A
-  obfs: salamander
-  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
-  password: cdabf7d1-caad-4ccb-a2b0-3a664c24d736
-  port: 33006
-  server: 207.90.237.96
-  skip-cert-verify: true
-  type: hysteria2
-  udp: true
-  up: 100
-- alterId: 0
-  cipher: auto
-  name: 🇷🇺 俄罗斯-莫斯科-F3-001-1B
-  network: ws
-  port: 23009
-  server: 185.22.152.236
-  tls: false
-  type: vmess
-  udp: true
-  uuid: d3ed0e02-6ec4-4683-bd59-edcdfda92ac2
-  ws-opts:
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 🇩🇪 德国法兰克福-1B
-  network: ws
-  port: 23451
-  server: frankfurt.faforex.eu.org
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 449535d3-bc0e-4591-af16-73377c3e20d9
-  ws-opts:
-    headers:
-      Host: us-new03.daluquan.top
-    path: /itdog?ed=2560
-- alterId: 0
-  cipher: auto
-  name: 🇺🇸 美国-纽约-F3-001-1A
-  network: ws
-  port: 23008
-  server: 207.90.237.96
-  tls: false
-  type: vmess
-  udp: true
-  uuid: cdabf7d1-caad-4ccb-a2b0-3a664c24d736
-  ws-opts:
     path: /
