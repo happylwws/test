@@ -367,7 +367,7 @@ proxies:
   down: 1000
   name: 🇺🇸 美国1
   password: 46ede68c-20e1-4042-b1ea-4338939f593b
-  port: 22299
+  port: 22660
   ports: 22001-22999
   server: aimanman-us.sanguayun.com
   skip-cert-verify: false
@@ -378,7 +378,7 @@ proxies:
   down: 1000
   name: 🇺🇸 美国2
   password: 46ede68c-20e1-4042-b1ea-4338939f593b
-  port: 22707
+  port: 22419
   ports: 22001-22999
   server: aimanman-us.sanguayun.com
   skip-cert-verify: false
@@ -389,7 +389,7 @@ proxies:
   down: 1000
   name: 🇺🇸 美国3
   password: 46ede68c-20e1-4042-b1ea-4338939f593b
-  port: 22071
+  port: 22649
   ports: 22001-22999
   server: aimanman-us.sanguayun.com
   skip-cert-verify: false
@@ -400,7 +400,7 @@ proxies:
   down: 1000
   name: 🇺🇸 美国4
   password: 46ede68c-20e1-4042-b1ea-4338939f593b
-  port: 22115
+  port: 22188
   ports: 22001-22999
   server: aimanman-us.sanguayun.com
   skip-cert-verify: false
@@ -411,7 +411,7 @@ proxies:
   down: 1000
   name: 🇯🇵 日本1
   password: 46ede68c-20e1-4042-b1ea-4338939f593b
-  port: 22709
+  port: 22051
   ports: 22001-22999
   server: aimanman-jp.sanguayun.com
   skip-cert-verify: false
@@ -422,7 +422,7 @@ proxies:
   down: 1000
   name: 🇯🇵 日本2
   password: 46ede68c-20e1-4042-b1ea-4338939f593b
-  port: 22299
+  port: 22374
   ports: 22001-22999
   server: aimanman-jp.sanguayun.com
   skip-cert-verify: false
@@ -433,7 +433,7 @@ proxies:
   down: 1000
   name: 🇯🇵 日本3
   password: 46ede68c-20e1-4042-b1ea-4338939f593b
-  port: 22854
+  port: 22533
   ports: 22001-22999
   server: aimanman-jp.sanguayun.com
   skip-cert-verify: false
@@ -444,7 +444,7 @@ proxies:
   down: 1000
   name: 🇯🇵 日本4
   password: 46ede68c-20e1-4042-b1ea-4338939f593b
-  port: 22720
+  port: 22445
   ports: 22001-22999
   server: aimanman-jp.sanguayun.com
   skip-cert-verify: false
@@ -455,7 +455,7 @@ proxies:
   down: 1000
   name: 🇰🇷 韩国1
   password: 46ede68c-20e1-4042-b1ea-4338939f593b
-  port: 22756
+  port: 22186
   ports: 22001-22999
   server: aimanman-kr.sanguayun.com
   skip-cert-verify: false
@@ -466,7 +466,7 @@ proxies:
   down: 1000
   name: 🇰🇷 韩国2
   password: 46ede68c-20e1-4042-b1ea-4338939f593b
-  port: 22637
+  port: 22497
   ports: 22001-22999
   server: aimanman-kr.sanguayun.com
   skip-cert-verify: false
@@ -477,7 +477,7 @@ proxies:
   down: 1000
   name: 🇰🇷 韩国3
   password: 46ede68c-20e1-4042-b1ea-4338939f593b
-  port: 22332
+  port: 22766
   ports: 22001-22999
   server: aimanman-kr.sanguayun.com
   skip-cert-verify: false
@@ -488,7 +488,7 @@ proxies:
   down: 1000
   name: 🇰🇷 韩国4
   password: 46ede68c-20e1-4042-b1ea-4338939f593b
-  port: 22584
+  port: 22745
   ports: 22001-22999
   server: aimanman-kr.sanguayun.com
   skip-cert-verify: false
@@ -499,7 +499,7 @@ proxies:
   down: 1000
   name: 🇸🇬 新加坡1
   password: 46ede68c-20e1-4042-b1ea-4338939f593b
-  port: 22530
+  port: 22869
   ports: 22001-22999
   server: aimanman-sg.sanguayun.com
   skip-cert-verify: false
@@ -510,7 +510,7 @@ proxies:
   down: 1000
   name: 🇸🇬 新加坡2
   password: 46ede68c-20e1-4042-b1ea-4338939f593b
-  port: 22494
+  port: 22248
   ports: 22001-22999
   server: aimanman-sg.sanguayun.com
   skip-cert-verify: false
@@ -521,7 +521,7 @@ proxies:
   down: 1000
   name: 🇸🇬 新加坡3
   password: 46ede68c-20e1-4042-b1ea-4338939f593b
-  port: 22556
+  port: 22863
   ports: 22001-22999
   server: aimanman-sg.sanguayun.com
   skip-cert-verify: false
@@ -532,7 +532,7 @@ proxies:
   down: 1000
   name: 🇸🇬 新加坡4
   password: 46ede68c-20e1-4042-b1ea-4338939f593b
-  port: 22968
+  port: 22617
   ports: 22001-22999
   server: aimanman-sg.sanguayun.com
   skip-cert-verify: false
@@ -543,7 +543,7 @@ proxies:
   down: 1000
   name: 🇬🇧 英国1
   password: 46ede68c-20e1-4042-b1ea-4338939f593b
-  port: 22427
+  port: 22616
   ports: 22001-22999
   server: aimanman-uk.sanguayun.com
   skip-cert-verify: false
@@ -554,7 +554,7 @@ proxies:
   down: 1000
   name: 🇬🇧 英国2
   password: 46ede68c-20e1-4042-b1ea-4338939f593b
-  port: 22466
+  port: 22028
   ports: 22001-22999
   server: aimanman-uk.sanguayun.com
   skip-cert-verify: false
@@ -565,7 +565,7 @@ proxies:
   down: 1000
   name: 🇬🇧 英国3
   password: 46ede68c-20e1-4042-b1ea-4338939f593b
-  port: 22329
+  port: 22285
   ports: 22001-22999
   server: aimanman-uk.sanguayun.com
   skip-cert-verify: false
@@ -576,7 +576,7 @@ proxies:
   down: 1000
   name: 🇬🇧 英国4
   password: 46ede68c-20e1-4042-b1ea-4338939f593b
-  port: 22111
+  port: 22131
   ports: 22001-22999
   server: aimanman-uk.sanguayun.com
   skip-cert-verify: false
