@@ -362,921 +362,307 @@ proxies:
     headers:
       Host: lk.4056860.xyz
     path: /
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 巴拉圭 - 亞松森 - IPXON Networks - 1
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 38.165.233.18
-  type: ss
-- client-fingerprint: chrome
-  name: 🇩🇪 德国 - 德赖艾希 - Cloudflare, Inc. - 1
-  network: ws
-  port: 5004
-  server: 45.154.98.99
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 🇩🇪 德国 - 兰河畔林堡 - OVH SAS - 2
-  port: 44550
-  server: 120.232.153.40
+  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 10
+  network: ws
+  port: 23013
+  server: 212.192.13.68
   skip-cert-verify: true
   tls: false
   type: vmess
+  uuid: 9d12b1af-923f-44bc-90ea-2edb6c1a3731
+  ws-opts:
+    headers:
+      Host: 212.192.13.68
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 11
+  network: ws
+  port: 23013
+  server: 212.192.13.68
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 299a9379-5aba-4727-88df-b273380d2c45
+  ws-opts:
+    headers:
+      Host: 212.192.13.68
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 12
+  network: ws
+  port: 21010
+  server: 212.192.13.110
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: b0f4ac5f-c87c-4675-b2e6-5d4b08820e0d
+  ws-opts:
+    headers:
+      Host: 212.192.13.110
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 13
+  network: ws
+  port: 23013
+  server: 212.192.13.68
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 263e4a55-0018-4fa0-a099-4fb26226d2e4
+  ws-opts:
+    headers:
+      Host: 212.192.13.68
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 14
+  network: ws
+  port: 23013
+  server: 212.192.13.68
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 075392e0-27d3-4c8a-851a-18b724d5a953
+  ws-opts:
+    headers:
+      Host: 212.192.13.68
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 15
+  network: ws
+  port: 23013
+  server: 212.192.13.68
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: f080c149-138c-4cfd-9d94-aeb7e929835d
+  ws-opts:
+    headers:
+      Host: 212.192.13.68
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 16
+  network: ws
+  port: 23013
+  server: 212.192.13.68
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b0f4ac5f-c87c-4675-b2e6-5d4b08820e0d
+  ws-opts:
+    headers:
+      Host: 212.192.13.68
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 17
+  network: ws
+  port: 21010
+  server: 212.192.13.110
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 2c52d942-cde9-4f4a-9c7b-c843096259a5
+  ws-opts:
+    headers:
+      Host: 212.192.13.110
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 18
+  network: ws
+  port: 21010
+  server: 212.192.13.110
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 34c54cf9-3f8c-44a7-b3f1-410ae754d95f
+  ws-opts:
+    headers:
+      Host: 212.192.13.110
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 8
+  network: ws
+  port: 21010
+  server: 212.192.13.110
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: a9e32ffb-24b2-495e-813a-c871e96d0cf1
+  ws-opts:
+    headers:
+      Host: 212.192.13.110
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 9
+  network: ws
+  port: 23013
+  server: 212.192.13.68
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 114cdc27-00ef-49a9-8008-2e326de64b8a
+  ws-opts:
+    headers:
+      Host: 212.192.13.68
+    path: /
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇹🇼 中国 - 台湾 - CHIEF - 19
+  password: ECOQAU8O56QGBV28
+  port: 21002
+  server: qh62onjn.slashdevslashnetslashtun.net
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇹🇼 中国 - 台湾 - CHIEF - 20
+  password: KM16ID6XDW3XRC7K
+  port: 21006
+  server: qh62onjn.slashdevslashnetslashtun.net
+  type: ss
+- client-fingerprint: random
+  flow: xtls-rprx-vision
+  name: 🇭🇰 中国 - 香港 - Alibaba (US) Technology Co., Ltd. - 22
+  network: tcp
+  port: 443
+  server: 3a75214.okxyz.xyz
+  servername: 3a75214.okxyz.xyz
+  tls: true
+  type: vless
+  uuid: fa80afbd-f447-3a3b-a0a3-74fa6df3473f
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 🇭🇰 中国 - 香港 - Bage Cloud LLC - 1
+  password: 3FB23A19-9424-40C7-9139-3540228283FA
+  port: 40000
+  server: hk.fastsoonlink.com
+  type: ss
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 中国 - 香港 - Baxet Group Inc. - 2
+  network: ws
+  port: 22002
+  server: 45.144.174.90
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 2c52d942-cde9-4f4a-9c7b-c843096259a5
+  ws-opts:
+    headers:
+      Host: 45.144.174.90
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 中国 - 香港 - Baxet Group Inc. - 3
+  network: ws
+  port: 22002
+  server: 45.144.174.90
+  tls: false
+  type: vmess
+  udp: true
+  uuid: a61a2b91-1e92-47dc-bf4c-a386fa4184ff
+  ws-opts:
+    headers:
+      Host: 45.144.174.90
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 中国 - 香港 - Baxet Group Inc. - 4
+  network: ws
+  port: 22002
+  server: 45.144.174.90
+  tls: false
+  type: vmess
+  udp: true
+  uuid: b84d4f00-ad98-4ca9-878f-67eb37f1b148
+  ws-opts:
+    headers:
+      Host: 45.144.174.90
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 中国 - 香港 - Baxet Group Inc. - 5
+  network: ws
+  port: 22002
+  server: 45.144.174.90
+  tls: false
+  type: vmess
+  udp: true
+  uuid: a2f516d1-3483-4430-a376-9e3e225b49bf
+  ws-opts:
+    headers:
+      Host: 45.144.174.90
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 中国 - 香港 - Baxet Group Inc. - 6
+  network: ws
+  port: 22002
+  server: 45.144.174.90
+  tls: false
+  type: vmess
+  udp: true
+  uuid: e636d0ab-8300-413c-bcfe-ba31b95015ba
+  ws-opts:
+    headers:
+      Host: 45.144.174.90
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 中国 - 香港 - Baxet Group Inc. - 7
+  network: ws
+  port: 22002
+  server: 45.144.174.90
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 34c54cf9-3f8c-44a7-b3f1-410ae754d95f
+  ws-opts:
+    headers:
+      Host: 45.144.174.90
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 中国 - 香港 - CTG Server Ltd. - 21
+  port: 51754
+  server: 183.236.51.38
+  tls: false
+  type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 0
-  cipher: auto
+- cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 1
-  network: ws
-  port: 23010
-  server: 185.22.152.236
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 5449a15e-dadb-4af1-a23d-a9aeed1eb425
-  ws-opts:
-    headers:
-      Host: 185.22.152.236
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 2
-  network: ws
-  port: 23010
-  server: 185.22.152.236
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 4d2845af-f33a-4ca6-bfde-33e9b7f300cf
-  ws-opts:
-    headers:
-      Host: 185.22.152.236
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 3
-  network: ws
-  port: 23010
-  server: 185.22.152.236
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 1c3e433e-7cf9-4bc5-973e-2cf7bf1b1638
-  ws-opts:
-    headers:
-      Host: 185.22.152.236
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 4
-  network: ws
-  port: 23010
-  server: 185.22.152.236
-  tls: false
-  type: vmess
-  udp: true
-  uuid: b53b403b-10d5-4da1-97f5-804be748be6a
-  ws-opts:
-    headers:
-      Host: 185.22.152.236
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 5
-  network: ws
-  port: 23010
-  server: 185.22.152.236
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 0a7ca26f-9e4f-46a6-b64c-9e10d9195d32
-  ws-opts:
-    headers:
-      Host: 185.22.152.236
-    path: /
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 🇰🇷 韩国 - 首尔特别市 - Amazon.com, Inc. - 1
-  password: amazonskr05
-  port: 443
-  server: 43.203.229.162
-  type: ss
-- client-fingerprint: chrome
-  name: 🇰🇷 韩国 - Yeongdong-gun - Cloudflare, Inc. - 2
-  network: ws
-  port: 20443
-  server: 106.240.1.52
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇰🇷 韩国 - Yeongdong-gun - Cloudflare, Inc. - 3
-  network: ws
-  port: 25004
-  server: 222.108.169.121
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇰🇷 韩国 - Yeongdong-gun - Cloudflare, Inc. - 4
-  network: ws
-  port: 37322
-  server: 118.42.188.118
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇰🇷 韩国 - Yeongdong-gun - Cloudflare, Inc. - 5
-  network: ws
-  port: 21282
-  server: 14.54.26.190
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇰🇷 韩国 - Yeongdong-gun - Cloudflare, Inc. - 6
-  network: ws
-  port: 18032
-  server: 121.174.135.183
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇰🇷 韩国 - Yeongdong-gun - Cloudflare, Inc. - 7
-  network: ws
-  port: 12180
-  server: 211.196.223.206
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇰🇷 韩国 - Yeongdong-gun - Cloudflare, Inc. - 8
-  network: ws
-  port: 12322
-  server: 121.170.58.187
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇰🇷 韩国 - Yeongdong-gun - Cloudflare, Inc. - 9
-  network: ws
-  port: 30113
-  server: 121.190.128.127
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇳🇱 荷兰 - 阿姆斯特丹 - Cloudflare, Inc. - 1
-  network: ws
-  port: 8443
-  server: 172.67.146.222
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇳🇱 荷兰 - 阿姆斯特丹 - Cloudflare, Inc. - 2
-  network: ws
-  port: 80
-  server: 193.123.80.245
-  servername: syyed.nobaarne.Space.
-  tls: false
-  type: vless
-  uuid: 639241df-db2e-4dbb-90c7-55f5eea2ad81
-  ws-opts:
-    headers:
-      Host: 193.123.80.245
-    path: /telegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed
-- client-fingerprint: chrome
-  name: 🇳🇱 荷兰 - 阿姆斯特丹 - Cloudflare, Inc. - 3
-  network: ws
-  port: 2053
-  server: 104.21.7.66
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 - 波特蘭 - Amazon.com, Inc. - 2
-  password: amazonskr05
-  port: 443
-  server: 35.94.33.206
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 - 波特蘭 - Amazon.com, Inc. - 3
-  password: amazonskr05
-  port: 443
-  server: 34.217.100.159
-  type: ss
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 东洛杉矶 - Cloudflare, Inc. - 14
-  network: ws
-  port: 2053
-  server: 162.159.38.100
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 东洛杉矶 - Cloudflare, Inc. - 4
-  network: ws
-  port: 8443
-  server: 162.159.44.229
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- cipher: rc4-md5
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 - 海厄利亞 - M247 Europe SRL - 1
-  password: 14fFPrbezE3HDZzsMOr6
-  port: 8080
-  server: 194.5.215.59
-  type: ss
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 10
-  network: ws
-  port: 443
-  server: 167.234.221.73
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 11
-  network: ws
-  port: 2083
-  server: 104.19.60.193
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 12
-  network: ws
-  port: 443
-  server: 104.18.46.81
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 13
-  network: ws
-  port: 443
-  server: 212.183.88.100
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 15
-  network: ws
-  port: 443
-  server: 212.183.88.136
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 16
-  network: ws
-  port: 8443
-  server: 27.50.49.230
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 17
-  network: ws
-  port: 443
-  server: 212.183.88.24
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560&proxyip=212.183.88.24:443
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 18
-  network: ws
-  port: 443
-  server: 160.79.105.99
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 19
-  network: ws
-  port: 443
-  server: 104.16.144.239
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 20
-  network: ws
-  port: 443
-  server: 162.159.153.134
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 21
-  network: ws
-  port: 443
-  server: 192.200.160.99
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 22
-  network: ws
-  port: 443
-  server: 162.159.153.159
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 23
-  network: ws
-  port: 443
-  server: 172.64.152.251
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 24
-  network: ws
-  port: 443
-  server: 162.159.153.130
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 25
-  network: ws
-  port: 443
-  server: 185.133.35.155
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 26
-  network: ws
-  port: 443
-  server: 104.16.159.190
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 27
-  network: ws
-  port: 2083
-  server: 108.165.152.80
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 28
-  network: ws
-  port: 443
-  server: 212.183.88.225
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 29
-  network: ws
-  port: 443
-  server: 63.141.128.163
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 30
-  network: ws
-  port: 443
-  server: 63.141.128.96
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 31
-  network: ws
-  port: 443
-  server: 162.159.153.68
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 32
-  network: ws
-  port: 443
-  server: 162.159.152.206
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 33
-  network: ws
-  port: 443
-  server: 104.16.152.64
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 34
-  network: ws
-  port: 443
-  server: 104.17.146.152
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 35
-  network: ws
-  port: 443
-  server: 162.159.152.156
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 36
-  network: ws
-  port: 443
-  server: 130.250.137.161
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560&proxyip=130.250.137.161:443
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 37
-  network: ws
-  port: 2096
-  server: 92.243.74.23
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 38
-  network: ws
-  port: 443
-  server: 162.159.153.165
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 39
-  network: ws
-  port: 8443
-  server: 92.243.74.2
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 40
-  network: ws
-  port: 443
-  server: 212.183.88.186
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 41
-  network: ws
-  port: 2086
-  server: 212.183.88.84
-  tls: false
-  type: vless
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: /TABRIZ.NET, TABRIZ.NET, TABRIZ.NET, TABRIZ.NET, TABRIZ.NET, TABRIZ.NET/?ed=2048
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 42
-  network: ws
-  port: 443
-  server: 45.67.215.0
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 43
-  network: ws
-  port: 2083
-  server: 27.50.49.47
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 44
-  network: ws
-  port: 2052
-  server: 45.149.12.183
-  servername: redw.pooriam.ir
-  tls: false
-  type: vless
-  udp: true
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: /TABRIZ.NET@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 45
-  network: ws
-  port: 443
-  server: 194.76.18.99
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 5
-  network: ws
-  port: 33684
-  server: 37.123.192.146
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 6
-  network: ws
-  port: 443
-  server: 63.141.128.140
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 7
-  network: ws
-  port: 443
-  server: duke.ns.cloudflare.com
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 8
-  network: ws
-  port: 443
-  server: 63.141.128.58
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 9
-  network: ws
-  port: 443
-  server: 212.183.88.132
-  servername: no1.bgm2024.us.kg
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: no1.bgm2024.us.kg
-    path: /?ed=2560
-- client-fingerprint: chrome
-  name: 🇯🇵 日本 - 成田市 - Cloudflare, Inc. - 3
-  network: ws
-  port: 443
-  server: 13.230.34.30
-  servername: edfgh.aimercc.filegear-sg.me
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edfgh.aimercc.filegear-sg.me
-    path: /?ed=2560
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 - 东京 - Amazon Technologies Inc. - 2
-  password: amazonskr05
-  port: 443
-  server: 18.183.116.21
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 🇯🇵 日本 - 东京 - Amazon.com, Inc. - 1
-  password: amazonskr05
-  port: 443
-  server: 43.207.153.78
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 🇸🇪 瑞典 - 斯德哥尔摩 - GleSYS AB - 1
-  password: 70Xwg0SbHSL8CuCkiLuGhO
-  port: 15128
-  server: sto2.g.edgeservers.org
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 🇸🇪 瑞典 - 斯德哥尔摩 - GleSYS AB - 2
-  password: PI3ncxF2GPuPiB1l5gitcO
-  port: 63418
-  server: sto4.g.edgeservers.org
+  name: 🇩🇰 丹麦 - 哥本哈根 - ONEPROVIDER - 1
+  password: 9VNQPREVW69Z2MGJ
+  port: 20028
+  server: 185.186.79.135
   type: ss
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
@@ -1288,77 +674,895 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 1
+  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 1
   network: ws
-  port: 23010
-  server: 212.192.13.68
+  port: 23013
+  server: 185.22.152.236
+  skip-cert-verify: true
   tls: false
   type: vmess
-  udp: true
-  uuid: 0f7bda9e-32c8-45cb-a597-60d0ddda7681
+  uuid: 638d7c3f-500f-4690-ad57-f0404c12360f
   ws-opts:
     headers:
-      Host: 212.192.13.68
+      Host: 185.22.152.236
     path: /
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 2
+  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 10
   network: ws
-  port: 23010
-  server: 212.192.13.68
+  port: 23013
+  server: 185.22.152.236
   tls: false
   type: vmess
   udp: true
-  uuid: 70d66fb0-59fe-46e1-950c-da3cdc53ff2d
+  uuid: ad72c96b-86a5-4fbc-bc7a-883abb5e8636
   ws-opts:
     headers:
-      Host: 212.192.13.68
+      Host: 185.22.152.236
     path: /
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 3
+  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 11
   network: ws
-  port: 23010
-  server: 212.192.13.68
+  port: 23013
+  server: 185.22.152.236
+  skip-cert-verify: true
   tls: false
   type: vmess
-  udp: true
-  uuid: 7d75d794-b10d-46e3-afd7-a70696ab45cd
+  uuid: 114cdc27-00ef-49a9-8008-2e326de64b8a
   ws-opts:
     headers:
-      Host: 212.192.13.68
+      Host: 185.22.152.236
     path: /
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 4
+  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 12
   network: ws
-  port: 23010
-  server: 212.192.13.68
+  port: 23013
+  server: 185.22.152.236
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: a2f516d1-3483-4430-a376-9e3e225b49bf
+  ws-opts:
+    headers:
+      Host: 185.22.152.236
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 13
+  network: ws
+  port: 23013
+  server: 185.22.152.236
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 894438be-2cb3-45bb-ba18-0e9dfe6c260d
+  ws-opts:
+    headers:
+      Host: 185.22.152.236
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC BAXET - 14
+  network: ws
+  port: 22007
+  server: 46.17.43.122
   tls: false
   type: vmess
   udp: true
-  uuid: f3d84391-8097-4f5d-9765-76ac3f137cf2
+  uuid: e636d0ab-8300-413c-bcfe-ba31b95015ba
   ws-opts:
     headers:
-      Host: 212.192.13.68
+      Host: 46.17.43.122
     path: /
-- client-fingerprint: chrome
-  name: 🇭🇰 中国 - 香港 - Cloudflare, Inc. - 5
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC BAXET - 15
   network: ws
+  port: 22007
+  server: 46.17.43.122
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 38360c10-7f25-43c0-9fcb-a58ae6f7ef4f
+  ws-opts:
+    headers:
+      Host: 46.17.43.122
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC BAXET - 16
+  network: ws
+  port: 22007
+  server: 46.17.43.122
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 894438be-2cb3-45bb-ba18-0e9dfe6c260d
+  ws-opts:
+    headers:
+      Host: 46.17.43.122
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC BAXET - 17
+  network: ws
+  port: 22007
+  server: 46.17.43.122
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 34c54cf9-3f8c-44a7-b3f1-410ae754d95f
+  ws-opts:
+    headers:
+      Host: 46.17.43.122
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC BAXET - 18
+  network: ws
+  port: 22007
+  server: 46.17.43.122
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 6a98cdde-6b47-4c2f-8eee-7199dec2b3be
+  ws-opts:
+    headers:
+      Host: 46.17.43.122
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 19
+  network: ws
+  port: 23013
+  server: 185.22.152.236
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: a9e32ffb-24b2-495e-813a-c871e96d0cf1
+  ws-opts:
+    headers:
+      Host: 185.22.152.236
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 2
+  network: ws
+  port: 23013
+  server: 185.22.152.236
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: b84d4f00-ad98-4ca9-878f-67eb37f1b148
+  ws-opts:
+    headers:
+      Host: 185.22.152.236
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 20
+  network: ws
+  port: 23013
+  server: 185.22.152.236
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 4bfd99a9-ee59-4edf-888c-b8c5681fc1bb
+  ws-opts:
+    headers:
+      Host: 185.22.152.236
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 21
+  network: ws
+  port: 23013
+  server: 185.22.152.236
+  tls: false
+  type: vmess
+  udp: true
+  uuid: e9648c6d-e338-4612-99b9-b99d9f1b0ec2
+  ws-opts:
+    headers:
+      Host: 185.22.152.236
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 3
+  network: ws
+  port: 23013
+  server: 185.22.152.236
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: ba677ffd-27ea-4899-89ce-da431d7921d2
+  ws-opts:
+    headers:
+      Host: 185.22.152.236
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 4
+  network: ws
+  port: 23013
+  server: 185.22.152.236
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 8fedf6a4-f1df-4b6c-86e2-55c6085deede
+  ws-opts:
+    headers:
+      Host: 185.22.152.236
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 5
+  network: ws
+  port: 23013
+  server: 185.22.152.236
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 299a9379-5aba-4727-88df-b273380d2c45
+  ws-opts:
+    headers:
+      Host: 185.22.152.236
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 6
+  network: ws
+  port: 23013
+  server: 185.22.152.236
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 2cae1b54-57f2-42b6-9ebb-99db1b58fd8d
+  ws-opts:
+    headers:
+      Host: 185.22.152.236
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 7
+  network: ws
+  port: 23013
+  server: 185.22.152.236
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: c93d2e2d-0cb9-4886-8a3d-d894d4037d1f
+  ws-opts:
+    headers:
+      Host: 185.22.152.236
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 8
+  network: ws
+  port: 23013
+  server: 185.22.152.236
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 34c54cf9-3f8c-44a7-b3f1-410ae754d95f
+  ws-opts:
+    headers:
+      Host: 185.22.152.236
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 9
+  network: ws
+  port: 23013
+  server: 185.22.152.236
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 8fe40c4c-2711-468e-b846-0a1701bfcf6b
+  ws-opts:
+    headers:
+      Host: 185.22.152.236
+    path: /
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 🇨🇦 加拿大 - Montreal - GLOBALTELEHOST Corp. - 1
+  password: 620c5b5108120a72
+  port: 11201
+  server: 23.162.56.206
+  type: ss
+- auth: 88925c12-4222-4ed3-84bd-6bfac300360f
+  client-fingerprint: chrome
+  name: 🇨🇦 加拿大 - 多伦多 - DigitalOcean, LLC - 3
+  password: 88925c12-4222-4ed3-84bd-6bfac300360f
+  port: 8443
+  server: jnd1.gywanglug.xyz
+  skip-cert-verify: false
+  sni: jnd1.gywanglug.xyz
+  type: hysteria2
+- cipher: aes-128-cfb
+  client-fingerprint: chrome
+  name: 🇨🇦 加拿大 - 蒙特利尔 - BrainStorm Network, Inc - 2
+  obfs: http_post
+  obfs-param: ''
+  password: $$Turb0VPN$$
   port: 443
-  server: 43.129.171.137
-  servername: edfgh.aimercc.filegear-sg.me
+  protocol: auth_aes128_md5
+  protocol-param: ''
+  server: ssca.irundns.net
+  type: ssr
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇿🇦 南非 - 開普敦 - xneelo-JHB - 1
+  password: 355ORAFKL9MUDLFJ
+  port: 20015
+  server: 129.232.133.62
+  type: ss
+- auth: 88925c12-4222-4ed3-84bd-6bfac300360f
+  client-fingerprint: chrome
+  name: 🇮🇳 印度 - 班加羅爾 - DigitalOcean, LLC - 1
+  password: 88925c12-4222-4ed3-84bd-6bfac300360f
+  port: 8443
+  server: yd1.gywanglug.xyz
+  skip-cert-verify: false
+  sni: yd1.gywanglug.xyz
+  type: hysteria2
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇹🇷 土耳其 - 伊斯坦布尔 - Iksir Internet Hizmetleri A.S. - 1
+  password: NGLIIX62TM7DMDBC
+  port: 20024
+  server: 185.123.100.140
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇷🇸 塞尔维亚 - 贝尔格莱德 - ONEPROVIDER - 1
+  password: 7YKQTMZ962CW0RTO
+  port: 20025
+  server: 185.186.77.137
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇨🇾 塞浦路斯 - 尼科西亚 - BrainStorm Network, Inc - 1
+  password: L5YTDZ9PL5I74CWL
+  port: 20039
+  server: 91.148.135.48
+  type: ss
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 🇩🇪 德国 - Frankfurt - GTHost - 1
+  obfs: plain
+  obfs-param: ''
+  password: 14fFPrbezE3HDZzsMOr6
+  port: 8080
+  protocol: origin
+  protocol-param: ''
+  server: 193.108.119.230
+  type: ssr
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 🇩🇪 德国 - 卡尔斯鲁厄 - Contabo GmbH - 2
+  password: 7cbfe78195fbf19c
+  port: 11738
+  server: 100.42.182.73
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇩🇪 德国 - 法兰克福 - BrainStorm Network, Inc - 3
+  password: KBF8NH5I7PW34CJ5
+  port: 20030
+  server: 45.154.207.246
+  type: ss
+- auth: 88925c12-4222-4ed3-84bd-6bfac300360f
+  client-fingerprint: chrome
+  name: 🇩🇪 德国 - 法兰克福 - DigitalOcean, LLC - 4
+  password: 88925c12-4222-4ed3-84bd-6bfac300360f
+  port: 8443
+  server: dg1.gywanglug.xyz
+  skip-cert-verify: false
+  sni: dg1.gywanglug.xyz
+  type: hysteria2
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇮🇹 意大利 - Milan - BrainStorm Network, Inc - 1
+  password: IMB9AR74TA0QWH6Y
+  port: 20029
+  server: 185.213.20.36
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Akari Networks - 4
+  password: 3FB23A19-9424-40C7-9139-3540228283FA
+  port: 40005
+  server: sgp.fastsoonlink.com
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc - 1
+  password: amazonskr05
+  port: 443
+  server: 47.128.73.227
+  type: ss
+- client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc. - 2
+  password: 072c477b-90c1-4600-998f-1a2990542782
+  port: 20230
+  server: sg007.421421.xyz
+  skip-cert-verify: true
+  sni: 421421.xyz
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc. - 3
+  password: b44da489-fc70-4fd0-8997-a83b51f59267
+  port: 20230
+  server: sg005.421421.xyz
+  skip-cert-verify: true
+  sni: sg005.421421.xyz
+  type: trojan
+  udp: true
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc. - 5
+  password: amazonskr05
+  port: 443
+  server: 18.143.164.214
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc. - 6
+  password: amazonskr05
+  port: 443
+  server: 54.255.183.245
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Velo Link, Inc. - 7
+  password: ZI7MN86GBSHSFW50
+  port: 16014
+  server: ti3hyra4.slashdevslashnetslashtun.net
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 - 东京 - Amazon Technologies Inc. - 1
+  password: amazonskr05
+  port: 443
+  server: 18.183.116.21
+  type: ss
+- auth: 88925c12-4222-4ed3-84bd-6bfac300360f
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 - 东京 - Amazon Technologies Inc. - 3
+  password: 88925c12-4222-4ed3-84bd-6bfac300360f
+  port: 8443
+  server: rb2.gy6688.xyz
+  skip-cert-verify: false
+  sni: rb2.gy6688.xyz
+  type: hysteria2
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 - 东京 - Amazon.com, Inc. - 2
+  password: amazonskr05
+  port: 443
+  server: 57.180.240.249
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇧🇪 比利时 - 布鲁塞尔 - ONEPROVIDER - 1
+  password: O352Y5MOSKLZ17IC
+  port: 20026
+  server: 185.213.22.93
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 🇵🇱 波兰 - Mazovia - Global Connectivity Solutions LLP - 1
+  password: fwKvuNWA5UwMQRWWVyLtgA
+  port: 443
+  server: 77.83.246.74
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 🇵🇱 波兰 - Mazovia - Global Connectivity Solutions LLP - 3
+  password: UxLQpmeaGbtar5XYaUJ1Bv
+  port: 443
+  server: 77.83.246.74
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇵🇱 波兰 - 华沙 - BrainStorm Network, Inc - 2
+  password: HBZW7V43FL5G5C78
+  port: 20037
+  server: 92.118.205.219
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇹🇭 泰国 - 曼谷 - ONEPROVIDER - 1
+  password: ZGZU85N2RG9NWIEJ
+  port: 20022
+  server: 46.16.129.217
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 玻利维亚 - 拉巴斯 - BrainStorm Network, Inc - 1
+  password: QWSLKSV7C4N118VG
+  port: 20008
+  server: 185.93.173.246
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇸🇪 瑞典 - 斯德哥尔摩 - Brainstorm Network - 1
+  password: WSAKNEI18OIC1BDK
+  port: 20035
+  server: 185.186.78.220
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 🇸🇪 瑞典 - 斯德哥尔摩 - GleSYS AB - 2
+  password: PI3ncxF2GPuPiB1l5gitcO
+  port: 63418
+  server: sto4.g.edgeservers.org
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇨🇭 瑞士 - 苏黎世 - BrainStorm Network, Inc - 1
+  password: Z3A43ZDKUZHD9JK9
+  port: 20001
+  server: 37.143.131.121
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 科威特 - 科威特市 - Meteverse Limited. - 1
+  password: 877c3b069c335ffc
+  port: 12317
+  server: 163.171.181.49
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇵🇪 秘鲁 - 利馬 - ONEPROVIDER - 1
+  password: 0SK1UPVJQ5BQ5CO5
+  port: 20009
+  server: 185.47.252.16
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇱🇹 立陶宛 - 维尔纽斯 - BrainStorm Network, Inc - 1
+  password: 8E11NQQ2YNGTWQW3
+  port: 20036
+  server: 185.237.185.77
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇷🇴 罗马尼亚 - 布加勒斯特 - ONEPROVIDER - 1
+  password: OCT7VA3YE12IP3HN
+  port: 20027
+  server: 185.126.237.58
+  type: ss
+- auth: 88925c12-4222-4ed3-84bd-6bfac300360f
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 - 克利夫頓 - DigitalOcean, LLC - 9
+  password: 88925c12-4222-4ed3-84bd-6bfac300360f
+  port: 8443
+  server: mg7.gywanglug.xyz
+  skip-cert-verify: false
+  sni: mg7.gywanglug.xyz
+  type: hysteria2
+- auth: 88925c12-4222-4ed3-84bd-6bfac300360f
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 - 圣克拉拉 - DigitalOcean, LLC - 7
+  password: 88925c12-4222-4ed3-84bd-6bfac300360f
+  port: 8443
+  server: mg4.gywanglug.xyz
+  skip-cert-verify: false
+  sni: mg4.gywanglug.xyz
+  type: hysteria2
+- auth: 88925c12-4222-4ed3-84bd-6bfac300360f
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 - 圣克拉拉 - DigitalOcean, LLC - 8
+  password: 88925c12-4222-4ed3-84bd-6bfac300360f
+  port: 8443
+  server: mg5.gywanglug.xyz
+  skip-cert-verify: false
+  sni: mg5.gywanglug.xyz
+  type: hysteria2
+- auth: 88925c12-4222-4ed3-84bd-6bfac300360f
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 - 旧金山 - DigitalOcean, LLC - 6
+  password: 88925c12-4222-4ed3-84bd-6bfac300360f
+  port: 8443
+  server: mg2.gywanglug.xyz
+  skip-cert-verify: false
+  sni: mg2.gywanglug.xyz
+  type: hysteria2
+- client-fingerprint: random
+  grpc-opts:
+    grpc-service-name: ssp
+  name: 🇺🇸 美国 - 水牛城 - HostPapa - 5
+  network: grpc
+  port: 443
+  server: fad1842.okxyzback.xyz
+  servername: fad1842.okxyzback.xyz
   tls: true
   type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+  uuid: fa80afbd-f447-3a3b-a0a3-74fa6df3473f
+- client-fingerprint: random
+  grpc-opts:
+    grpc-service-name: ssp
+  name: 🇺🇸 美国 - 紐約 - MASSIVEGRID - 4
+  network: grpc
+  port: 443
+  server: bced845.okxyzback.xyz
+  servername: bced845.okxyzback.xyz
+  tls: true
+  type: vless
+  uuid: fa80afbd-f447-3a3b-a0a3-74fa6df3473f
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 1
+  network: ws
+  port: 80
+  server: 104.16.65.193
+  tls: false
+  type: vless
+  uuid: c09d51b8-25c5-4eaf-98bc-ef40c807de84
   ws-opts:
     headers:
-      Host: edfgh.aimercc.filegear-sg.me
+      Host: dawn-mountain-d79f-ppal03.doniji1519.workers.dev
     path: /?ed=2560
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 2
+  network: ws
+  port: 2086
+  server: 212.183.88.84
+  tls: false
+  type: vless
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /TABRIZ.NET, TABRIZ.NET, TABRIZ.NET, TABRIZ.NET, TABRIZ.NET, TABRIZ.NET/?ed=2048
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 3
+  network: ws
+  port: 8880
+  server: 195.85.59.155
+  tls: false
+  type: vless
+  uuid: f6bd2c47-99da-4bca-bf70-7186aa9e7e06
+  ws-opts:
+    headers:
+      Host: photographipictureai.ir
+    path: /Telegram
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - Erith - OVH SAS - 2
+  password: 99eedf8e9170c8a4
+  port: 48977
+  server: 57.128.190.214
+  type: ss
+- auth: 88925c12-4222-4ed3-84bd-6bfac300360f
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - Slough - DigitalOcean, LLC - 18
+  password: 88925c12-4222-4ed3-84bd-6bfac300360f
+  port: 8443
+  server: yg1.gywanglug.xyz
+  skip-cert-verify: false
+  sni: yg1.gywanglug.xyz
+  type: hysteria2
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 伦敦 - OVH SAS - 19
+  port: 41699
+  server: 183.236.51.38
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 伦敦 - Regxa Company for Information Technology Ltd - 1
+  port: 443
+  server: 83.147.19.193
+  servername: JOIN.BEDE.CHANEL.@JOKERRVPN
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: c7cb97a5-f3d0-4d03-f571-4fed95a4cef6
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 10
+  password: AN9XDRUQ6M6BQCDX
+  port: 19002
+  server: 206.245.211.12
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 11
+  password: EED8QJW2A1UIMWDC
+  port: 19001
+  server: 206.245.211.11
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 12
+  password: 2GQT45OMAE2L6D52
+  port: 19014
+  server: 206.245.211.24
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 13
+  password: 46RX2ZEAL84WLP14
+  port: 19004
+  server: 206.245.211.14
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 14
+  password: Z25JPIXVVDC1VF2I
+  port: 19016
+  server: 206.245.211.26
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 15
+  password: 0XCOO3WF94NETV4A
+  port: 19011
+  server: 206.245.211.21
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 16
+  password: 6WOQKYYDC75DG8Q8
+  port: 19009
+  server: 206.245.211.19
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 17
+  password: 8K8E98S3IMAI3B1F
+  port: 19013
+  server: 206.245.211.23
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 3
+  password: E9PKULOXDNJCIS9D
+  port: 19006
+  server: 206.245.211.16
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 4
+  password: 0S2PSQS9YFN2LORX
+  port: 19010
+  server: 206.245.211.20
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 5
+  password: XTP8MCQT0NSFF4DT
+  port: 19003
+  server: 206.245.211.13
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 6
+  password: X5NI24NH9KAN1BBN
+  port: 19007
+  server: 206.245.211.17
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 7
+  password: 8ORZX0WS3ZF2Z6I9
+  port: 19008
+  server: 206.245.211.18
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 8
+  password: IWUBTAT49FPOEKDE
+  port: 19005
+  server: 206.245.211.15
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 9
+  password: U7LB7HC7NTQFHUF4
+  port: 19015
+  server: 206.245.211.25
+  type: ss
+- client-fingerprint: random
+  grpc-opts:
+    grpc-service-name: ssp
+  name: 🇳🇱 荷兰 - Dronten - The Infrastructure Group B.V. - 2
+  network: grpc
+  port: 443
+  server: d5d3677.oktizi.xyz
+  servername: d5d3677.oktizi.xyz
+  tls: true
+  type: vless
+  uuid: fa80afbd-f447-3a3b-a0a3-74fa6df3473f
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇳🇱 荷兰 - 阿姆斯特丹 - BrainStorm Network, Inc - 1
+  password: 05N9YS8VZBC1BO60
+  port: 20000
+  server: 109.104.154.131
+  type: ss
+- auth: 88925c12-4222-4ed3-84bd-6bfac300360f
+  client-fingerprint: chrome
+  name: 🇳🇱 荷兰 - 阿姆斯特丹 - DigitalOcean, LLC - 3
+  password: 88925c12-4222-4ed3-84bd-6bfac300360f
+  port: 8443
+  server: hl1.gywanglug.xyz
+  skip-cert-verify: false
+  sni: hl1.gywanglug.xyz
+  type: hysteria2
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 🇻🇳 越南 - 胡志明市 - Hostkey B.V. - 1
+  password: LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj
+  port: 52952
+  server: exchange.gameaurela.click
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 - 首尔特别市 - Amazon Technologies Inc. - 4
+  password: amazonskr05
+  port: 443
+  server: 52.78.98.141
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 - 首尔特别市 - Amazon.com, Inc. - 1
+  password: amazonskr05
+  port: 443
+  server: 3.34.253.95
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 - 首尔特别市 - Amazon.com, Inc. - 2
+  password: amazonskr05
+  port: 443
+  server: 43.201.33.107
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 - 首尔特别市 - Amazon.com, Inc. - 3
+  password: amazonskr05
+  port: 443
+  server: 3.36.117.213
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国 - 首尔特别市 - Amazon.com, Inc. - 5
+  password: amazonskr05
+  port: 443
+  server: 43.202.49.76
+  type: ss
 - alpn:
   - h3
   auth: f0f8c600-f96c-4d26-ae78-9338b2a423e2
