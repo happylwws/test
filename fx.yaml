@@ -1596,3 +1596,103 @@ proxies:
   skip-cert-verify: true
   type: hysteria2
   udp: true
+- auth: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  client-fingerprint: chrome
+  name: 🇧🇷 巴西1
+  password: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  port: 30102
+  server: br.bethebest.eu.org
+  skip-cert-verify: true
+  type: hysteria2
+- auth: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  client-fingerprint: chrome
+  name: 🇧🇷 巴西2
+  password: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  port: 30102
+  server: br2.bethebest.eu.org
+  skip-cert-verify: true
+  type: hysteria2
+- auth: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  client-fingerprint: chrome
+  name: 🇧🇷 巴西3
+  password: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  port: 30102
+  server: br3.bethebest.eu.org
+  skip-cert-verify: true
+  type: hysteria2
+- auth: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  client-fingerprint: chrome
+  name: 🇮🇳 印度1
+  password: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  port: 30102
+  server: in4.bethebest.eu.org
+  skip-cert-verify: true
+  type: hysteria2
+- auth: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  client-fingerprint: chrome
+  name: 🇮🇳 印度2
+  password: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  port: 30102
+  server: in5.bethebest.eu.org
+  skip-cert-verify: true
+  type: hysteria2
+- auth: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  client-fingerprint: chrome
+  name: 🇺🇸 美国1
+  password: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  port: 30102
+  server: us12.bethebest.eu.org
+  skip-cert-verify: true
+  type: hysteria2
+- auth: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  client-fingerprint: chrome
+  name: 🇺🇸 美国2
+  password: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  port: 30102
+  server: us13.bethebest.eu.org
+  skip-cert-verify: true
+  type: hysteria2
+- auth: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  client-fingerprint: chrome
+  name: 🇺🇸 美国3
+  password: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  port: 30102
+  server: us14.bethebest.eu.org
+  skip-cert-verify: true
+  type: hysteria2
+- auth: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  client-fingerprint: chrome
+  name: 🇦🇪 迪拜1
+  password: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  port: 30102
+  server: ae1.bethebest.eu.org
+  skip-cert-verify: true
+  sni: du.wish.ml
+  type: hysteria2
+- auth: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  client-fingerprint: chrome
+  name: 🇦🇪 迪拜2
+  password: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  port: 30102
+  server: ae2.bethebest.eu.org
+  skip-cert-verify: true
+  sni: du.wish.ml
+  type: hysteria2
+- auth: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  client-fingerprint: chrome
+  name: 🇨🇦 加拿大1
+  password: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  port: 30102
+  server: ca11.bethebest.eu.org
+  skip-cert-verify: true
+  sni: du.wish.ml
+  type: hysteria2
+- auth: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  client-fingerprint: chrome
+  name: 🇨🇦 加拿大2
+  password: d839f04d-3879-46f5-82fa-feb8b4162f9f
+  port: 30102
+  server: ca12.bethebest.eu.org
+  skip-cert-verify: true
+  sni: du.wish.ml
+  type: hysteria2
