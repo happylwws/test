@@ -1567,7 +1567,7 @@ proxies:
   - h3
   auth: f0f8c600-f96c-4d26-ae78-9338b2a423e2
   client-fingerprint: chrome
-  name: Hy2-s14-zz80900
+  name: Hy2-t01
   password: f0f8c600-f96c-4d26-ae78-9338b2a423e2
   port: 12790
   server: 188.68.240.161
@@ -1578,7 +1578,7 @@ proxies:
   - h3
   auth: c8ed6f77-3a96-46f9-9959-79118f9c1019
   client-fingerprint: chrome
-  name: Hy2-s12-ndllz-xjc
+  name: Hy2-t02
   password: c8ed6f77-3a96-46f9-9959-79118f9c1019
   port: 53252
   server: 85.194.246.115
@@ -1589,11 +1589,29 @@ proxies:
   - h3
   auth: 3e9bc412-6c40-4f68-9a31-fdd20c81a87c
   client-fingerprint: chrome
-  name: 233boy-hysteria2
+  name: Hy-01
   password: 3e9bc412-6c40-4f68-9a31-fdd20c81a87c
   port: 40837
   server: 104.233.211.26
   skip-cert-verify: true
+  type: hysteria2
+  udp: true
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: ss-01
+  password: NWd6TFZNNEYzeWNYUWpzdjRmUkRXRWtOMHJMMlpmdTg=
+  port: 13308
+  server: ww.556359.xyz
+  type: ss
+  udp: true
+- auth: fb0e0d3e-8f4c-4994-b2a3-458928f73058
+  client-fingerprint: chrome
+  name: Hy-02
+  password: fb0e0d3e-8f4c-4994-b2a3-458928f73058
+  port: 59463
+  server: ww.556359.xyz
+  skip-cert-verify: true
+  sni: www.bing.com
   type: hysteria2
   udp: true
 - auth: d839f04d-3879-46f5-82fa-feb8b4162f9f
