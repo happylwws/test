@@ -362,305 +362,82 @@ proxies:
     headers:
       Host: lk.4056860.xyz
     path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 10
-  network: ws
-  port: 23013
-  server: 212.192.13.68
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 9d12b1af-923f-44bc-90ea-2edb6c1a3731
-  ws-opts:
-    headers:
-      Host: 212.192.13.68
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 11
-  network: ws
-  port: 23013
-  server: 212.192.13.68
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 299a9379-5aba-4727-88df-b273380d2c45
-  ws-opts:
-    headers:
-      Host: 212.192.13.68
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 12
-  network: ws
-  port: 21010
-  server: 212.192.13.110
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: b0f4ac5f-c87c-4675-b2e6-5d4b08820e0d
-  ws-opts:
-    headers:
-      Host: 212.192.13.110
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 13
-  network: ws
-  port: 23013
-  server: 212.192.13.68
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 263e4a55-0018-4fa0-a099-4fb26226d2e4
-  ws-opts:
-    headers:
-      Host: 212.192.13.68
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 14
-  network: ws
-  port: 23013
-  server: 212.192.13.68
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 075392e0-27d3-4c8a-851a-18b724d5a953
-  ws-opts:
-    headers:
-      Host: 212.192.13.68
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 15
-  network: ws
-  port: 23013
-  server: 212.192.13.68
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: f080c149-138c-4cfd-9d94-aeb7e929835d
-  ws-opts:
-    headers:
-      Host: 212.192.13.68
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 16
-  network: ws
-  port: 23013
-  server: 212.192.13.68
-  tls: false
-  type: vmess
-  udp: true
-  uuid: b0f4ac5f-c87c-4675-b2e6-5d4b08820e0d
-  ws-opts:
-    headers:
-      Host: 212.192.13.68
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 17
-  network: ws
-  port: 21010
-  server: 212.192.13.110
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 2c52d942-cde9-4f4a-9c7b-c843096259a5
-  ws-opts:
-    headers:
-      Host: 212.192.13.110
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 18
-  network: ws
-  port: 21010
-  server: 212.192.13.110
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 34c54cf9-3f8c-44a7-b3f1-410ae754d95f
-  ws-opts:
-    headers:
-      Host: 212.192.13.110
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 8
-  network: ws
-  port: 21010
-  server: 212.192.13.110
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: a9e32ffb-24b2-495e-813a-c871e96d0cf1
-  ws-opts:
-    headers:
-      Host: 212.192.13.110
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇨🇳 中国 - 乌恰 - Baxet Group Inc. - 9
-  network: ws
-  port: 23013
-  server: 212.192.13.68
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 114cdc27-00ef-49a9-8008-2e326de64b8a
-  ws-opts:
-    headers:
-      Host: 212.192.13.68
-    path: /
 - cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 🇹🇼 中国 - 台湾 - CHIEF - 19
+  name: 🇹🇼 中国 - 台湾 - CHIEF - 6
   password: ECOQAU8O56QGBV28
   port: 21002
   server: qh62onjn.slashdevslashnetslashtun.net
   type: ss
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇹🇼 中国 - 台湾 - CHIEF - 20
-  password: KM16ID6XDW3XRC7K
-  port: 21006
-  server: qh62onjn.slashdevslashnetslashtun.net
-  type: ss
+- client-fingerprint: chrome
+  name: 🇹🇼 中国 - 台湾 - Chunghwa Telecom Co., Ltd. - 2
+  password: f43d30ee-7a5d-408f-a32e-b74935eeb7d7
+  port: 40037
+  server: zz.tw01.fogvip-zz.uk
+  skip-cert-verify: true
+  sni: ld.tw01.yuiuingkig.icu
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇹🇼 中国 - 台湾 - Chunghwa Telecom Co., Ltd. - 4
+  password: f43d30ee-7a5d-408f-a32e-b74935eeb7d7
+  port: 40036
+  server: zz.tw01.fogvip-zz.uk
+  skip-cert-verify: true
+  sni: ld.tw01.yuiuingkig.icu
+  type: trojan
+  udp: true
 - client-fingerprint: random
-  flow: xtls-rprx-vision
-  name: 🇭🇰 中国 - 香港 - Alibaba (US) Technology Co., Ltd. - 22
-  network: tcp
+  grpc-opts:
+    grpc-service-name: ssp
+  name: 🇭🇰 中国 - 香港 - Alibaba (US) Technology Co., Ltd. - 8
+  network: grpc
   port: 443
-  server: 3a75214.okxyz.xyz
-  servername: 3a75214.okxyz.xyz
+  server: 172.66.149.46
+  servername: b850385.okxyz.xyz
   tls: true
   type: vless
   uuid: fa80afbd-f447-3a3b-a0a3-74fa6df3473f
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 🇭🇰 中国 - 香港 - Bage Cloud LLC - 1
-  password: 3FB23A19-9424-40C7-9139-3540228283FA
-  port: 40000
-  server: hk.fastsoonlink.com
-  type: ss
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇭🇰 中国 - 香港 - Baxet Group Inc. - 2
-  network: ws
-  port: 22002
-  server: 45.144.174.90
-  tls: false
-  type: vmess
+- client-fingerprint: chrome
+  name: 🇭🇰 中国 - 香港 - Apple Network, LLC - 3
+  password: f43d30ee-7a5d-408f-a32e-b74935eeb7d7
+  port: 40052
+  server: zz.xgys.fogvip-zz.uk
+  skip-cert-verify: true
+  sni: ld.xgys01.yuiuingkig.icu
+  type: trojan
   udp: true
-  uuid: 2c52d942-cde9-4f4a-9c7b-c843096259a5
-  ws-opts:
-    headers:
-      Host: 45.144.174.90
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇭🇰 中国 - 香港 - Baxet Group Inc. - 3
-  network: ws
-  port: 22002
-  server: 45.144.174.90
-  tls: false
-  type: vmess
+- client-fingerprint: chrome
+  name: 🇭🇰 中国 - 香港 - Apple Network, LLC - 5
+  password: f43d30ee-7a5d-408f-a32e-b74935eeb7d7
+  port: 50070
+  server: zz.xgbig.viptap-tcb-zz.cc
+  skip-cert-verify: true
+  sni: ld.xgbig.yuiuingkig.icu
+  type: trojan
   udp: true
-  uuid: a61a2b91-1e92-47dc-bf4c-a386fa4184ff
-  ws-opts:
-    headers:
-      Host: 45.144.174.90
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇭🇰 中国 - 香港 - Baxet Group Inc. - 4
-  network: ws
-  port: 22002
-  server: 45.144.174.90
-  tls: false
-  type: vmess
+- client-fingerprint: chrome
+  name: 🇭🇰 中国 - 香港 - Eons Data Communications Limited - 1
+  password: f43d30ee-7a5d-408f-a32e-b74935eeb7d7
+  port: 50306
+  server: zz.2hkmix.fogvip-zz.uk
+  skip-cert-verify: true
+  sni: ld.2heix.yuiuingkig.icu
+  type: trojan
   udp: true
-  uuid: b84d4f00-ad98-4ca9-878f-67eb37f1b148
-  ws-opts:
-    headers:
-      Host: 45.144.174.90
-    path: /
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 🇭🇰 中国 - 香港 - Baxet Group Inc. - 5
-  network: ws
-  port: 22002
-  server: 45.144.174.90
+  name: 🇭🇰 中国 - 香港 - Hong Kong Telecommunications (HKT) Limited Mass Internet - 7
+  port: 11111
+  server: bgp1.bgp1.miaomiaowu114514.org
   tls: false
   type: vmess
-  udp: true
-  uuid: a2f516d1-3483-4430-a376-9e3e225b49bf
-  ws-opts:
-    headers:
-      Host: 45.144.174.90
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇭🇰 中国 - 香港 - Baxet Group Inc. - 6
-  network: ws
-  port: 22002
-  server: 45.144.174.90
-  tls: false
-  type: vmess
-  udp: true
-  uuid: e636d0ab-8300-413c-bcfe-ba31b95015ba
-  ws-opts:
-    headers:
-      Host: 45.144.174.90
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇭🇰 中国 - 香港 - Baxet Group Inc. - 7
-  network: ws
-  port: 22002
-  server: 45.144.174.90
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 34c54cf9-3f8c-44a7-b3f1-410ae754d95f
-  ws-opts:
-    headers:
-      Host: 45.144.174.90
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇭🇰 中国 - 香港 - CTG Server Ltd. - 21
-  port: 51754
-  server: 183.236.51.38
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  uuid: 035374e8-60ff-34b3-9e7a-cca4cce31013
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 🇩🇰 丹麦 - 哥本哈根 - ONEPROVIDER - 1
-  password: 9VNQPREVW69Z2MGJ
+  password: HX4YJLE5FTP97T3R
   port: 20028
   server: 185.186.79.135
   type: ss
@@ -671,554 +448,516 @@ proxies:
   port: 443
   server: 89.221.225.88
   type: ss
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 1
-  network: ws
-  port: 23013
-  server: 185.22.152.236
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 638d7c3f-500f-4690-ad57-f0404c12360f
-  ws-opts:
-    headers:
-      Host: 185.22.152.236
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 10
-  network: ws
-  port: 23013
-  server: 185.22.152.236
-  tls: false
-  type: vmess
   udp: true
-  uuid: ad72c96b-86a5-4fbc-bc7a-883abb5e8636
-  ws-opts:
-    headers:
-      Host: 185.22.152.236
-    path: /
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 11
+  name: 🇷🇺 俄罗斯 - 莫斯科 - Aeza International LTD - 1
   network: ws
-  port: 23013
-  server: 185.22.152.236
+  port: 443
+  server: iran.farsonline24.ir
+  servername: iran.farsonline24.ir
   skip-cert-verify: true
-  tls: false
+  tls: true
   type: vmess
-  uuid: 114cdc27-00ef-49a9-8008-2e326de64b8a
+  uuid: 8b2e6cce-18f7-49c6-9056-b64df9792b23
   ws-opts:
     headers:
-      Host: 185.22.152.236
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 12
-  network: ws
-  port: 23013
-  server: 185.22.152.236
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: a2f516d1-3483-4430-a376-9e3e225b49bf
-  ws-opts:
-    headers:
-      Host: 185.22.152.236
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 13
-  network: ws
-  port: 23013
-  server: 185.22.152.236
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 894438be-2cb3-45bb-ba18-0e9dfe6c260d
-  ws-opts:
-    headers:
-      Host: 185.22.152.236
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC BAXET - 14
-  network: ws
-  port: 22007
-  server: 46.17.43.122
-  tls: false
-  type: vmess
-  udp: true
-  uuid: e636d0ab-8300-413c-bcfe-ba31b95015ba
-  ws-opts:
-    headers:
-      Host: 46.17.43.122
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC BAXET - 15
-  network: ws
-  port: 22007
-  server: 46.17.43.122
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 38360c10-7f25-43c0-9fcb-a58ae6f7ef4f
-  ws-opts:
-    headers:
-      Host: 46.17.43.122
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC BAXET - 16
-  network: ws
-  port: 22007
-  server: 46.17.43.122
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 894438be-2cb3-45bb-ba18-0e9dfe6c260d
-  ws-opts:
-    headers:
-      Host: 46.17.43.122
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC BAXET - 17
-  network: ws
-  port: 22007
-  server: 46.17.43.122
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 34c54cf9-3f8c-44a7-b3f1-410ae754d95f
-  ws-opts:
-    headers:
-      Host: 46.17.43.122
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC BAXET - 18
-  network: ws
-  port: 22007
-  server: 46.17.43.122
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 6a98cdde-6b47-4c2f-8eee-7199dec2b3be
-  ws-opts:
-    headers:
-      Host: 46.17.43.122
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 19
-  network: ws
-  port: 23013
-  server: 185.22.152.236
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: a9e32ffb-24b2-495e-813a-c871e96d0cf1
-  ws-opts:
-    headers:
-      Host: 185.22.152.236
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 2
-  network: ws
-  port: 23013
-  server: 185.22.152.236
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: b84d4f00-ad98-4ca9-878f-67eb37f1b148
-  ws-opts:
-    headers:
-      Host: 185.22.152.236
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 20
-  network: ws
-  port: 23013
-  server: 185.22.152.236
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 4bfd99a9-ee59-4edf-888c-b8c5681fc1bb
-  ws-opts:
-    headers:
-      Host: 185.22.152.236
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 21
-  network: ws
-  port: 23013
-  server: 185.22.152.236
-  tls: false
-  type: vmess
-  udp: true
-  uuid: e9648c6d-e338-4612-99b9-b99d9f1b0ec2
-  ws-opts:
-    headers:
-      Host: 185.22.152.236
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 3
-  network: ws
-  port: 23013
-  server: 185.22.152.236
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: ba677ffd-27ea-4899-89ce-da431d7921d2
-  ws-opts:
-    headers:
-      Host: 185.22.152.236
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 4
-  network: ws
-  port: 23013
-  server: 185.22.152.236
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 8fedf6a4-f1df-4b6c-86e2-55c6085deede
-  ws-opts:
-    headers:
-      Host: 185.22.152.236
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 5
-  network: ws
-  port: 23013
-  server: 185.22.152.236
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 299a9379-5aba-4727-88df-b273380d2c45
-  ws-opts:
-    headers:
-      Host: 185.22.152.236
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 6
-  network: ws
-  port: 23013
-  server: 185.22.152.236
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 2cae1b54-57f2-42b6-9ebb-99db1b58fd8d
-  ws-opts:
-    headers:
-      Host: 185.22.152.236
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 7
-  network: ws
-  port: 23013
-  server: 185.22.152.236
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: c93d2e2d-0cb9-4886-8a3d-d894d4037d1f
-  ws-opts:
-    headers:
-      Host: 185.22.152.236
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 8
-  network: ws
-  port: 23013
-  server: 185.22.152.236
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 34c54cf9-3f8c-44a7-b3f1-410ae754d95f
-  ws-opts:
-    headers:
-      Host: 185.22.152.236
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇷🇺 俄罗斯 - 莫斯科 - LLC Baxet - 9
-  network: ws
-  port: 23013
-  server: 185.22.152.236
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 8fe40c4c-2711-468e-b846-0a1701bfcf6b
-  ws-opts:
-    headers:
-      Host: 185.22.152.236
-    path: /
+      Host: iran.farsonline24.ir
+    path: /27925/@M3HDIO1
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 🇨🇦 加拿大 - Montreal - GLOBALTELEHOST Corp. - 1
-  password: 620c5b5108120a72
-  port: 11201
-  server: 23.162.56.206
+  name: 🇷🇺 俄罗斯 - 莫斯科 - Meteverse Limited. - 2
+  password: d4213735ae33596a
+  port: 29003
+  server: 163.171.142.57
   type: ss
-- auth: 88925c12-4222-4ed3-84bd-6bfac300360f
-  client-fingerprint: chrome
-  name: 🇨🇦 加拿大 - 多伦多 - DigitalOcean, LLC - 3
-  password: 88925c12-4222-4ed3-84bd-6bfac300360f
-  port: 8443
-  server: jnd1.gywanglug.xyz
-  skip-cert-verify: false
-  sni: jnd1.gywanglug.xyz
-  type: hysteria2
-- cipher: aes-128-cfb
-  client-fingerprint: chrome
-  name: 🇨🇦 加拿大 - 蒙特利尔 - BrainStorm Network, Inc - 2
-  obfs: http_post
-  obfs-param: ''
-  password: $$Turb0VPN$$
-  port: 443
-  protocol: auth_aes128_md5
-  protocol-param: ''
-  server: ssca.irundns.net
-  type: ssr
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 🇿🇦 南非 - 開普敦 - xneelo-JHB - 1
-  password: 355ORAFKL9MUDLFJ
+  password: I9O5HXAOZP77VUXW
   port: 20015
   server: 129.232.133.62
   type: ss
-- auth: 88925c12-4222-4ed3-84bd-6bfac300360f
-  client-fingerprint: chrome
-  name: 🇮🇳 印度 - 班加羅爾 - DigitalOcean, LLC - 1
-  password: 88925c12-4222-4ed3-84bd-6bfac300360f
-  port: 8443
-  server: yd1.gywanglug.xyz
-  skip-cert-verify: false
-  sni: yd1.gywanglug.xyz
-  type: hysteria2
 - cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 🇹🇷 土耳其 - 伊斯坦布尔 - Iksir Internet Hizmetleri A.S. - 1
-  password: NGLIIX62TM7DMDBC
+  name: 危地马拉 - Guatemala City - ONEPROVIDER - 1
+  password: 8M7CZ2HSBZ2NXJAP
+  port: 20007
+  server: 185.47.254.177
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇪🇨 厄瓜多尔 - 基多 - ONEPROVIDER - 1
+  password: ZGQ2XTADB0JELOJ4
+  port: 20010
+  server: 185.47.253.144
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇨🇴 哥伦比亚 - 波哥大 - BrainStorm Network, Inc - 1
+  password: KK3QZ03PRKU83D65
+  port: 20005
+  server: 91.148.134.106
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 🇹🇷 土耳其 - 伊斯坦布尔 - G-Core Labs S.A. - 1
+  password: fbb818cd84a0d0e5
+  port: 11201
+  server: 103.215.218.54
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇹🇷 土耳其 - 伊斯坦布尔 - Iksir Internet Hizmetleri A.S. - 2
+  password: A4NCNSP72KCFNWPZ
   port: 20024
   server: 185.123.100.140
   type: ss
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 🇷🇸 塞尔维亚 - 贝尔格莱德 - ONEPROVIDER - 1
-  password: 7YKQTMZ962CW0RTO
+  password: NP5SL4R12N0ABTMJ
   port: 20025
   server: 185.186.77.137
   type: ss
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 🇨🇾 塞浦路斯 - 尼科西亚 - BrainStorm Network, Inc - 1
-  password: L5YTDZ9PL5I74CWL
+  password: Z2GB4O1R4RIVDVF2
   port: 20039
   server: 91.148.135.48
   type: ss
-- cipher: rc4-md5
+- client-fingerprint: chrome
+  name: 🇩🇪 德国 - Frankfurt am Main - Amazon Technologies Inc. - 4
+  password: 7pyl3CuOCqZATRTKXeAOwS89lBz0a9S3CX6CDYae4Dg33j5D023FSIFRKYOaeAxEInB86
+  port: 443
+  server: siwtno.coffeekit.net
+  sni: siwtno.coffeekit.net
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇩🇪 德国 - Frankfurt am Main - Amazon Technologies Inc. - 5
+  password: l9S4ONBOZT236Dx9Ap7ScDnYCwAp0IASDDY3F2FyCCyRl8qeeu8layZ3KCZEazjOa65N3
+  port: 28334
+  server: yecea.coffeekit.net
+  sni: yecea.coffeekit.net
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇩🇪 德国 - Frankfurt am Main - Amazon.com - 1
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 63.176.208.236
+  skip-cert-verify: true
+  sni: trojan.burgerip.co.uk
+  type: trojan
+  udp: true
+- alterId: 0
+  cipher: auto
   client-fingerprint: chrome
-  name: 🇩🇪 德国 - Frankfurt - GTHost - 1
-  obfs: plain
-  obfs-param: ''
-  password: 14fFPrbezE3HDZzsMOr6
-  port: 8080
-  protocol: origin
-  protocol-param: ''
-  server: 193.108.119.230
-  type: ssr
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 🇩🇪 德国 - 卡尔斯鲁厄 - Contabo GmbH - 2
-  password: 7cbfe78195fbf19c
-  port: 11738
-  server: 100.42.182.73
-  type: ss
+  http-opts:
+    headers:
+      Host:
+      - 91.107.241.36
+    method: GET
+    path:
+    - /
+  name: 🇩🇪 德国 - Frankfurt Am Main - Hetzner Online AG - 3
+  network: http
+  port: 10683
+  server: 91.107.241.36
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 42a6b3ff-9f36-4b1c-a0ea-82f2fd1472f9
 - cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 🇩🇪 德国 - 法兰克福 - BrainStorm Network, Inc - 3
-  password: KBF8NH5I7PW34CJ5
+  name: 🇩🇪 德国 - 法兰克福 - BrainStorm Network, Inc - 2
+  password: VCR6HN8ULU4S4N27
   port: 20030
   server: 45.154.207.246
   type: ss
-- auth: 88925c12-4222-4ed3-84bd-6bfac300360f
-  client-fingerprint: chrome
-  name: 🇩🇪 德国 - 法兰克福 - DigitalOcean, LLC - 4
-  password: 88925c12-4222-4ed3-84bd-6bfac300360f
-  port: 8443
-  server: dg1.gywanglug.xyz
-  skip-cert-verify: false
-  sni: dg1.gywanglug.xyz
-  type: hysteria2
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 🇮🇹 意大利 - Milan - BrainStorm Network, Inc - 1
-  password: IMB9AR74TA0QWH6Y
+  password: 9F2G2EP8ET1PL6Q5
   port: 20029
   server: 185.213.20.36
   type: ss
-- cipher: chacha20-ietf-poly1305
+- cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 🇸🇬 新加坡 - 新加坡 - Akari Networks - 4
-  password: 3FB23A19-9424-40C7-9139-3540228283FA
-  port: 40005
-  server: sgp.fastsoonlink.com
+  name: 🇳🇴 挪威 - 奥斯陆 - BrainStorm Network, Inc - 1
+  password: XCASGIDOF6TPCSCK
+  port: 20034
+  server: 185.90.61.157
   type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Akari Networks - 1
+  password: 9acfc574-acc3-4c2b-ab3b-491d43a6eb83
+  port: 21115
+  server: okanc.node-is.green
+  type: ss
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Akari Networks - 25
+  port: 11003
+  server: bgp1.bgp1.miaomiaowu114514.org
+  tls: false
+  type: vmess
+  uuid: 035374e8-60ff-34b3-9e7a-cca4cce31013
+- client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc - 24
+  password: Dx3RaSxl5gaN3z8YOTyS0FeKYFaRxXS39ZnnDN0c73O3SCCDuAljC34pXKayaZFBO8ea8
+  port: 18332
+  server: diagram.protocolbuffer.com
+  sni: diagram.protocolbuffer.com
+  type: trojan
 - cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc - 1
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc. - 10
   password: amazonskr05
   port: 443
-  server: 47.128.73.227
+  server: 13.229.233.60
   type: ss
-- client-fingerprint: chrome
-  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc. - 2
-  password: 072c477b-90c1-4600-998f-1a2990542782
-  port: 20230
-  server: sg007.421421.xyz
-  skip-cert-verify: true
-  sni: 421421.xyz
-  type: trojan
-  udp: true
-- client-fingerprint: chrome
-  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc. - 3
-  password: b44da489-fc70-4fd0-8997-a83b51f59267
-  port: 20230
-  server: sg005.421421.xyz
-  skip-cert-verify: true
-  sni: sg005.421421.xyz
-  type: trojan
-  udp: true
 - cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc. - 5
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc. - 14
+  password: amazonskr05
+  port: 443
+  server: 13.213.69.248
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc. - 15
+  password: amazonskr05
+  port: 443
+  server: 54.151.230.240
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc. - 16
+  password: amazonskr05
+  port: 443
+  server: 13.229.99.127
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc. - 17
+  password: amazonskr05
+  port: 443
+  server: 13.229.209.178
+  type: ss
+- client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc. - 19
+  password: OCxO7za3SXnwpEacKD7AZxujyISD840CZgSCSFFp6Z3eXFeOZDyzlTy3lA8AgBea3SDEC
+  port: 443
+  server: luber.protocolbuffer.com
+  sni: luber.protocolbuffer.com
+  type: trojan
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc. - 2
+  password: amazonskr05
+  port: 443
+  server: 54.254.93.88
+  type: ss
+- client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc. - 22
+  password: 8jqRgpyc5lEe34TzC9A8DuFD23aS3ZyCleIFuCxp3xOYnZRCeA3Oc3yCga8C2DKYBDaRp
+  port: 443
+  server: mention.protocolbuffer.com
+  sni: mention.protocolbuffer.com
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc. - 23
+  password: 3gSFTSaSFB29S37DD3D6ne6q93nOCZz4FxYYpRacjp0ITRyRSc24AZypZCll88DXuaCDl
+  port: 28332
+  server: morlin.protocolbuffer.com
+  sni: morlin.protocolbuffer.com
+  type: trojan
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc. - 3
+  password: amazonskr05
+  port: 443
+  server: 54.255.141.129
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc. - 4
   password: amazonskr05
   port: 443
   server: 18.143.164.214
   type: ss
 - cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc. - 6
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc. - 8
   password: amazonskr05
   port: 443
-  server: 54.255.183.245
+  server: 13.215.252.57
   type: ss
-- cipher: aes-256-gcm
+- cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 🇸🇬 新加坡 - 新加坡 - Velo Link, Inc. - 7
-  password: ZI7MN86GBSHSFW50
-  port: 16014
-  server: ti3hyra4.slashdevslashnetslashtun.net
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon Technologies Inc. - 9
+  password: amazonskr05
+  port: 443
+  server: 13.215.250.172
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon.com, Inc. - 11
+  password: amazonskr05
+  port: 443
+  server: 54.179.179.201
+  type: ss
+- client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon.com, Inc. - 20
+  password: N5T0K3aYpYFSO4O3gnD73OcFwp6BCqCyCa3jlIxDXyZRDE282ljCASADaTN4CzZZYllFI
+  port: 18333
+  server: pricing.protocolbuffer.com
+  sni: pricing.protocolbuffer.com
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon.com, Inc. - 21
+  password: ZYYSlSORYq6KXDCpCS3XC4zRnK73BDzIp0FaNynya9Dg5AEAeOgDaaFFO3e8w5NZ3Bexw
+  port: 443
+  server: handgun.protocolbuffer.com
+  sni: handgun.protocolbuffer.com
+  type: trojan
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon.com, Inc. - 5
+  password: amazonskr05
+  port: 443
+  server: 18.141.138.125
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon.com, Inc. - 6
+  password: amazonskr05
+  port: 443
+  server: 54.251.193.0
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Amazon.com, Inc. - 7
+  password: amazonskr05
+  port: 443
+  server: 54.169.134.156
+  type: ss
+- client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Apple Network, LLC - 12
+  password: f43d30ee-7a5d-408f-a32e-b74935eeb7d7
+  port: 40017
+  server: zz.xinjp02.fogvip-zz.uk
+  skip-cert-verify: true
+  sni: ld.xinjp01.yuiuingkig.icu
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Apple Network, LLC - 13
+  password: f43d30ee-7a5d-408f-a32e-b74935eeb7d7
+  port: 40013
+  server: zz.xinjp01.fogvip-zz.uk
+  skip-cert-verify: true
+  sni: ld.xinjp01.yuiuingkig.icu
+  type: trojan
+  udp: true
+- cipher: chacha20-ietf
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡 - 新加坡 - Greywolf Networks Pte. Ltd. - 18
+  password: asd123456
+  port: 8388
+  server: 103.36.90.195
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 - 东京 - Amazon Technologies Inc - 7
+  password: amazonskr05
+  port: 443
+  server: 13.114.76.143
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 - 东京 - Amazon Technologies Inc - 9
+  password: amazonskr05
+  port: 443
+  server: 13.114.55.245
   type: ss
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 🇯🇵 日本 - 东京 - Amazon Technologies Inc. - 1
   password: amazonskr05
   port: 443
-  server: 18.183.116.21
+  server: 13.230.168.61
   type: ss
-- auth: 88925c12-4222-4ed3-84bd-6bfac300360f
+  udp: true
+- cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 🇯🇵 日本 - 东京 - Amazon Technologies Inc. - 3
-  password: 88925c12-4222-4ed3-84bd-6bfac300360f
-  port: 8443
-  server: rb2.gy6688.xyz
-  skip-cert-verify: false
-  sni: rb2.gy6688.xyz
-  type: hysteria2
+  password: amazonskr05
+  port: 443
+  server: 52.197.235.237
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 - 东京 - Amazon Technologies Inc. - 4
+  password: amazonskr05
+  port: 443
+  server: 18.181.194.77
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 - 东京 - Amazon Technologies Inc. - 5
+  password: amazonskr05
+  port: 443
+  server: 18.179.8.12
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇯🇵 日本 - 东京 - Amazon Technologies Inc. - 6
+  password: amazonskr05
+  port: 443
+  server: 52.68.10.224
+  type: ss
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 🇯🇵 日本 - 东京 - Amazon.com, Inc. - 2
   password: amazonskr05
   port: 443
-  server: 57.180.240.249
+  server: 43.207.150.238
   type: ss
+- client-fingerprint: chrome
+  name: 🇯🇵 日本 - 东京 - Apple Network, LLC - 8
+  password: f43d30ee-7a5d-408f-a32e-b74935eeb7d7
+  port: 40015
+  server: zz.jp01.fogvip-zz.uk
+  skip-cert-verify: true
+  sni: ld.jp01.yuiuingkig.icu
+  type: trojan
+  udp: true
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 🇧🇪 比利时 - 布鲁塞尔 - ONEPROVIDER - 1
-  password: O352Y5MOSKLZ17IC
+  password: 9D5I26TE85SP928W
   port: 20026
   server: 185.213.22.93
   type: ss
+- client-fingerprint: chrome
+  name: 🇫🇷 法国 - 巴黎 - Amazon Technologies Inc. - 1
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 52.47.122.14
+  skip-cert-verify: true
+  sni: trojan.burgerip.co.uk
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇫🇷 法国 - 巴黎 - Amazon Technologies Inc. - 2
+  password: RXO4SlDD8qRKaxz3cBgSa3AXZuFnpu3Ce3KZFAN3YCxC7EEj2lTRN4Y6FyOcBp50IzD3D
+  port: 443
+  server: bottling.coffeekit.net
+  sni: bottling.coffeekit.net
+  type: trojan
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 🇵🇱 波兰 - Mazovia - Global Connectivity Solutions LLP - 1
-  password: fwKvuNWA5UwMQRWWVyLtgA
+  password: mCeosRacsgFRtnJPq3zctq
   port: 443
   server: 77.83.246.74
   type: ss
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 🇵🇱 波兰 - Mazovia - Global Connectivity Solutions LLP - 3
-  password: UxLQpmeaGbtar5XYaUJ1Bv
+  name: 🇵🇱 波兰 - Mazovia - Global Connectivity Solutions LLP - 2
+  password: LImHx1dnA2LDu5oleP99kb
   port: 443
   server: 77.83.246.74
   type: ss
 - cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 🇵🇱 波兰 - 华沙 - BrainStorm Network, Inc - 2
-  password: HBZW7V43FL5G5C78
+  name: 🇵🇱 波兰 - 华沙 - BrainStorm Network, Inc - 4
+  password: K2BVY76EOBCSVB60
   port: 20037
   server: 92.118.205.219
   type: ss
+- auth: be758973-186d-46fe-8aa4-e017134fa291
+  client-fingerprint: chrome
+  name: 🇵🇱 波兰 - 华沙 - ECO-ATMAN - 3
+  password: be758973-186d-46fe-8aa4-e017134fa291
+  port: 4029
+  server: 31.186.87.211
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria2
+  udp: true
+- client-fingerprint: random
+  grpc-opts:
+    grpc-service-name: ssp
+  name: 🇺🇸 泰国 - 曼谷 - Alibaba (US) Technology Co., Ltd. - 3
+  network: grpc
+  port: 443
+  server: 104.20.114.3
+  servername: 015e547.okxyz.xyz
+  tls: true
+  type: vless
+  uuid: fa80afbd-f447-3a3b-a0a3-74fa6df3473f
 - cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 🇹🇭 泰国 - 曼谷 - ONEPROVIDER - 1
-  password: ZGZU85N2RG9NWIEJ
+  name: 🇹🇭 泰国 - 曼谷 - ONEPROVIDER - 2
+  password: EQMV7RIDBFV5P8TR
   port: 20022
   server: 46.16.129.217
   type: ss
+- client-fingerprint: chrome
+  name: 🇹🇭 泰国 - 清迈 - CAT Telecom Public Company Limited - 1
+  password: f43d30ee-7a5d-408f-a32e-b74935eeb7d7
+  port: 50055
+  server: zz.tgcloud.fogvip-zz.uk
+  skip-cert-verify: true
+  sni: ld.tgcloud.yuiuingkig.icu
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇸🇪 瑞典 - 斯德哥尔摩 - Amazon Technologies Inc. - 4
+  password: TRY332RCOD4panalyy9nISleFSZDOYFwzXSSNaCCwYelEyDR230cxAZxDqFOTzA3AX68S
+  port: 443
+  server: otcele.golfland.club
+  sni: otcele.golfland.club
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇸🇪 瑞典 - 斯德哥尔摩 - Amazon.com - 5
+  password: RaDcSOZ8KD8jRR3YY9lyF3aga3Sy8CxqaXXBpxZ8CexKzwF4CSyqOyDEIz7wNO6FCA32Y
+  port: 443
+  server: mstiot.golfland.club
+  sni: mstiot.golfland.club
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇸🇪 瑞典 - 斯德哥尔摩 - Amazon.com, Inc. - 2
+  password: telegram-id-directvpn
+  port: 22222
+  server: 13.61.67.67
+  skip-cert-verify: true
+  sni: trojan.burgerip.co.uk
+  type: trojan
+  udp: true
 - cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 玻利维亚 - 拉巴斯 - BrainStorm Network, Inc - 1
-  password: QWSLKSV7C4N118VG
-  port: 20008
-  server: 185.93.173.246
-  type: ss
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇸🇪 瑞典 - 斯德哥尔摩 - Brainstorm Network - 1
-  password: WSAKNEI18OIC1BDK
+  name: 🇸🇪 瑞典 - 斯德哥尔摩 - Brainstorm Network - 3
+  password: PRCUJ8INPN9KZW72
   port: 20035
   server: 185.186.78.220
   type: ss
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 🇸🇪 瑞典 - 斯德哥尔摩 - GleSYS AB - 2
+  name: 🇸🇪 瑞典 - 斯德哥尔摩 - GleSYS AB - 1
+  password: 70Xwg0SbHSL8CuCkiLuGhO
+  port: 15128
+  server: sto2.g.edgeservers.org
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 🇸🇪 瑞典 - 斯德哥尔摩 - GleSYS AB - 6
   password: PI3ncxF2GPuPiB1l5gitcO
   port: 63418
   server: sto4.g.edgeservers.org
@@ -1226,110 +965,244 @@ proxies:
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 🇨🇭 瑞士 - 苏黎世 - BrainStorm Network, Inc - 1
-  password: Z3A43ZDKUZHD9JK9
+  password: KDCAZFSH4HSTL2Q5
   port: 20001
   server: 37.143.131.121
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 科威特 - 科威特市 - Meteverse Limited. - 1
-  password: 877c3b069c335ffc
-  port: 12317
-  server: 163.171.181.49
   type: ss
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 🇵🇪 秘鲁 - 利馬 - ONEPROVIDER - 1
-  password: 0SK1UPVJQ5BQ5CO5
+  password: E4VWTSX0GUPQOVO8
   port: 20009
   server: 185.47.252.16
   type: ss
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 🇱🇹 立陶宛 - 维尔纽斯 - BrainStorm Network, Inc - 1
-  password: 8E11NQQ2YNGTWQW3
+  password: 3DYJXCU98P1M9B5A
   port: 20036
   server: 185.237.185.77
   type: ss
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 🇷🇴 罗马尼亚 - 布加勒斯特 - ONEPROVIDER - 1
-  password: OCT7VA3YE12IP3HN
+  password: Q7MZEE6KQQTDAAR3
   port: 20027
   server: 185.126.237.58
   type: ss
-- auth: 88925c12-4222-4ed3-84bd-6bfac300360f
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 - 克利夫頓 - DigitalOcean, LLC - 9
-  password: 88925c12-4222-4ed3-84bd-6bfac300360f
-  port: 8443
-  server: mg7.gywanglug.xyz
-  skip-cert-verify: false
-  sni: mg7.gywanglug.xyz
-  type: hysteria2
-- auth: 88925c12-4222-4ed3-84bd-6bfac300360f
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 - 圣克拉拉 - DigitalOcean, LLC - 7
-  password: 88925c12-4222-4ed3-84bd-6bfac300360f
-  port: 8443
-  server: mg4.gywanglug.xyz
-  skip-cert-verify: false
-  sni: mg4.gywanglug.xyz
-  type: hysteria2
-- auth: 88925c12-4222-4ed3-84bd-6bfac300360f
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 - 圣克拉拉 - DigitalOcean, LLC - 8
-  password: 88925c12-4222-4ed3-84bd-6bfac300360f
-  port: 8443
-  server: mg5.gywanglug.xyz
-  skip-cert-verify: false
-  sni: mg5.gywanglug.xyz
-  type: hysteria2
-- auth: 88925c12-4222-4ed3-84bd-6bfac300360f
-  client-fingerprint: chrome
-  name: 🇺🇸 美国 - 旧金山 - DigitalOcean, LLC - 6
-  password: 88925c12-4222-4ed3-84bd-6bfac300360f
-  port: 8443
-  server: mg2.gywanglug.xyz
-  skip-cert-verify: false
-  sni: mg2.gywanglug.xyz
-  type: hysteria2
-- client-fingerprint: random
-  grpc-opts:
-    grpc-service-name: ssp
-  name: 🇺🇸 美国 - 水牛城 - HostPapa - 5
-  network: grpc
-  port: 443
-  server: fad1842.okxyzback.xyz
-  servername: fad1842.okxyzback.xyz
-  tls: true
-  type: vless
-  uuid: fa80afbd-f447-3a3b-a0a3-74fa6df3473f
-- client-fingerprint: random
-  grpc-opts:
-    grpc-service-name: ssp
-  name: 🇺🇸 美国 - 紐約 - MASSIVEGRID - 4
-  network: grpc
-  port: 443
-  server: bced845.okxyzback.xyz
-  servername: bced845.okxyzback.xyz
-  tls: true
-  type: vless
-  uuid: fa80afbd-f447-3a3b-a0a3-74fa6df3473f
 - client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 1
+  name: 🇺🇸 美国 - Elk Grove Village - Ipxo LLC - 12
+  password: f43d30ee-7a5d-408f-a32e-b74935eeb7d7
+  port: 50311
+  server: zz.sghkg.fogvip-zz.uk
+  skip-cert-verify: true
+  sni: ld.xjpsghkg.yuiuingkig.icu
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 水牛城 - Atlas Networks Corporation - 21
+  password: S3uISCSXalplOFZCy9njYOCA2AlKqDNSZly3FE8w6RzyYaxagK7eDcN0C333ES3anCOpu
+  port: 443
+  server: covteam.homeofbrave.net
+  sni: covteam.homeofbrave.net
+  type: trojan
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 - 波特蘭 - Amazon.com, Inc. - 3
+  obfs: plain
+  obfs-param: ''
+  password: amazonskr05
+  port: 443
+  protocol: origin
+  protocol-param: ''
+  server: 34.211.230.161
+  type: ssr
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 - 波特蘭 - Amazon.com, Inc. - 5
+  obfs: plain
+  obfs-param: ''
+  password: amazonskr05
+  port: 443
+  protocol: origin
+  protocol-param: ''
+  server: 35.86.111.233
+  type: ssr
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 - 洛杉矶 - AT&T Mobility Communications - 14
+  password: 56b18aab-9e83-4791-ab57-b349704fc176
+  port: 443
+  server: hk.tsapps.ru
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 - 洛杉矶 - AT&T Mobility Communications - 15
+  password: 56b18aab-9e83-4791-ab57-b349704fc176
+  port: 443
+  server: sg2.tsapps.ru
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 - 洛杉矶 - AT&T Mobility Communications - 17
+  password: 56b18aab-9e83-4791-ab57-b349704fc176
+  port: 443
+  server: jp.tsapps.ru
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 - 洛杉矶 - AT&T Mobility Communications - 18
+  password: 56b18aab-9e83-4791-ab57-b349704fc176
+  port: 443
+  server: us.tsapps.ru
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 - 洛杉矶 - Bage Cloud LLC - 16
+  password: 56b18aab-9e83-4791-ab57-b349704fc176
+  port: 443
+  server: kr.tsapps.ru
+  type: ss
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 - 洛杉矶 - Cloudflare, Inc. - 6
   network: ws
-  port: 80
-  server: 104.16.65.193
-  tls: false
-  type: vless
-  uuid: c09d51b8-25c5-4eaf-98bc-ef40c807de84
+  port: 443
+  server: La02.890604.filEGEAr-sG.me
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 60cdd89e-a9cf-4850-8577-e3c6abf5515d
   ws-opts:
     headers:
-      Host: dawn-mountain-d79f-ppal03.doniji1519.workers.dev
-    path: /?ed=2560
+      Host: La02.890604.filEGEAr-sG.me
+    path: /gyCVORfjoXYyHHcJBuLd
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 - 洛杉矶 - Cloudflare, Inc. - 7
+  network: ws
+  port: 443
+  server: LA04.890603.XYz
+  servername: la04.890603.xyz
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 60cdd89e-a9cf-4850-8577-e3c6abf5515d
+  ws-opts:
+    headers:
+      Host: LA04.890603.XYz
+    path: /gyCVORfjoXYyHHcJBuLd
 - client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 2
+  name: 🇺🇸 美国 - 洛杉矶 - Cogent Communications - 9
+  password: f43d30ee-7a5d-408f-a32e-b74935eeb7d7
+  port: 50072
+  server: zz.usa01.fogvip-zz.uk
+  skip-cert-verify: true
+  sni: ld.usa01.yuiuingkig.icu
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 洛杉矶 - DMIT Cloud Services - 1
+  password: FIYCZp9AT33jDRS73awc8lIB3ORXC2FRCaF90wZOKzDRaSxC4j8Kn3yeY6n2qZDezYeSB
+  port: 28332
+  server: pressure.wireshop.net
+  skip-cert-verify: true
+  sni: pressure.wireshop.net
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 洛杉矶 - DMIT Cloud Services - 2
+  password: 8cwxYqlSeC4Xw8KOApT3SxCIX69eZ7zBNZDE0Dap3y9AZTFBFlD5a2euA7A3YzR2DpSyI
+  port: 443
+  server: bedsheet.homeofbrave.net
+  skip-cert-verify: true
+  sni: bedsheet.homeofbrave.net
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 洛杉矶 - DMIT Cloud Services - 20
+  password: lBSSFOalI3yXZDOAwADg9a8zTCexE6pjxeX4D3a0FgSSYRqlCyCOYcz83w3aYR3cTZDF8
+  port: 443
+  server: length.wireshop.net
+  sni: length.wireshop.net
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 洛杉矶 - DMIT Cloud Services - 22
+  password: 2OnySp6YC3SZcF32XACEjlD5aDOqx9SeR6yRFDwEXAu3Fc8w3Z3Y4AqZ0OSzlN8NCeYIA
+  port: 28333
+  server: bathtub.homeofbrave.net
+  sni: bathtub.homeofbrave.net
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 洛杉矶 - DMIT Cloud Services - 23
+  password: Yyjyl3Fwy6pSjTYSaCxg7Z0COIwBYxN38FwC3YBz44678OAypA87p2CEe53SaKel3pCDSZCZaeSaaZS
+  port: 28335
+  server: printer.wireshop.net
+  sni: printer.wireshop.net
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 洛杉矶 - DMIT Cloud Services - 24
+  password: jnaO0CFYpYExOygqlESRplzewIaKSFpBaqXy3YX4xBC8KK9ja94Y4S8aS7zjq96XSxO7CDu5BCYFCZg
+  port: 443
+  server: lnitak.starspace.link
+  sni: lnitak.starspace.link
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 洛杉矶 - DMIT Cloud Services - 25
+  password: CAlpl3ZOpDFaS9E6Se0plFxu2x3I4eACOcqZSaY3ReS6CjZSCTNKDgEF73TDZ2aB9D3nD
+  port: 443
+  server: soldier.homeofbrave.net
+  sni: soldier.homeofbrave.net
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 洛杉矶 - DMIT Cloud Services - 27
+  password: lp20A3ueODTNy3eS3w8SnAXFB4DzxaOSxcRCpAZ8357aZDF9y6FCzSax3YNOXCCaappxY
+  port: 443
+  server: lander.wireshop.net
+  sni: lander.wireshop.net
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 洛杉矶 - DMIT Cloud Services - 29
+  password: DRcZI69gOAAZF8AeeAle2FSpRXFCSppOBu3RSqT0Z74O6NuOy3CcwCyDSa3aYxxwypDEY
+  port: 28339
+  server: walrus.missionsec.io
+  sni: walrus.missionsec.io
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 洛杉矶 - DMIT Cloud Services - 4
+  password: 7AZzxwaCl5caZaBnASIYOCS28eEF036BelDXED6ZKK3u3COXSe3SSqYZ5C43DOqySTRuR
+  port: 28333
+  server: 154.17.12.218
+  skip-cert-verify: true
+  sni: grater.homeofbrave.net
+  type: trojan
+  udp: true
+- client-fingerprint: random
+  grpc-opts:
+    grpc-service-name: ssp
+  name: 🇺🇸 美国 - 洛杉矶 - HostPapa - 33
+  network: grpc
+  port: 443
+  server: 198.41.208.57
+  servername: 1843701.okxyznode.top
+  tls: true
+  type: vless
+  uuid: fa80afbd-f447-3a3b-a0a3-74fa6df3473f
+- auth: 0aed82ca-fd08-11ef-8cf9-f23c93136cb3
+  client-fingerprint: chrome
+  name: 🇺🇸 美国 - 洛杉矶 - Sharktech - 8
+  password: 0aed82ca-fd08-11ef-8cf9-f23c93136cb3
+  port: 443
+  server: 107.167.18.123
+  skip-cert-verify: true
+  sni: 06a68208-st69s0-su9bm5-1phl.la.shifen.uk
+  type: hysteria2
+  udp: true
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 30
   network: ws
   port: 2086
   server: 212.183.88.84
@@ -1341,7 +1214,7 @@ proxies:
       Host: redw.pooriam.ir
     path: /TABRIZ.NET, TABRIZ.NET, TABRIZ.NET, TABRIZ.NET, TABRIZ.NET, TABRIZ.NET/?ed=2048
 - client-fingerprint: chrome
-  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 3
+  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 31
   network: ws
   port: 8880
   server: 195.85.59.155
@@ -1352,217 +1225,302 @@ proxies:
     headers:
       Host: photographipictureai.ir
     path: /Telegram
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 - Erith - OVH SAS - 2
-  password: 99eedf8e9170c8a4
-  port: 48977
-  server: 57.128.190.214
-  type: ss
-- auth: 88925c12-4222-4ed3-84bd-6bfac300360f
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 - Slough - DigitalOcean, LLC - 18
-  password: 88925c12-4222-4ed3-84bd-6bfac300360f
-  port: 8443
-  server: yg1.gywanglug.xyz
-  skip-cert-verify: false
-  sni: yg1.gywanglug.xyz
-  type: hysteria2
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 - 伦敦 - OVH SAS - 19
-  port: 41699
-  server: 183.236.51.38
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 聖荷西 - Cloudflare, Inc. - 32
+  network: ws
+  port: 2095
+  server: 156.238.18.48
   tls: false
-  type: vmess
-  udp: true
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 - 伦敦 - Regxa Company for Information Technology Ltd - 1
+  type: vless
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /TM-AZARBAYJAB1TM-AZARBAYJAB1TM-AZARBAYJAB1
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 聖荷西 - Wave Broadband - 13
+  password: SZAaY0CIRDey6OCSpS3Dl3F2nnDTYFqRS8aClceOwAyTwy39XxDz4FYXZO3AxRaEz2SlN
   port: 443
-  server: 83.147.19.193
-  servername: JOIN.BEDE.CHANEL.@JOKERRVPN
+  server: dessert.taiwanesefood.link
+  sni: dessert.taiwanesefood.link
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 聖荷西 - Wave Broadband - 28
+  password: SwYDRyTDX4z3ISXaazFOcSSY3nA8EAlCqOD9lyTDeZCx2wxeZYNO3aS20FpRCR6nly3AF
+  port: 443
+  server: barring.taiwanesefood.link
+  sni: barring.taiwanesefood.link
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 芝加哥 - HostVenom LLC - 10
+  password: f43d30ee-7a5d-408f-a32e-b74935eeb7d7
+  port: 40005
+  server: zz.mgxyt.fogvip-zz.uk
   skip-cert-verify: true
-  tls: false
+  sni: ld.mgxyt.yuiuingkig.icu
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 芝加哥 - HostVenom LLC - 11
+  password: f43d30ee-7a5d-408f-a32e-b74935eeb7d7
+  port: 40045
+  server: zz.usa02.fogvip-zz.uk
+  skip-cert-verify: true
+  sni: ld.meiguo02.yuiuingkig.icu
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 西雅圖 - Atlas Networks Corporation - 19
+  password: 5Z3RglCCyER3pjlSe0gSyqOOeExx4qTpwKxBR63XjIa8eNzaaO84pDDBA2DlZYI2n37CX
+  port: 443
+  server: toward.taiwanesefood.link
+  sni: toward.taiwanesefood.link
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 - 西雅圖 - Atlas Networks Corporation - 26
+  password: 6qREZzexS5BDqFaSyzlwlBYXT8CDYOpcDIaeYaAC3X940A73OceAaRR32C3Sx6w9xgyCS
+  port: 443
+  server: phooey.taiwanesefood.link
+  sni: phooey.taiwanesefood.link
+  type: trojan
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇫🇮 芬兰 - 赫尔辛基 - ONEPROVIDER - 1
+  password: 8GBEJR2RUW3EWQYK
+  port: 20031
+  server: 37.143.129.127
+  type: ss
+- client-fingerprint: chrome
+  name: 🇬🇧 英国 - 伦敦 - Amazon Technologies Inc. - 1
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 35.179.84.65
+  skip-cert-verify: true
+  sni: trojan.burgerip.co.uk
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇬🇧 英国 - 伦敦 - Amazon Technologies Inc. - 2
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 13.42.211.66
+  skip-cert-verify: true
+  sni: trojan.burgerip.co.uk
+  type: trojan
+  udp: true
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 伦敦 - Amazon Technologies Inc. - 22
+  network: ws
+  port: 443
+  server: www.visa.com.tw
+  servername: scheduled-suggests-joining-massachusetts.trycloudflare.com
+  skip-cert-verify: true
+  tls: true
   type: vmess
-  uuid: c7cb97a5-f3d0-4d03-f571-4fed95a4cef6
+  uuid: 66e5c8dd-3176-458e-8fb0-1ed91d2f9602
+  ws-opts:
+    headers:
+      Host: www.visa.com.tw
+    path: /vmess-argo?ed=2048
+- client-fingerprint: chrome
+  name: 🇬🇧 英国 - 伦敦 - Amazon Technologies Inc. - 23
+  password: Fl4B9jyFAwE4XgFxuICw8pD0NCYIneA22OyYO30enl8Kxe3a3xcpDEyqa79CTNSpRA5D8
+  port: 443
+  server: young.golfland.club
+  sni: young.golfland.club
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇬🇧 英国 - 伦敦 - OVH SAS - 3
+  password: f53247e0-fd1e-11ef-8370-1239d0255272
+  port: 443
+  server: uk1.test3.net
+  skip-cert-verify: true
+  sni: uk1.test3.net
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇬🇧 英国 - 伦敦 - OVH SAS - 4
+  password: 1aef2a80-fd1f-11ef-b537-1239d0255272
+  port: 443
+  server: uk1.test3.net
+  skip-cert-verify: true
+  sni: uk1.test3.net
+  type: trojan
+  udp: true
+- client-fingerprint: chrome
+  name: 🇬🇧 英国 - 伦敦 - OVH SAS - 5
+  password: 0a2bb2b0-fd1f-11ef-b88d-1239d0255272
+  port: 443
+  server: uk1.test3.net
+  skip-cert-verify: true
+  sni: uk1.test3.net
+  type: trojan
+  udp: true
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 10
-  password: AN9XDRUQ6M6BQCDX
-  port: 19002
-  server: 206.245.211.12
-  type: ss
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 11
-  password: EED8QJW2A1UIMWDC
-  port: 19001
-  server: 206.245.211.11
-  type: ss
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 12
-  password: 2GQT45OMAE2L6D52
-  port: 19014
-  server: 206.245.211.24
-  type: ss
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 13
-  password: 46RX2ZEAL84WLP14
-  port: 19004
-  server: 206.245.211.14
-  type: ss
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 14
-  password: Z25JPIXVVDC1VF2I
+  password: XZRMJF7HXM2M2STH
   port: 19016
   server: 206.245.211.26
   type: ss
 - cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 15
-  password: 0XCOO3WF94NETV4A
-  port: 19011
-  server: 206.245.211.21
-  type: ss
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 16
-  password: 6WOQKYYDC75DG8Q8
-  port: 19009
-  server: 206.245.211.19
-  type: ss
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 17
-  password: 8K8E98S3IMAI3B1F
-  port: 19013
-  server: 206.245.211.23
-  type: ss
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 3
-  password: E9PKULOXDNJCIS9D
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 11
+  password: HRRWFFSBJM9JY8Q8
   port: 19006
   server: 206.245.211.16
   type: ss
 - cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 4
-  password: 0S2PSQS9YFN2LORX
-  port: 19010
-  server: 206.245.211.20
-  type: ss
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 5
-  password: XTP8MCQT0NSFF4DT
-  port: 19003
-  server: 206.245.211.13
-  type: ss
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 6
-  password: X5NI24NH9KAN1BBN
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 12
+  password: CEHN6OCZVPMGBK56
   port: 19007
   server: 206.245.211.17
   type: ss
 - cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 7
-  password: 8ORZX0WS3ZF2Z6I9
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 13
+  password: 1MD7Y1HE8FFHAB0N
   port: 19008
   server: 206.245.211.18
   type: ss
 - cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 8
-  password: IWUBTAT49FPOEKDE
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 14
+  password: RHPSJSEFLHGOWCB6
+  port: 19004
+  server: 206.245.211.14
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 15
+  password: RB8YORZQNUE31ICC
+  port: 19009
+  server: 206.245.211.19
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 16
+  password: 6L9Z0OE8JVRMFTD1
+  port: 19001
+  server: 206.245.211.11
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 17
+  password: 15534N30ZTFY6XK1
   port: 19005
   server: 206.245.211.15
   type: ss
 - cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 9
-  password: U7LB7HC7NTQFHUF4
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 18
+  password: FS37F61GBAIXJF6E
+  port: 19003
+  server: 206.245.211.13
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 19
+  password: E8CM3R3BWXQQNYMM
+  port: 19012
+  server: 206.245.211.22
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 20
+  password: 0NRWKI3MXKV7ESKH
+  port: 19011
+  server: 206.245.211.21
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 21
+  password: M7PVVHSKARO74MWK
+  port: 19013
+  server: 206.245.211.23
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 6
+  password: 55N09NCXWEH7GQMF
   port: 19015
   server: 206.245.211.25
   type: ss
-- client-fingerprint: random
-  grpc-opts:
-    grpc-service-name: ssp
-  name: 🇳🇱 荷兰 - Dronten - The Infrastructure Group B.V. - 2
-  network: grpc
-  port: 443
-  server: d5d3677.oktizi.xyz
-  servername: d5d3677.oktizi.xyz
-  tls: true
-  type: vless
-  uuid: fa80afbd-f447-3a3b-a0a3-74fa6df3473f
 - cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 🇳🇱 荷兰 - 阿姆斯特丹 - BrainStorm Network, Inc - 1
-  password: 05N9YS8VZBC1BO60
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 7
+  password: WKQOJA6MCJLFJPPC
+  port: 19002
+  server: 206.245.211.12
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 8
+  password: YULPO52FDYZK2L64
+  port: 19010
+  server: 206.245.211.20
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇬🇧 英国 - 倫敦金融城 - VORBOSS-LEASE - 9
+  password: 7PKV15Z9PTBNEJCI
+  port: 19014
+  server: 206.245.211.24
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇳🇱 荷兰 - 阿姆斯特丹 - BrainStorm Network, Inc - 2
+  password: X6WMQ97R9AK7PX0I
   port: 20000
   server: 109.104.154.131
   type: ss
-- auth: 88925c12-4222-4ed3-84bd-6bfac300360f
+- cipher: aes-128-gcm
   client-fingerprint: chrome
-  name: 🇳🇱 荷兰 - 阿姆斯特丹 - DigitalOcean, LLC - 3
-  password: 88925c12-4222-4ed3-84bd-6bfac300360f
-  port: 8443
-  server: hl1.gywanglug.xyz
-  skip-cert-verify: false
-  sni: hl1.gywanglug.xyz
-  type: hysteria2
+  name: 🇳🇱 荷兰 - 阿姆斯特丹 - Datacamp Limited - 1
+  password: shadowsocks
+  port: 443
+  server: 149.34.244.71
+  type: ss
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 🇻🇳 越南 - 胡志明市 - Hostkey B.V. - 1
-  password: LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj
-  port: 52952
-  server: exchange.gameaurela.click
+  name: 🇳🇱 荷兰 - 阿姆斯特丹 - NKtelecom INC - 3
+  password: 56b18aab-9e83-4791-ab57-b349704fc176
+  port: 443
+  server: nl2.tsapps.ru
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 🇳🇱 荷兰 - 阿姆斯特丹 - Servers Tech Fzco - 4
+  password: 56b18aab-9e83-4791-ab57-b349704fc176
+  port: 443
+  server: nl.tsapps.ru
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇪🇸 西班牙 - 巴塞罗那 - BrainStorm Network, Inc - 1
+  password: T0ELS4804BGXKGMO
+  port: 20038
+  server: 45.154.206.189
   type: ss
 - cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 🇰🇷 韩国 - 首尔特别市 - Amazon Technologies Inc. - 4
+  name: 🇰🇷 韩国 - 首尔特别市 - Amazon Technologies Inc. - 1
   password: amazonskr05
   port: 443
   server: 52.78.98.141
   type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 🇰🇷 韩国 - 首尔特别市 - Amazon.com, Inc. - 1
-  password: amazonskr05
-  port: 443
-  server: 3.34.253.95
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 🇰🇷 韩国 - 首尔特别市 - Amazon.com, Inc. - 2
-  password: amazonskr05
-  port: 443
-  server: 43.201.33.107
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 🇰🇷 韩国 - 首尔特别市 - Amazon.com, Inc. - 3
-  password: amazonskr05
-  port: 443
-  server: 3.36.117.213
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 🇰🇷 韩国 - 首尔特别市 - Amazon.com, Inc. - 5
-  password: amazonskr05
-  port: 443
-  server: 43.202.49.76
-  type: ss
+- client-fingerprint: chrome
+  name: 🇲🇾 马来西亚 - 吉隆坡 - Ace Data Centers II - 1
+  password: f43d30ee-7a5d-408f-a32e-b74935eeb7d7
+  port: 50117
+  server: zz.mlxy-1.fogvip-zz.uk
+  skip-cert-verify: true
+  sni: ld.mlxy-cn.yuiuingkig.icu
+  type: trojan
+  udp: true
 - alpn:
   - h3
   auth: f0f8c600-f96c-4d26-ae78-9338b2a423e2
@@ -1714,3 +1672,456 @@ proxies:
   skip-cert-verify: true
   sni: du.wish.ml
   type: hysteria2
+- cipher: 2022-blake3-aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇭🇰 香港1 原生ip
+  password: NzNlYjgyNDI1NDdhMDMwZTFiOGEyZjZmNGY3MmFiMDU=:Nzk4OGRkOTktNDBmYy00NzRkLThkYzMtYTgxNDdiMDc=
+  port: 11002
+  server: surfboard-hk.aisu.cyou
+  type: ss
+- cipher: 2022-blake3-aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇭🇰 香港2 解锁流媒体
+  password: NzNlYjgyNDI1NDdhMDMwZTFiOGEyZjZmNGY3MmFiMDU=:Nzk4OGRkOTktNDBmYy00NzRkLThkYzMtYTgxNDdiMDc=
+  port: 11169
+  server: surfboard-hk.aisu.cyou
+  type: ss
+- cipher: 2022-blake3-aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇭🇰 香港3 原生ip
+  password: NzNlYjgyNDI1NDdhMDMwZTFiOGEyZjZmNGY3MmFiMDU=:Nzk4OGRkOTktNDBmYy00NzRkLThkYzMtYTgxNDdiMDc=
+  port: 11841
+  server: surfboard-hk.aisu.cyou
+  type: ss
+- cipher: 2022-blake3-aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇭🇰 香港4 解锁流媒体
+  password: NzNlYjgyNDI1NDdhMDMwZTFiOGEyZjZmNGY3MmFiMDU=:Nzk4OGRkOTktNDBmYy00NzRkLThkYzMtYTgxNDdiMDc=
+  port: 11860
+  server: surfboard-hk.aisu.cyou
+  type: ss
+- cipher: 2022-blake3-aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇹🇼 台湾1 原生ip
+  password: NzNlYjgyNDI1NDdhMDMwZTFiOGEyZjZmNGY3MmFiMDU=:Nzk4OGRkOTktNDBmYy00NzRkLThkYzMtYTgxNDdiMDc=
+  port: 11878
+  server: surfboard-tw.aisu.cyou
+  type: ss
+- cipher: 2022-blake3-aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇹🇼 台湾2 解锁流媒体
+  password: NzNlYjgyNDI1NDdhMDMwZTFiOGEyZjZmNGY3MmFiMDU=:Nzk4OGRkOTktNDBmYy00NzRkLThkYzMtYTgxNDdiMDc=
+  port: 11842
+  server: surfboard-tw.aisu.cyou
+  type: ss
+- cipher: 2022-blake3-aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇹🇼 台湾3 原生ip
+  password: NzNlYjgyNDI1NDdhMDMwZTFiOGEyZjZmNGY3MmFiMDU=:Nzk4OGRkOTktNDBmYy00NzRkLThkYzMtYTgxNDdiMDc=
+  port: 11945
+  server: surfboard-tw.aisu.cyou
+  type: ss
+- cipher: 2022-blake3-aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇹🇼 台湾4 解锁流媒体
+  password: NzNlYjgyNDI1NDdhMDMwZTFiOGEyZjZmNGY3MmFiMDU=:Nzk4OGRkOTktNDBmYy00NzRkLThkYzMtYTgxNDdiMDc=
+  port: 11645
+  server: surfboard-tw.aisu.cyou
+  type: ss
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇭🇰 香港1 HKT家宽
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12476
+  ports: 12001-12999
+  server: surfboard-hk.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇭🇰 香港2 HKT家宽
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12810
+  ports: 12001-12999
+  server: surfboard-hk.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇹🇼 台湾1 Hinet家宽
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12980
+  ports: 12001-12999
+  server: surfboard-tw.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇯🇵 日本1 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12458
+  ports: 12001-12999
+  server: surfboard-jp.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇯🇵 日本2 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12419
+  ports: 12001-12999
+  server: surfboard-jp.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇯🇵 日本3 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12324
+  ports: 12001-12999
+  server: surfboard-jp.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇯🇵 日本4 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12710
+  ports: 12001-12999
+  server: surfboard-jp.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇰🇷 韩国1 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12251
+  ports: 12001-12999
+  server: surfboard-kr.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇰🇷 韩国2 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12034
+  ports: 12001-12999
+  server: surfboard-kr.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇰🇷 韩国3 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12092
+  ports: 12001-12999
+  server: surfboard-kr.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇰🇷 韩国4 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12392
+  ports: 12001-12999
+  server: surfboard-kr.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇸🇬 新加坡1 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12283
+  ports: 12001-12999
+  server: surfboard-sg.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇸🇬 新加坡2 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12646
+  ports: 12001-12999
+  server: surfboard-sg.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇸🇬 新加坡3 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12787
+  ports: 12001-12999
+  server: surfboard-sg.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇸🇬 新加坡4 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12358
+  ports: 12001-12999
+  server: surfboard-sg.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇺🇸 美国1 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12912
+  ports: 12001-12999
+  server: surfboard-us.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇺🇸 美国2 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12695
+  ports: 12001-12999
+  server: surfboard-us.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇺🇸 美国3 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12884
+  ports: 12001-12999
+  server: surfboard-us.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇺🇸 美国4 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12797
+  ports: 12001-12999
+  server: surfboard-us.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇨🇦 加拿大1 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12124
+  ports: 12001-12999
+  server: surfboard-ca.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇨🇦 加拿大2 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12530
+  ports: 12001-12999
+  server: surfboard-ca.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇨🇦 加拿大3 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12140
+  ports: 12001-12999
+  server: surfboard-ca.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇨🇦 加拿大4 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12960
+  ports: 12001-12999
+  server: surfboard-ca.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇬🇧 英国1 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12420
+  ports: 12001-12999
+  server: surfboard-uk.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇬🇧 英国2 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12500
+  ports: 12001-12999
+  server: surfboard-uk.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇬🇧 英国3 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12985
+  ports: 12001-12999
+  server: surfboard-uk.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇬🇧 英国4 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12693
+  ports: 12001-12999
+  server: surfboard-uk.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇫🇷 法国1 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12755
+  ports: 12001-12999
+  server: surfboard-fr.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇫🇷 法国2 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12966
+  ports: 12001-12999
+  server: surfboard-fr.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇫🇷 法国3 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12709
+  ports: 12001-12999
+  server: surfboard-fr.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇫🇷 法国4 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12012
+  ports: 12001-12999
+  server: surfboard-fr.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇩🇪 德国1 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12734
+  ports: 12001-12999
+  server: surfboard-de.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇩🇪 德国2 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12941
+  ports: 12001-12999
+  server: surfboard-de.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇩🇪 德国3 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12201
+  ports: 12001-12999
+  server: surfboard-de.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇩🇪 德国4 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12380
+  ports: 12001-12999
+  server: surfboard-de.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- client-fingerprint: safari
+  name: 🇺🇸 US-CN2GIA
+  network: tcp
+  port: 50999
+  reality-opts:
+    public-key: 26wNJTzy8laEJLpVe1Tmo_CLJSkqwwAsM4c7hjSN4WQ
+    short-id: 0400e8ae8448
+  server: 154.13.5.181
+  servername: yahoo.com
+  tls: true
+  type: vless
+  uuid: 0aaa2e86-62d3-4f52-80b1-26f14e17cfaf
