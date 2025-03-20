@@ -1,4 +1,367 @@
 proxies:
+- client-fingerprint: chrome
+  name: 🇩🇪 德国 | 1Gbps
+  network: ws
+  port: 443
+  server: de.oldcloud.online
+  servername: de.oldcloud.online
+  tls: true
+  type: vless
+  uuid: b3903a4d-d9e7-4b7d-82a3-292116fbceb8
+  ws-opts:
+    headers:
+      Host: de.oldcloud.online
+    path: /
+- client-fingerprint: chrome
+  name: 🇻🇳 越南 | 1Gbps
+  network: ws
+  port: 443
+  server: vn.oldcloud.online
+  servername: vn.oldcloud.online
+  tls: true
+  type: vless
+  uuid: 5cf6bd4f-4318-4eda-e9da-4bbb0103f26a
+  ws-opts:
+    headers:
+      Host: vn.oldcloud.online
+    path: /
+- client-fingerprint: chrome
+  name: 🇺🇸 美国 | 1Gbps
+  network: ws
+  port: 443
+  server: xz.4056860.xyz
+  servername: xz.4056860.xyz
+  tls: true
+  type: vless
+  uuid: d59139e1-a805-421c-a5d4-9b9cf5814338
+  ws-opts:
+    headers:
+      Host: xz.4056860.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 🇲🇳 蒙古 | 1Gbps
+  network: ws
+  port: 443
+  server: mn.4056860.xyz
+  servername: mn.4056860.xyz
+  tls: true
+  type: vless
+  uuid: a0c739c7-1629-44c9-be1d-bc5c05248374
+  ws-opts:
+    headers:
+      Host: mn.4056860.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 🇦🇶 南极 | 1Gbps
+  network: ws
+  port: 443
+  server: aq.oldcloud.online
+  servername: aq.oldcloud.online
+  tls: true
+  type: vless
+  uuid: ae20b743-9c67-4ba9-86f5-116a4a838b12
+  ws-opts:
+    headers:
+      Host: aq.oldcloud.online
+    path: /
+- client-fingerprint: chrome
+  name: 🇲🇴 澳门 | 1Gbps
+  network: ws
+  port: 443
+  server: mo.4056860.xyz
+  servername: mo.4056860.xyz
+  tls: true
+  type: vless
+  uuid: 32561a76-b738-48b9-b3f2-37856346fbd8
+  ws-opts:
+    headers:
+      Host: mo.4056860.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 🇰🇷 韩国 | 1Gbps
+  network: ws
+  port: 443
+  server: kr.4056860.xyz
+  servername: kr.4056860.xyz
+  tls: true
+  type: vless
+  uuid: d5b92857-e8f2-456e-8d58-8ff2d53ecd0b
+  ws-opts:
+    headers:
+      Host: kr.4056860.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 🇮🇸 冰岛 | 1Gbps
+  network: ws
+  port: 443
+  server: is.oldcloud.online
+  servername: is.oldcloud.online
+  tls: true
+  type: vless
+  uuid: 753fa8e8-a3e8-442e-abf7-875ed776eacb
+  ws-opts:
+    headers:
+      Host: is.oldcloud.online
+    path: /
+- client-fingerprint: chrome
+  name: 🇨🇳 深圳 | 200Mbps
+  network: ws
+  port: 38926
+  server: 8.134.162.37
+  tls: false
+  type: vless
+  uuid: d7e4f817-c2e7-4eea-8b53-8ea594e8bb19
+  ws-opts:
+    headers:
+      Host: 8.134.162.37
+    path: /
+- client-fingerprint: chrome
+  name: 帕劳 |  30Mbps
+  network: ws
+  port: 443
+  server: pw.9901157.xyz
+  servername: pw.9901157.xyz
+  tls: true
+  type: vless
+  uuid: 05ed4027-cfdd-4361-9489-1b4e5808d699
+  ws-opts:
+    headers:
+      Host: pw.9901157.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 海地 |  30Mbps
+  network: ws
+  port: 443
+  server: ht.9901157.xyz
+  servername: ht.9901157.xyz
+  tls: true
+  type: vless
+  uuid: d1ee68e3-5ed9-4da9-bb17-2cf83298afe3
+  ws-opts:
+    headers:
+      Host: ht.9901157.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 🇦🇷 阿根廷  | 1Gbps
+  network: ws
+  port: 443
+  server: ar.oldcloud.online
+  servername: ar.oldcloud.online
+  tls: true
+  type: vless
+  uuid: 44f4d5fd-0151-4476-9700-accfd6fa0942
+  ws-opts:
+    headers:
+      Host: ar.oldcloud.online
+    path: /
+- client-fingerprint: chrome
+  name: 🇹🇷 土耳其 | 1Gbps
+  network: ws
+  port: 443
+  server: tr.oldcloud.online
+  servername: tr.oldcloud.online
+  tls: true
+  type: vless
+  uuid: c085c9e0-6666-4ba4-a0af-f17a67eade85
+  ws-opts:
+    headers:
+      Host: tr.oldcloud.online
+    path: /
+- client-fingerprint: chrome
+  name: 格陵兰  | 1Gbps
+  network: ws
+  port: 443
+  server: gl.9901154.xyz
+  servername: gl.9901154.xyz
+  tls: true
+  type: vless
+  uuid: a6b40242-7a3c-4346-97a2-439d8fd06250
+  ws-opts:
+    headers:
+      Host: gl.9901154.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 安道尔 | 100Mbps
+  network: ws
+  port: 443
+  server: ad.oldcloud.online
+  servername: ad.oldcloud.online
+  tls: true
+  type: vless
+  uuid: 18d8ce6f-a27c-461e-ada8-a7d0a97a023b
+  ws-opts:
+    headers:
+      Host: ad.oldcloud.online
+    path: /
+- client-fingerprint: chrome
+  name: 索马里 | 30Mbps
+  network: ws
+  port: 443
+  server: so.9901157.xyz
+  servername: so.9901157.xyz
+  tls: true
+  type: vless
+  uuid: a74e9516-69ad-4608-9427-d17f1f880f88
+  ws-opts:
+    headers:
+      Host: so.9901157.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 🇻🇦 梵蒂冈 | 30Mbps
+  network: ws
+  port: 443
+  server: ua.9901157.xyz
+  servername: ua.9901157.xyz
+  tls: true
+  type: vless
+  uuid: 56c26c02-4523-49e6-af21-3fc5edc45e7e
+  ws-opts:
+    headers:
+      Host: ua.9901157.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 阿富汗 |  30Mbps
+  network: ws
+  port: 443
+  server: af.9901157.xyz
+  servername: af.9901157.xyz
+  tls: true
+  type: vless
+  uuid: a345476b-3f70-4eaa-acad-dd4a91e657f7
+  ws-opts:
+    headers:
+      Host: af.9901157.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 布隆迪 | 30Mbps
+  network: ws
+  port: 443
+  server: bi.9901157.xyz
+  servername: bi.9901157.xyz
+  tls: true
+  type: vless
+  uuid: d511bc03-2dd9-4977-aa39-efc0025301de
+  ws-opts:
+    headers:
+      Host: bi.9901157.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 🇸🇬 新加坡 | 30Mbps
+  network: ws
+  port: 443
+  server: sg.9901157.xyz
+  servername: sg.9901157.xyz
+  tls: true
+  type: vless
+  uuid: c23a346d-5f32-4185-8f90-a86d8239ce63
+  ws-opts:
+    headers:
+      Host: sg.9901157.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 东帝汶 | 30Mbps
+  network: ws
+  port: 443
+  server: tl.4056860.xyz
+  servername: tl.4056860.xyz
+  tls: true
+  type: vless
+  uuid: 27306aa6-0cf4-46dd-a607-6de0b26ec925
+  ws-opts:
+    headers:
+      Host: tl.4056860.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 🇲🇩 摩尔多瓦 | 100Mbps
+  network: ws
+  port: 443
+  server: md.4056860.xyz
+  servername: md.4056860.xyz
+  tls: true
+  type: vless
+  uuid: 0b6f99a8-528a-4dc0-bdca-cef70e3f0184
+  ws-opts:
+    headers:
+      Host: md.4056860.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 🇲🇾 马来西亚 | 30Mbps
+  network: ws
+  port: 443
+  server: my.4056860.xyz
+  servername: my.4056860.xyz
+  tls: true
+  type: vless
+  uuid: 37ff2204-95d1-4af0-bde8-511cf12ae06b
+  ws-opts:
+    headers:
+      Host: my.4056860.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 🇳🇬 尼日利亚 | 30Mbps
+  network: ws
+  port: 443
+  server: ng.9901157.xyz
+  servername: ng.9901157.xyz
+  tls: true
+  type: vless
+  uuid: 575d3535-a0e4-4e14-9212-f47bcdacd3de
+  ws-opts:
+    headers:
+      Host: ng.9901157.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 毛里求斯 | 30Mbps
+  network: ws
+  port: 443
+  server: mu.4056860.xyz
+  servername: mu.4056860.xyz
+  tls: true
+  type: vless
+  uuid: 43367b08-d0d3-4253-b326-6392ee857d56
+  ws-opts:
+    headers:
+      Host: mu.4056860.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 开曼群岛 | 30Mbps
+  network: ws
+  port: 443
+  server: ky.9901157.xyz
+  servername: ky.9901157.xyz
+  tls: true
+  type: vless
+  uuid: 29243fee-c83f-40f3-84d9-8738f593c305
+  ws-opts:
+    headers:
+      Host: ky.9901157.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 直布罗陀 | 30Mbps
+  network: ws
+  port: 443
+  server: gi.9901157.xyz
+  servername: gi.9901157.xyz
+  tls: true
+  type: vless
+  uuid: 26d226dc-ea66-45b9-984e-25e9bfb9e864
+  ws-opts:
+    headers:
+      Host: gi.9901157.xyz
+    path: /
+- client-fingerprint: chrome
+  name: 斯里兰卡 | 10Mbps
+  network: ws
+  port: 443
+  server: lk.4056860.xyz
+  servername: lk.4056860.xyz
+  tls: true
+  type: vless
+  uuid: 4c2876a8-e01b-4804-b26c-4f68f4725b22
+  ws-opts:
+    headers:
+      Host: lk.4056860.xyz
+    path: /
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 🇹🇼 中国 - 台湾 - CHIEF - 6
