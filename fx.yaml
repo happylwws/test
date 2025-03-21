@@ -1559,3 +1559,219 @@ proxies:
   tls: true
   type: vless
   uuid: 0aaa2e86-62d3-4f52-80b1-26f14e17cfaf
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🏳️‍🌈 剩余流量：76.65 GB
+  port: 34011
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 距离下次重置剩余：24 天
+  port: 34011
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 套餐到期：2025-05-14
+  port: 34011
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 香港01|BGP|EIP
+  port: 34011
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 香港02|BGP|EIP
+  port: 34012
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 香港03|BGP|EIP
+  port: 34013
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇭🇰 香港04|BGP|EIP
+  port: 34014
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇼 台湾01|BGP|EIP
+  port: 34021
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇼 台湾02|BGP|EIP
+  port: 34022
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇼 台湾03|BGP|EIP
+  port: 34023
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇹🇼 台湾04|BGP|EIP
+  port: 34024
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡01|BGP|EIP
+  port: 34031
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡02|BGP|EIP
+  port: 34032
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡03|BGP|EIP
+  port: 34033
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇸🇬 新加坡04|BGP|EIP
+  port: 34034
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇯🇵 日本01|BGP|EIP
+  port: 34041
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇯🇵 日本02|BGP|EIP
+  port: 34042
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇯🇵 日本03|BGP|EIP
+  port: 34043
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇯🇵 日本04|BGP|EIP
+  port: 34044
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 美国01|BGP|EIP
+  port: 34051
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 美国02|BGP|EIP
+  port: 34052
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 美国03|BGP|EIP
+  port: 34053
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇺🇸 美国04|BGP|EIP
+  port: 34054
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇰🇷 韩国01|BGP|EIP
+  port: 34061
+  server: bgp-xdd.blue-bgp.xyz
+  tls: false
+  type: vmess
+  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
