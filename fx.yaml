@@ -1106,6 +1106,447 @@ proxies:
   skip-cert-verify: true
   sni: du.wish.ml
   type: hysteria2
+- cipher: 2022-blake3-aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇭🇰 香港1 原生ip
+  password: NzNlYjgyNDI1NDdhMDMwZTFiOGEyZjZmNGY3MmFiMDU=:Nzk4OGRkOTktNDBmYy00NzRkLThkYzMtYTgxNDdiMDc=
+  port: 11002
+  server: surfboard-hk.aisu.cyou
+  type: ss
+- cipher: 2022-blake3-aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇭🇰 香港2 解锁流媒体
+  password: NzNlYjgyNDI1NDdhMDMwZTFiOGEyZjZmNGY3MmFiMDU=:Nzk4OGRkOTktNDBmYy00NzRkLThkYzMtYTgxNDdiMDc=
+  port: 11169
+  server: surfboard-hk.aisu.cyou
+  type: ss
+- cipher: 2022-blake3-aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇭🇰 香港3 原生ip
+  password: NzNlYjgyNDI1NDdhMDMwZTFiOGEyZjZmNGY3MmFiMDU=:Nzk4OGRkOTktNDBmYy00NzRkLThkYzMtYTgxNDdiMDc=
+  port: 11841
+  server: surfboard-hk.aisu.cyou
+  type: ss
+- cipher: 2022-blake3-aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇭🇰 香港4 解锁流媒体
+  password: NzNlYjgyNDI1NDdhMDMwZTFiOGEyZjZmNGY3MmFiMDU=:Nzk4OGRkOTktNDBmYy00NzRkLThkYzMtYTgxNDdiMDc=
+  port: 11860
+  server: surfboard-hk.aisu.cyou
+  type: ss
+- cipher: 2022-blake3-aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇹🇼 台湾1 原生ip
+  password: NzNlYjgyNDI1NDdhMDMwZTFiOGEyZjZmNGY3MmFiMDU=:Nzk4OGRkOTktNDBmYy00NzRkLThkYzMtYTgxNDdiMDc=
+  port: 11878
+  server: surfboard-tw.aisu.cyou
+  type: ss
+- cipher: 2022-blake3-aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇹🇼 台湾2 解锁流媒体
+  password: NzNlYjgyNDI1NDdhMDMwZTFiOGEyZjZmNGY3MmFiMDU=:Nzk4OGRkOTktNDBmYy00NzRkLThkYzMtYTgxNDdiMDc=
+  port: 11842
+  server: surfboard-tw.aisu.cyou
+  type: ss
+- cipher: 2022-blake3-aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇹🇼 台湾3 原生ip
+  password: NzNlYjgyNDI1NDdhMDMwZTFiOGEyZjZmNGY3MmFiMDU=:Nzk4OGRkOTktNDBmYy00NzRkLThkYzMtYTgxNDdiMDc=
+  port: 11945
+  server: surfboard-tw.aisu.cyou
+  type: ss
+- cipher: 2022-blake3-aes-256-gcm
+  client-fingerprint: chrome
+  name: 🇹🇼 台湾4 解锁流媒体
+  password: NzNlYjgyNDI1NDdhMDMwZTFiOGEyZjZmNGY3MmFiMDU=:Nzk4OGRkOTktNDBmYy00NzRkLThkYzMtYTgxNDdiMDc=
+  port: 11645
+  server: surfboard-tw.aisu.cyou
+  type: ss
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇭🇰 香港1 HKT家宽
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12476
+  ports: 12001-12999
+  server: surfboard-hk.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇭🇰 香港2 HKT家宽
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12810
+  ports: 12001-12999
+  server: surfboard-hk.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇹🇼 台湾1 Hinet家宽
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12980
+  ports: 12001-12999
+  server: surfboard-tw.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇯🇵 日本1 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12458
+  ports: 12001-12999
+  server: surfboard-jp.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇯🇵 日本2 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12419
+  ports: 12001-12999
+  server: surfboard-jp.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇯🇵 日本3 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12324
+  ports: 12001-12999
+  server: surfboard-jp.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇯🇵 日本4 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12710
+  ports: 12001-12999
+  server: surfboard-jp.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇰🇷 韩国1 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12251
+  ports: 12001-12999
+  server: surfboard-kr.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇰🇷 韩国2 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12034
+  ports: 12001-12999
+  server: surfboard-kr.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇰🇷 韩国3 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12092
+  ports: 12001-12999
+  server: surfboard-kr.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇰🇷 韩国4 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12392
+  ports: 12001-12999
+  server: surfboard-kr.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇸🇬 新加坡1 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12283
+  ports: 12001-12999
+  server: surfboard-sg.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇸🇬 新加坡2 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12646
+  ports: 12001-12999
+  server: surfboard-sg.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇸🇬 新加坡3 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12787
+  ports: 12001-12999
+  server: surfboard-sg.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇸🇬 新加坡4 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12358
+  ports: 12001-12999
+  server: surfboard-sg.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇺🇸 美国1 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12912
+  ports: 12001-12999
+  server: surfboard-us.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇺🇸 美国2 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12695
+  ports: 12001-12999
+  server: surfboard-us.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇺🇸 美国3 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12884
+  ports: 12001-12999
+  server: surfboard-us.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇺🇸 美国4 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12797
+  ports: 12001-12999
+  server: surfboard-us.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇨🇦 加拿大1 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12124
+  ports: 12001-12999
+  server: surfboard-ca.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇨🇦 加拿大2 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12530
+  ports: 12001-12999
+  server: surfboard-ca.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇨🇦 加拿大3 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12140
+  ports: 12001-12999
+  server: surfboard-ca.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇨🇦 加拿大4 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12960
+  ports: 12001-12999
+  server: surfboard-ca.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇬🇧 英国1 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12420
+  ports: 12001-12999
+  server: surfboard-uk.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇬🇧 英国2 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12500
+  ports: 12001-12999
+  server: surfboard-uk.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇬🇧 英国3 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12985
+  ports: 12001-12999
+  server: surfboard-uk.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇬🇧 英国4 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12693
+  ports: 12001-12999
+  server: surfboard-uk.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇫🇷 法国1 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12755
+  ports: 12001-12999
+  server: surfboard-fr.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇫🇷 法国2 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12966
+  ports: 12001-12999
+  server: surfboard-fr.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇫🇷 法国3 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12709
+  ports: 12001-12999
+  server: surfboard-fr.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇫🇷 法国4 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12012
+  ports: 12001-12999
+  server: surfboard-fr.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇩🇪 德国1 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12734
+  ports: 12001-12999
+  server: surfboard-de.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇩🇪 德国2 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12941
+  ports: 12001-12999
+  server: surfboard-de.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇩🇪 德国3 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12201
+  ports: 12001-12999
+  server: surfboard-de.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
+- auth: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  client-fingerprint: chrome
+  down: 3000
+  name: 🇩🇪 德国4 三网优化
+  password: 7988dd99-40fc-474d-8dc3-a8147b07f7e2
+  port: 12380
+  ports: 12001-12999
+  server: surfboard-de.aisu.cyou
+  skip-cert-verify: false
+  type: hysteria2
+  up: 3000
 - client-fingerprint: safari
   name: 🇺🇸 US-CN2GIA
   network: tcp
@@ -1340,13 +1781,13 @@ proxies:
   name: 🇦🇪 1迪拜
   network: ws
   port: 80
-  server: 104.26.12.54
+  server: 104.26.13.54
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 304831288280362025032206193036962.dblxc.chibaba.filegear-sg.me
+      Host: 191971551397002025032218193054748.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1360,7 +1801,7 @@ proxies:
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 402419072208262025032206193010318.dblxc.chibaba.filegear-sg.me
+      Host: 374703166471682025032218193075950.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1374,7 +1815,7 @@ proxies:
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 115864790689592025032206193024572.dblxc.chibaba.filegear-sg.me
+      Host: 122966310060612025032218193094264.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1382,13 +1823,13 @@ proxies:
   name: 🇦🇪 4迪拜
   network: ws
   port: 80
-  server: 104.26.12.54
+  server: 104.26.13.54
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 211939458873042025032206193054209.dblxc.chibaba.filegear-sg.me
+      Host: 105000188191052025032218193096392.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1396,13 +1837,13 @@ proxies:
   name: 🇦🇪 5迪拜
   network: ws
   port: 80
-  server: 104.18.22.235
+  server: 104.18.23.235
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 675697326219122025032206193092383.dblxc.chibaba.filegear-sg.me
+      Host: 623111463462492025032218193092745.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1416,7 +1857,7 @@ proxies:
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 138923422626542025032206193031045.dblxc.chibaba.filegear-sg.me
+      Host: 719808943624282025032218193054375.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1430,7 +1871,7 @@ proxies:
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 520741507747882025032206193039584.dblxc.chibaba.filegear-sg.me
+      Host: 945087665005542025032218193095650.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1438,13 +1879,13 @@ proxies:
   name: 🇦🇪 8迪拜
   network: ws
   port: 80
-  server: 104.18.20.69
+  server: 104.18.21.69
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 225537142666622025032206193094043.dblxc.chibaba.filegear-sg.me
+      Host: 34787456876302025032218193015413.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1452,13 +1893,13 @@ proxies:
   name: 🇦🇪 9迪拜
   network: ws
   port: 80
-  server: 104.16.163.228
+  server: 172.64.229.242
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 536548339061852025032206193023227.dblxc.chibaba.filegear-sg.me
+      Host: 461314007932662025032218193061312.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1472,7 +1913,7 @@ proxies:
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 419380362483312025032206193078327.dblxc.chibaba.filegear-sg.me
+      Host: 242845806684322025032218193034658.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1480,18 +1921,88 @@ proxies:
   name: 🇦🇪 11迪拜
   network: ws
   port: 80
-  server: 172.67.152.71
+  server: 104.21.12.116
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 743444035379432025032206193095528.dblxc.chibaba.filegear-sg.me
+      Host: 933734985323332025032218193099149.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
   name: 🇦🇪 12迪拜
+  network: ws
+  port: 80
+  server: 172.64.229.67
+  tls: false
+  type: vmess
+  uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
+  ws-opts:
+    headers:
+      Host: 495161510991992025032218193067296.dblxc.chibaba.filegear-sg.me
+    path: /dubai.html?ed=2048
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇦🇪 13迪拜
+  network: ws
+  port: 80
+  server: 172.64.229.164
+  tls: false
+  type: vmess
+  uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
+  ws-opts:
+    headers:
+      Host: 776515722854922025032218193182466.dblxc.chibaba.filegear-sg.me
+    path: /dubai.html?ed=2048
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇦🇪 14迪拜
+  network: ws
+  port: 80
+  server: 172.64.229.242
+  tls: false
+  type: vmess
+  uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
+  ws-opts:
+    headers:
+      Host: 965439852570852025032218193156104.dblxc.chibaba.filegear-sg.me
+    path: /dubai.html?ed=2048
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇦🇪 15迪拜
+  network: ws
+  port: 80
+  server: 172.64.158.123
+  tls: false
+  type: vmess
+  uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
+  ws-opts:
+    headers:
+      Host: 884086540757222025032218193174135.dblxc.chibaba.filegear-sg.me
+    path: /dubai.html?ed=2048
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇦🇪 16迪拜
+  network: ws
+  port: 80
+  server: 172.64.229.156
+  tls: false
+  type: vmess
+  uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
+  ws-opts:
+    headers:
+      Host: 885007639154412025032218193148002.dblxc.chibaba.filegear-sg.me
+    path: /dubai.html?ed=2048
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 🇦🇪 17迪拜
   network: ws
   port: 80
   server: 172.64.229.131
@@ -1500,77 +2011,7 @@ proxies:
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 503667689759012025032206193084082.dblxc.chibaba.filegear-sg.me
-    path: /dubai.html?ed=2048
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇦🇪 13迪拜
-  network: ws
-  port: 80
-  server: 104.17.79.190
-  tls: false
-  type: vmess
-  uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
-  ws-opts:
-    headers:
-      Host: 318938539928122025032206193057555.dblxc.chibaba.filegear-sg.me
-    path: /dubai.html?ed=2048
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇦🇪 14迪拜
-  network: ws
-  port: 80
-  server: 104.16.163.228
-  tls: false
-  type: vmess
-  uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
-  ws-opts:
-    headers:
-      Host: 15969172960462025032206193045858.dblxc.chibaba.filegear-sg.me
-    path: /dubai.html?ed=2048
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇦🇪 15迪拜
-  network: ws
-  port: 80
-  server: 172.64.229.123
-  tls: false
-  type: vmess
-  uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
-  ws-opts:
-    headers:
-      Host: 142309337664912025032206193075580.dblxc.chibaba.filegear-sg.me
-    path: /dubai.html?ed=2048
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇦🇪 16迪拜
-  network: ws
-  port: 80
-  server: 172.64.229.212
-  tls: false
-  type: vmess
-  uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
-  ws-opts:
-    headers:
-      Host: 374482136824142025032206193024642.dblxc.chibaba.filegear-sg.me
-    path: /dubai.html?ed=2048
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 🇦🇪 17迪拜
-  network: ws
-  port: 80
-  server: 104.17.58.93
-  tls: false
-  type: vmess
-  uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
-  ws-opts:
-    headers:
-      Host: 250321949917442025032206193038998.dblxc.chibaba.filegear-sg.me
+      Host: 100038125730242025032218193139371.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1578,13 +2019,13 @@ proxies:
   name: 🇦🇪 18迪拜
   network: ws
   port: 80
-  server: 162.159.142.45
+  server: 172.64.229.181
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 63417094807032025032206193073407.dblxc.chibaba.filegear-sg.me
+      Host: 474415981689732025032218193128103.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1592,13 +2033,13 @@ proxies:
   name: 🇦🇪 19迪拜
   network: ws
   port: 80
-  server: 172.64.229.9
+  server: 172.64.229.162
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 885431396170322025032206193082868.dblxc.chibaba.filegear-sg.me
+      Host: 831628058458102025032218193140356.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1606,11 +2047,11 @@ proxies:
   name: 🇦🇪 20迪拜
   network: ws
   port: 80
-  server: 172.64.229.184
+  server: 104.19.53.248
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 533587364739682025032206193090158.dblxc.chibaba.filegear-sg.me
+      Host: 873348984782492025032218193242770.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
