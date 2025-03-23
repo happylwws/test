@@ -1,22 +1,9 @@
 proxies:
 - client-fingerprint: chrome
-  name: 🇩🇪 德国 | 1Gbps
-  network: ws
-  port: 443
-  server: de.oldcloud.online
-  servername: de.oldcloud.online
-  tls: true
-  type: vless
-  uuid: b3903a4d-d9e7-4b7d-82a3-292116fbceb8
-  ws-opts:
-    headers:
-      Host: de.oldcloud.online
-    path: /
-- client-fingerprint: chrome
   name: 🇻🇳 越南 | 1Gbps
   network: ws
   port: 443
-  server: vn.oldcloud.online
+  server: hyun.cloudflare.182682.xyz
   servername: vn.oldcloud.online
   tls: true
   type: vless
@@ -29,7 +16,7 @@ proxies:
   name: 🇺🇸 美国 | 1Gbps
   network: ws
   port: 443
-  server: xz.4056860.xyz
+  server: hyun.cloudflare.182682.xyz
   servername: xz.4056860.xyz
   tls: true
   type: vless
@@ -39,23 +26,10 @@ proxies:
       Host: xz.4056860.xyz
     path: /
 - client-fingerprint: chrome
-  name: 🇲🇳 蒙古 | 1Gbps
-  network: ws
-  port: 443
-  server: mn.4056860.xyz
-  servername: mn.4056860.xyz
-  tls: true
-  type: vless
-  uuid: a0c739c7-1629-44c9-be1d-bc5c05248374
-  ws-opts:
-    headers:
-      Host: mn.4056860.xyz
-    path: /
-- client-fingerprint: chrome
   name: 🇦🇶 南极 | 1Gbps
   network: ws
   port: 443
-  server: aq.oldcloud.online
+  server: hyun.cloudflare.182682.xyz
   servername: aq.oldcloud.online
   tls: true
   type: vless
@@ -68,7 +42,7 @@ proxies:
   name: 🇲🇴 澳门 | 1Gbps
   network: ws
   port: 443
-  server: mo.4056860.xyz
+  server: hyun.cloudflare.182682.xyz
   servername: mo.4056860.xyz
   tls: true
   type: vless
@@ -81,7 +55,7 @@ proxies:
   name: 🇰🇷 韩国 | 1Gbps
   network: ws
   port: 443
-  server: kr.4056860.xyz
+  server: hyun.cloudflare.182682.xyz
   servername: kr.4056860.xyz
   tls: true
   type: vless
@@ -94,7 +68,7 @@ proxies:
   name: 🇮🇸 冰岛 | 1Gbps
   network: ws
   port: 443
-  server: is.oldcloud.online
+  server: hyun.cloudflare.182682.xyz
   servername: is.oldcloud.online
   tls: true
   type: vless
@@ -116,49 +90,10 @@ proxies:
       Host: 8.134.162.37
     path: /
 - client-fingerprint: chrome
-  name: 帕劳 |  30Mbps
-  network: ws
-  port: 443
-  server: pw.9901157.xyz
-  servername: pw.9901157.xyz
-  tls: true
-  type: vless
-  uuid: 05ed4027-cfdd-4361-9489-1b4e5808d699
-  ws-opts:
-    headers:
-      Host: pw.9901157.xyz
-    path: /
-- client-fingerprint: chrome
-  name: 海地 |  30Mbps
-  network: ws
-  port: 443
-  server: ht.9901157.xyz
-  servername: ht.9901157.xyz
-  tls: true
-  type: vless
-  uuid: d1ee68e3-5ed9-4da9-bb17-2cf83298afe3
-  ws-opts:
-    headers:
-      Host: ht.9901157.xyz
-    path: /
-- client-fingerprint: chrome
-  name: 🇦🇷 阿根廷  | 1Gbps
-  network: ws
-  port: 443
-  server: ar.oldcloud.online
-  servername: ar.oldcloud.online
-  tls: true
-  type: vless
-  uuid: 44f4d5fd-0151-4476-9700-accfd6fa0942
-  ws-opts:
-    headers:
-      Host: ar.oldcloud.online
-    path: /
-- client-fingerprint: chrome
   name: 🇹🇷 土耳其 | 1Gbps
   network: ws
   port: 443
-  server: tr.oldcloud.online
+  server: hyun.cloudflare.182682.xyz
   servername: tr.oldcloud.online
   tls: true
   type: vless
@@ -171,7 +106,7 @@ proxies:
   name: 格陵兰  | 1Gbps
   network: ws
   port: 443
-  server: gl.9901154.xyz
+  server: hyun.cloudflare.182682.xyz
   servername: gl.9901154.xyz
   tls: true
   type: vless
@@ -181,166 +116,10 @@ proxies:
       Host: gl.9901154.xyz
     path: /
 - client-fingerprint: chrome
-  name: 安道尔 | 100Mbps
-  network: ws
-  port: 443
-  server: ad.oldcloud.online
-  servername: ad.oldcloud.online
-  tls: true
-  type: vless
-  uuid: 18d8ce6f-a27c-461e-ada8-a7d0a97a023b
-  ws-opts:
-    headers:
-      Host: ad.oldcloud.online
-    path: /
-- client-fingerprint: chrome
-  name: 索马里 | 30Mbps
-  network: ws
-  port: 443
-  server: so.9901157.xyz
-  servername: so.9901157.xyz
-  tls: true
-  type: vless
-  uuid: a74e9516-69ad-4608-9427-d17f1f880f88
-  ws-opts:
-    headers:
-      Host: so.9901157.xyz
-    path: /
-- client-fingerprint: chrome
-  name: 🇻🇦 梵蒂冈 | 30Mbps
-  network: ws
-  port: 443
-  server: ua.9901157.xyz
-  servername: ua.9901157.xyz
-  tls: true
-  type: vless
-  uuid: 56c26c02-4523-49e6-af21-3fc5edc45e7e
-  ws-opts:
-    headers:
-      Host: ua.9901157.xyz
-    path: /
-- client-fingerprint: chrome
-  name: 阿富汗 |  30Mbps
-  network: ws
-  port: 443
-  server: af.9901157.xyz
-  servername: af.9901157.xyz
-  tls: true
-  type: vless
-  uuid: a345476b-3f70-4eaa-acad-dd4a91e657f7
-  ws-opts:
-    headers:
-      Host: af.9901157.xyz
-    path: /
-- client-fingerprint: chrome
-  name: 布隆迪 | 30Mbps
-  network: ws
-  port: 443
-  server: bi.9901157.xyz
-  servername: bi.9901157.xyz
-  tls: true
-  type: vless
-  uuid: d511bc03-2dd9-4977-aa39-efc0025301de
-  ws-opts:
-    headers:
-      Host: bi.9901157.xyz
-    path: /
-- client-fingerprint: chrome
-  name: 🇸🇬 新加坡 | 30Mbps
-  network: ws
-  port: 443
-  server: sg.9901157.xyz
-  servername: sg.9901157.xyz
-  tls: true
-  type: vless
-  uuid: c23a346d-5f32-4185-8f90-a86d8239ce63
-  ws-opts:
-    headers:
-      Host: sg.9901157.xyz
-    path: /
-- client-fingerprint: chrome
-  name: 东帝汶 | 30Mbps
-  network: ws
-  port: 443
-  server: tl.4056860.xyz
-  servername: tl.4056860.xyz
-  tls: true
-  type: vless
-  uuid: 27306aa6-0cf4-46dd-a607-6de0b26ec925
-  ws-opts:
-    headers:
-      Host: tl.4056860.xyz
-    path: /
-- client-fingerprint: chrome
-  name: 🇲🇩 摩尔多瓦 | 100Mbps
-  network: ws
-  port: 443
-  server: md.4056860.xyz
-  servername: md.4056860.xyz
-  tls: true
-  type: vless
-  uuid: 0b6f99a8-528a-4dc0-bdca-cef70e3f0184
-  ws-opts:
-    headers:
-      Host: md.4056860.xyz
-    path: /
-- client-fingerprint: chrome
-  name: 🇲🇾 马来西亚 | 30Mbps
-  network: ws
-  port: 443
-  server: my.4056860.xyz
-  servername: my.4056860.xyz
-  tls: true
-  type: vless
-  uuid: 37ff2204-95d1-4af0-bde8-511cf12ae06b
-  ws-opts:
-    headers:
-      Host: my.4056860.xyz
-    path: /
-- client-fingerprint: chrome
-  name: 🇳🇬 尼日利亚 | 30Mbps
-  network: ws
-  port: 443
-  server: ng.9901157.xyz
-  servername: ng.9901157.xyz
-  tls: true
-  type: vless
-  uuid: 575d3535-a0e4-4e14-9212-f47bcdacd3de
-  ws-opts:
-    headers:
-      Host: ng.9901157.xyz
-    path: /
-- client-fingerprint: chrome
-  name: 毛里求斯 | 30Mbps
-  network: ws
-  port: 443
-  server: mu.4056860.xyz
-  servername: mu.4056860.xyz
-  tls: true
-  type: vless
-  uuid: 43367b08-d0d3-4253-b326-6392ee857d56
-  ws-opts:
-    headers:
-      Host: mu.4056860.xyz
-    path: /
-- client-fingerprint: chrome
-  name: 开曼群岛 | 30Mbps
-  network: ws
-  port: 443
-  server: ky.9901157.xyz
-  servername: ky.9901157.xyz
-  tls: true
-  type: vless
-  uuid: 29243fee-c83f-40f3-84d9-8738f593c305
-  ws-opts:
-    headers:
-      Host: ky.9901157.xyz
-    path: /
-- client-fingerprint: chrome
   name: 直布罗陀 | 30Mbps
   network: ws
   port: 443
-  server: gi.9901157.xyz
+  server: hyun.cloudflare.182682.xyz
   servername: gi.9901157.xyz
   tls: true
   type: vless
@@ -353,7 +132,7 @@ proxies:
   name: 斯里兰卡 | 10Mbps
   network: ws
   port: 443
-  server: lk.4056860.xyz
+  server: hyun.cloudflare.182682.xyz
   servername: lk.4056860.xyz
   tls: true
   type: vless
@@ -1781,13 +1560,13 @@ proxies:
   name: 🇦🇪 1迪拜
   network: ws
   port: 80
-  server: 104.26.12.54
+  server: 172.67.68.157
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 430467159102842025032306192296627.dblxc.chibaba.filegear-sg.me
+      Host: 394963178650922025032318194319787.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1801,7 +1580,7 @@ proxies:
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 853554530691532025032306192237864.dblxc.chibaba.filegear-sg.me
+      Host: 772962097011222025032318194383934.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1809,13 +1588,13 @@ proxies:
   name: 🇦🇪 3迪拜
   network: ws
   port: 80
-  server: 104.26.12.54
+  server: 104.26.13.54
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 278837408112402025032306192248721.dblxc.chibaba.filegear-sg.me
+      Host: 780885658380782025032318194362625.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1829,7 +1608,7 @@ proxies:
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 687593472334462025032306192246244.dblxc.chibaba.filegear-sg.me
+      Host: 690153707743472025032318194316173.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1843,7 +1622,7 @@ proxies:
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 877972479686212025032306192251132.dblxc.chibaba.filegear-sg.me
+      Host: 293472619420792025032318194353214.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1857,7 +1636,7 @@ proxies:
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 383022275639942025032306192258587.dblxc.chibaba.filegear-sg.me
+      Host: 835863080491222025032318194342234.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1871,7 +1650,7 @@ proxies:
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 213809797839852025032306192224470.dblxc.chibaba.filegear-sg.me
+      Host: 408544519224222025032318194377355.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1885,7 +1664,7 @@ proxies:
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 76189374259302025032306192268864.dblxc.chibaba.filegear-sg.me
+      Host: 665255709628512025032318194329309.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1893,13 +1672,13 @@ proxies:
   name: 🇦🇪 9迪拜
   network: ws
   port: 80
-  server: 172.64.229.9
+  server: 172.64.229.118
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 716829463462572025032306192226248.dblxc.chibaba.filegear-sg.me
+      Host: 65137502358842025032318194354486.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1913,7 +1692,7 @@ proxies:
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 482012730983272025032306192289925.dblxc.chibaba.filegear-sg.me
+      Host: 411124657899482025032318194326188.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1927,7 +1706,7 @@ proxies:
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 433582689121552025032306192285246.dblxc.chibaba.filegear-sg.me
+      Host: 922991664029412025032318194345628.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1935,13 +1714,13 @@ proxies:
   name: 🇦🇪 12迪拜
   network: ws
   port: 80
-  server: 104.17.231.11
+  server: 104.17.134.146
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 657628213577422025032306192235408.dblxc.chibaba.filegear-sg.me
+      Host: 89388611680322025032318194368945.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1949,13 +1728,13 @@ proxies:
   name: 🇦🇪 13迪拜
   network: ws
   port: 80
-  server: 172.64.229.52
+  server: 172.64.229.219
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 965933653304702025032306192277017.dblxc.chibaba.filegear-sg.me
+      Host: 275232760447842025032318194322879.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1963,13 +1742,13 @@ proxies:
   name: 🇦🇪 14迪拜
   network: ws
   port: 80
-  server: 172.64.229.9
+  server: 172.64.229.118
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 243653478446712025032306192299958.dblxc.chibaba.filegear-sg.me
+      Host: 776577479622742025032318194322994.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1977,13 +1756,13 @@ proxies:
   name: 🇦🇪 15迪拜
   network: ws
   port: 80
-  server: 172.64.229.47
+  server: 172.64.229.123
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 655269940017072025032306192276515.dblxc.chibaba.filegear-sg.me
+      Host: 940562000473182025032318194312260.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1997,7 +1776,7 @@ proxies:
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 528079955359332025032306192229075.dblxc.chibaba.filegear-sg.me
+      Host: 959890864262852025032318194491781.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -2005,13 +1784,13 @@ proxies:
   name: 🇦🇪 17迪拜
   network: ws
   port: 80
-  server: 172.64.229.219
+  server: 172.64.229.194
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 686074520529752025032306192235558.dblxc.chibaba.filegear-sg.me
+      Host: 369471412251862025032318194450945.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -2019,13 +1798,13 @@ proxies:
   name: 🇦🇪 18迪拜
   network: ws
   port: 80
-  server: 172.64.229.164
+  server: 104.17.58.93
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 273602945639102025032306192217911.dblxc.chibaba.filegear-sg.me
+      Host: 238037829043752025032318194489410.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -2033,13 +1812,13 @@ proxies:
   name: 🇦🇪 19迪拜
   network: ws
   port: 80
-  server: 104.17.79.190
+  server: 172.64.229.173
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 618203714747362025032306192220004.dblxc.chibaba.filegear-sg.me
+      Host: 316724260144742025032318194472182.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -2047,13 +1826,13 @@ proxies:
   name: 🇦🇪 20迪拜
   network: ws
   port: 80
-  server: 104.16.180.73
+  server: 172.64.229.181
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 540173552806752025032306192249577.dblxc.chibaba.filegear-sg.me
+      Host: 472723205558092025032318194430395.dblxc.chibaba.filegear-sg.me
     path: /dubai.html?ed=2048
 - cipher: aes-128-gcm
   client-fingerprint: chrome
