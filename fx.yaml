@@ -1332,7 +1332,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 距离下次重置剩余：19 天
+  name: 距离下次重置剩余：18 天
   port: 34011
   server: bgp-xdd.blue-bgp.xyz
   tls: false
@@ -1536,1086 +1536,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 01
-  password: 5128e3462aa647ac
-  port: 45573
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 02
-  password: 5128e3462aa647ac
-  port: 40250
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 03
-  password: 5128e3462aa647ac
-  port: 47394
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 04
-  password: 5128e3462aa647ac
-  port: 44860
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 05
-  password: 5128e3462a647ac
-  port: 43560
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 06
-  password: 5128e3462aa647ac
-  port: 46030
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 07
-  password: 512e3462aa647ac
-  port: 41485
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 08
-  password: 5128e3462aa647ac
-  port: 40135
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 09
-  password: 5128e3462aa647ac
-  port: 40822
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 10
-  password: 5128e3462aa647ac
-  port: 46541
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 11
-  password: 5128e3462aa647ac
-  port: 45326
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 12
-  password: 5128e3462aa647ac
-  port: 41945
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 13
-  password: 5128e3462aa647ac
-  port: 41454
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 14
-  password: 5128e3462aa647ac
-  port: 46938
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 15
-  password: 5128e3462aa647ac
-  port: 43407
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 16
-  password: 5128e3462a647ac
-  port: 47011
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 17
-  password: 5128e3462aa647ac
-  port: 42127
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 18
-  password: 5128e3462aa647ac
-  port: 45648
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 19
-  password: 5128e3462aa647ac
-  port: 41781
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 20 [Premium]
-  password: 5128e3462aa647ac
-  port: 45489
-  server: 9.9.9.9
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 21 [Premium]
-  password: 5128e3462aa647ac
-  port: 45686
-  server: 9.9.9.9
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 22 [Premium]
-  password: 5128e3462aa647ac
-  port: 42529
-  server: 9.9.9.9
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇰 Hong Kong 23
-  password: 5128e3462aa647ac
-  port: 46487
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA Seattle 01
-  password: 51283462aa647ac
-  port: 47416
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA Seattle 02
-  password: 5128e3462aa647ac
-  port: 43160
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA Seattle 03
-  password: 5128e3462aa647ac
-  port: 47078
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA Seattle 04
-  password: 5128e3462aa647ac
-  port: 47396
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA Seattle 05
-  password: 5128e3462aa647ac
-  port: 41192
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA Seattle 06
-  password: 5128e3462aa647ac
-  port: 43457
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA Seattle 07
-  password: 5128e3462a647ac
-  port: 46257
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA Seattle 08
-  password: 5128e3462aa647ac
-  port: 40465
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA Seattle 09
-  password: 5128e3462aa647ac
-  port: 40415
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA San Jose 01 [Premium]
-  password: 5128e3462aa647ac
-  port: 42961
-  server: 9.9.9.9
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA San Jose 02 [Premium]
-  password: 5128e3462aa647ac
-  port: 42493
-  server: 9.9.9.9
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA San Jose 03 [Premium]
-  password: 5128e3462aa647ac
-  port: 44738
-  server: 9.9.9.9
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA San Jose 04 [Premium]
-  password: 5128e462aa647ac
-  port: 43506
-  server: 9.9.9.9
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA San Jose 05 [Premium]
-  password: 5128e3462aa647ac
-  port: 42048
-  server: 9.9.9.9
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA San Jose 06 [Premium]
-  password: 5128e3462aa647ac
-  port: 39996
-  server: 9.9.9.9
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA San Jose 07
-  password: 5128e3462aa647ac
-  port: 41291
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA San Jose 08
-  password: 5128e3462aa647ac
-  port: 41887
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA Los Angeles 01
-  password: 5128e342aa647ac
-  port: 44594
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA Los Angeles 02
-  password: 5128e3462aa647ac
-  port: 43923
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA Los Angeles 03
-  password: 5128e3462aa647ac
-  port: 40880
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA Los Angeles 04
-  password: 5128e3462aa647ac
-  port: 42909
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA Los Angeles 05
-  password: 5128e3462aa647ac
-  port: 46675
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA Los Angeles 06
-  password: 5128e3462aa647ac
-  port: 40259
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇺🇸 USA Los Angeles 07
-  password: 5128e3462aa647ac
-  port: 40381
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 01
-  password: 512e3462aa647ac
-  port: 39861
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 02
-  password: 518e3462aa647ac
-  port: 45610
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 03
-  password: 5128e3462aa647ac
-  port: 41924
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 04
-  password: 5128e3462aa647ac
-  port: 41064
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 05
-  password: 5128e3462aa647ac
-  port: 44790
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 06
-  password: 5128e3462aa647ac
-  port: 45488
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 07
-  password: 5128e3462aa647ac
-  port: 44983
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 08
-  password: 5128e3462aa647ac
-  port: 46017
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 09
-  password: 5128e3462aa647ac
-  port: 40769
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 10
-  password: 5128e3462aa647ac
-  port: 45256
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 11
-  password: 5128e3462aa647ac
-  port: 45493
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 12
-  password: 5128e3462aa647ac
-  port: 44419
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 13
-  password: 5128e3462aa647ac
-  port: 46422
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 14
-  password: 5128e3462aa647ac
-  port: 46205
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 15
-  password: 5128e3462aa647ac
-  port: 45708
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 16
-  password: 5128e3462aa647ac
-  port: 44387
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 17
-  password: 5128e3462aa647ac
-  port: 42659
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 18
-  password: 5128e3462aa647ac
-  port: 40032
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 19
-  password: 5128e3462aa647ac
-  port: 45669
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 20
-  password: 5128e3462aa647ac
-  port: 43391
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 21
-  password: 5128e3462aa647ac
-  port: 41646
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 22 [Premium]
-  password: 5128e3462aa647ac
-  port: 41715
-  server: 9.9.9.9
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 23 [Premium]
-  password: 5128e3462aa647ac
-  port: 47277
-  server: 9.9.9.9
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 24
-  password: 5128e3462aa647ac
-  port: 46097
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 25
-  password: 5128e3462aa647ac
-  port: 44744
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 26
-  password: 5128e3462aa647ac
-  port: 41175
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇯🇵 Japan 27
-  password: 5128e3462aa647ac
-  port: 44230
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇳🇱 Netherlands 01
-  password: 5128e3462aa647ac
-  port: 42794
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇷🇺 Russia St. Petersburg
-  password: 5128e3462aa647ac
-  port: 42488
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇷🇺 Russia Moscow 01
-  password: 5128e3462aa647ac
-  port: 44270
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇩🇪 Germany 01
-  password: 5128e3462aa647ac
-  port: 41583
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇩🇪 Germany 02
-  password: 5128e3462aa647ac
-  port: 41686
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇫🇷 France 01
-  password: 5128e3462aa647ac
-  port: 40791
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇨🇭 Switzerland 01
-  password: 5128e3462aa647ac
-  port: 46402
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇨🇭 Switzerland 02
-  password: 5128e3462aa647ac
-  port: 45400
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇬🇧 UK London 01
-  password: 5128e3462aa647ac
-  port: 42237
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇬🇧 UK London 02
-  password: 5128e3462aa647ac
-  port: 44212
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇬🇧 UK London 03
-  password: 5128e3462aa647ac
-  port: 44184
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇬🇧 UK London 04
-  password: 5128e3462aa647ac
-  port: 47410
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇬🇧 UK London 05
-  password: 5128e3462aa647ac
-  port: 43535
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇬🇧 UK Coventry 01
-  password: 5128e3462aa647ac
-  port: 45362
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇬🇧 UK Coventry 02
-  password: 5128e3462aa647ac
-  port: 40335
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇬🇧 UK Coventry 03
-  password: 5128e3462aa647ac
-  port: 41394
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇸🇪 Sweden 01
-  password: 5128e3462aa647ac
-  port: 45791
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇧🇬 Bulgaria 01
-  password: 5128e3462aa647ac
-  port: 43265
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇦🇹 Austria 01
-  password: 5128e3462aa647ac
-  port: 40115
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇮🇪 Ireland 01
-  password: 5128e3462aa647ac
-  port: 42665
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇮🇪 Ireland 02
-  password: 5128e3462aa647ac
-  port: 40496
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇹🇷 Turkey 01
-  password: 5128e3462aa647ac
-  port: 44286
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇭🇺 Hungary 01
-  password: 5128e3462aa647ac
-  port: 45947
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇰🇷 Korea 01
-  password: 5128e3462aa647ac
-  port: 42384
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇰🇷 Korea 02
-  password: 5128e3462aa647ac
-  port: 47287
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇰🇷 Korea 03 [Premium]
-  password: 5128e3462aa647ac
-  port: 40443
-  server: 9.9.9.9
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇰🇷 Korea 04
-  password: 5128e3462aa647ac
-  port: 46989
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇹🇼 Taiwan 01
-  password: 5128e3462aa647ac
-  port: 42306
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇹🇼 Taiwan 02
-  password: 5128e3462aa647ac
-  port: 40626
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇹🇼 Taiwan 03
-  password: 5128e3462aa647ac
-  port: 44770
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇹🇼 Taiwan 04
-  password: 5128e3462aa647ac
-  port: 42733
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇹🇼 Taiwan 05
-  password: 5128e3462aa647ac
-  port: 43927
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇹🇼 Taiwan 06
-  password: 5128e3462aa647ac
-  port: 40996
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇹🇼 Taiwan 07
-  password: 5128e3462aa647ac
-  port: 41836
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇹🇼 Taiwan 08
-  password: 5128e3462aa647ac
-  port: 39793
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇹🇼 Taiwan 09
-  password: 5128e3462aa647ac
-  port: 40765
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇹🇼 Taiwan 10
-  password: 5128e3462aa647ac
-  port: 42509
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇨🇦 Canada 01
-  password: 5128e3462aa647ac
-  port: 45634
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇨🇦 Canada 02
-  password: 5128e3462aa647ac
-  port: 42494
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇨🇦 Canada 03
-  password: 5128e3462aa647ac
-  port: 47050
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇦🇺 Australia Sydney 01 [Premium]
-  password: 5128e3462aa647ac
-  port: 42626
-  server: 9.9.9.9
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇦🇺 Australia Sydney 02
-  password: 5128e3462aa647ac
-  port: 43181
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: United Arab Emirates 01
-  password: 5128e3462aa647ac
-  port: 45367
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇮🇳 India 01
-  password: 5128e3462aa647ac
-  port: 45178
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇮🇳 India 02
-  password: 5128e3462aa647ac
-  port: 41748
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇮🇩 Indonesia 01
-  password: 5128e3462aa647ac
-  port: 45250
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇧🇷 Brazil 01
-  password: 5128e3462aa647ac
-  port: 46104
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇦🇷 Argentina 01
-  password: 5128e3462aa647ac
-  port: 40969
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇨🇱 Chile 01
-  password: 5128e3462aa647ac
-  port: 40671
-  server: 064fffd.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇸🇬 Singapore 01
-  password: 5128e3462aa647ac
-  port: 42734
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇸🇬 Singapore 02
-  password: 5128e3462aa647ac
-  port: 46111
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇸🇬 Singapore 03
-  password: 5128e3462aa647ac
-  port: 41170
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇸🇬 Singapore 04
-  password: 5128e3462aa647ac
-  port: 44884
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇸🇬 Singapore 05
-  password: 5128e3462aa647ac
-  port: 46581
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇸🇬 Singapore 06
-  password: 5128e3462aa647ac
-  port: 41388
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇸🇬 Singapore 07
-  password: 5128e3462aa647ac
-  port: 46267
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇸🇬 Singapore 08
-  password: 5128e3462aa647ac
-  port: 40035
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇸🇬 Singapore 09
-  password: 5128e3462aa647ac
-  port: 42864
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇸🇬 Singapore 10
-  password: 5128e3462aa647ac
-  port: 40971
-  server: c842389.xvvrkb.lol
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇸🇬 Singapore 11 [Premium]
-  password: 5128e3462aa647ac
-  port: 46595
-  server: 9.9.9.9
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 🇸🇬 Singapore 12
-  password: 5128e3462aa647ac
-  port: 46520
-  server: ddd76f5.ehffou.xyz
-  type: ss
-  udp: true
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 🇯🇵 Tokyo
@@ -2644,7 +1564,7 @@ proxies:
   uuid: ec030216-a19c-461b-befe-7dd4fea2120c
 - client-fingerprint: chrome
   name: 🇹🇼 碧海☁️ 台湾-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 27201
   server: aafrtpfxr.twl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2652,7 +1572,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇭🇰 碧海☁️ 香港-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 27101
   server: aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2660,7 +1580,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇭🇰 碧海☁️ 香港-02
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 27102
   server: aafrtpfxr.hkl02i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2668,7 +1588,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇭🇰 碧海☁️ 香港-03
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 27103
   server: aafrtpfxr.hkl04i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2676,7 +1596,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇭🇰 碧海☁️ 香港-04
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 10465
   server: aafrtpfxr.hkl03i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2684,7 +1604,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇸🇬 碧海☁️ 新加坡-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 27401
   server: aafrtpfxr.sgl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2692,7 +1612,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇸🇬 碧海☁️ 新加坡-02
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 42881
   server: aafrtpfxr.sgl02i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2700,7 +1620,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇲🇾 碧海☁️ 马来西亚-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 43393
   server: aafrtpfxr.myl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2708,7 +1628,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇲🇾 碧海☁️ 马来西亚-02
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 43383
   server: aafrtpfxr.myl02i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2716,7 +1636,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇯🇵 碧海☁️ 日本-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 27001
   server: aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2724,7 +1644,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇯🇵 碧海☁️ 日本-02
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 27002
   server: aafrtpfxr.jpl02i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2732,7 +1652,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇯🇵 碧海☁️ 日本-03
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 22271
   server: aafrtpfxr.jpl03i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2740,7 +1660,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇯🇵 碧海☁️ 日本-04
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 22269
   server: aafrtpfxr.jpl04i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2748,7 +1668,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇰🇷 碧海☁️ 韩国-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 46668
   server: aafrtpfxr.krl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2756,7 +1676,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇦🇺 碧海☁️ 澳大利亚-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 34017
   server: aafrtpfxr.aul01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2764,7 +1684,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇮🇩 碧海☁️ 印尼-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 43394
   server: aafrtpfxr.idl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2772,7 +1692,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇮🇳 碧海☁️ 印度-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 42882
   server: aafrtpfxr.inl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2780,7 +1700,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇹🇭 碧海☁️ 泰国-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 43395
   server: aafrtpfxr.thl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2788,7 +1708,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇻🇳 碧海☁️ 越南-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 43396
   server: aafrtpfxr.vnl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2796,7 +1716,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇳🇱 碧海☁️ 荷兰-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 43591
   server: aafrtpfxr.nll01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2804,7 +1724,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇵🇭 碧海☁️ 菲律宾-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 27408
   server: aafrtpfxr.phl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2812,7 +1732,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇵🇰 碧海☁️ 巴基斯坦-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 42883
   server: aafrtpfxr.pkl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2820,7 +1740,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇷🇺 碧海☁️ 俄罗斯-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 46925
   server: aafrtpfxr.rul01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2828,7 +1748,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇹🇷 碧海☁️ 土耳其-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 43397
   server: aafrtpfxr.trl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2836,7 +1756,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇺🇸 碧海☁️ 美国-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 33505
   server: aafrtpfxr.usl02i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2844,7 +1764,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇺🇸 碧海☁️ 美国-02
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 33506
   server: aafrtpfxr.usl03i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2852,7 +1772,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇨🇦 碧海☁️ 加拿大-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 34016
   server: aafrtpfxr.cal01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2860,7 +1780,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇩🇪 碧海☁️ 德国-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 43583
   server: aafrtpfxr.del01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2868,7 +1788,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇫🇷 碧海☁️ 法国-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 43498
   server: aafrtpfxr.frl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2876,7 +1796,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇬🇧 碧海☁️ 英国-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 44397
   server: aafrtpfxr.gbl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2884,7 +1804,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇦🇪 碧海☁️ 迪拜-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 43497
   server: aafrtpfxr.ael01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2892,7 +1812,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇦🇷 碧海☁️ 阿根廷-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 43590
   server: aafrtpfxr.arl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2900,7 +1820,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇧🇷 碧海☁️ 巴西-01
-  password: e1e4bb6a-3096-4c5c-965b-df9529973d8e
+  password: 3c90819f-b489-43f4-bab0-bf67ac060c73
   port: 43586
   server: aafrtpfxr.brl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
