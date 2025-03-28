@@ -1320,235 +1320,243 @@ proxies:
   tls: true
   type: vless
   uuid: 0aaa2e86-62d3-4f52-80b1-26f14e17cfaf
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+- client-fingerprint: chrome
   name: 🏳️‍🌈 剩余流量：0
-  port: 34011
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33011
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 距离下次重置剩余：18 天
-  port: 34011
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
+  name: 距离下次重置剩余：17 天
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33011
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 套餐到期：2025-05-14
-  port: 34011
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33011
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 🇭🇰 香港01|BGP|EIP
-  port: 34011
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33011
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 🇭🇰 香港02|BGP|EIP
-  port: 34012
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33012
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 🇭🇰 香港03|BGP|EIP
-  port: 34013
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33013
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 🇭🇰 香港04|BGP|EIP
-  port: 34014
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33014
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 🇹🇼 台湾01|BGP|EIP
-  port: 34021
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33021
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 🇹🇼 台湾02|BGP|EIP
-  port: 34022
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33022
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 🇹🇼 台湾03|BGP|EIP
-  port: 34023
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33023
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 🇹🇼 台湾04|BGP|EIP
-  port: 34024
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33024
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 🇸🇬 新加坡01|BGP|EIP
-  port: 34031
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33031
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 🇸🇬 新加坡02|BGP|EIP
-  port: 34032
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33032
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 🇸🇬 新加坡03|BGP|EIP
-  port: 34033
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33033
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 🇸🇬 新加坡04|BGP|EIP
-  port: 34034
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33034
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 🇯🇵 日本01|BGP|EIP
-  port: 34041
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33041
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 🇯🇵 日本02|BGP|EIP
-  port: 34042
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33042
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 🇯🇵 日本03|BGP|EIP
-  port: 34043
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33043
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 🇯🇵 日本04|BGP|EIP
-  port: 34044
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33044
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 🇺🇸 美国01|BGP|EIP
-  port: 34051
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33051
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 🇺🇸 美国02|BGP|EIP
-  port: 34052
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33052
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 🇺🇸 美国03|BGP|EIP
-  port: 34053
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33053
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 🇺🇸 美国04|BGP|EIP
-  port: 34054
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33054
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
   name: 🇰🇷 韩国01|BGP|EIP
-  port: 34061
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33061
   server: bgp-xdd.blue-bgp.xyz
-  tls: false
-  type: vmess
-  uuid: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  skip-cert-verify: true
+  sni: upos-zj-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇭🇰 香港01|IPLC|EIP
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33011
+  server: iepl-b.blue-bgp.xyz
+  skip-cert-verify: true
+  sni: upos-gd-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇭🇰 香港02|IPLC|EIP
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33011
+  server: iepl-b.blue-bgp.xyz
+  skip-cert-verify: true
+  sni: upos-gd-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇭🇰 香港03|IPLC|EIP
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33011
+  server: iepl-b.blue-bgp.xyz
+  skip-cert-verify: true
+  sni: upos-gd-mirrorcos.bilivideo.com
+  type: trojan
+- client-fingerprint: chrome
+  name: 🇭🇰 香港04|IPLC|EIP
+  password: 45c5bea0-2034-4b1f-a0e9-f0e531d63e8c
+  port: 33011
+  server: iepl-b.blue-bgp.xyz
+  skip-cert-verify: true
+  sni: upos-gd-mirrorcos.bilivideo.com
+  type: trojan
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
   name: 🇧🇷 1巴西圣保罗
   network: ws
   port: 80
-  server: 104.18.22.235
+  server: 104.18.23.235
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 133730552526992025032718323325156.s15.chibaba.filegear-sg.me
+      Host: 678827615899422025032818301612997.s15.chibaba.filegear-sg.me
     path: /s15.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1556,13 +1564,13 @@ proxies:
   name: 🇧🇷 2巴西圣保罗
   network: ws
   port: 80
-  server: 104.18.20.69
+  server: 104.18.21.69
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 568912786316382025032718323395277.s15.chibaba.filegear-sg.me
+      Host: 198028071693232025032818301613685.s15.chibaba.filegear-sg.me
     path: /s15.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1570,13 +1578,13 @@ proxies:
   name: 🇧🇷 3巴西圣保罗
   network: ws
   port: 80
-  server: 104.18.27.94
+  server: 104.18.26.94
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 668536695108152025032718323364378.s15.chibaba.filegear-sg.me
+      Host: 809835116541832025032818301642250.s15.chibaba.filegear-sg.me
     path: /s15.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1590,7 +1598,7 @@ proxies:
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 216763182280542025032718323386447.s15.chibaba.filegear-sg.me
+      Host: 876675046274852025032818301694479.s15.chibaba.filegear-sg.me
     path: /s15.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1598,13 +1606,13 @@ proxies:
   name: 🇧🇷 5巴西圣保罗
   network: ws
   port: 80
-  server: 172.64.229.94
+  server: 172.64.229.177
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 761495777618532025032718323337047.s15.chibaba.filegear-sg.me
+      Host: 423694543633692025032818301634164.s15.chibaba.filegear-sg.me
     path: /s15.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1612,13 +1620,13 @@ proxies:
   name: 🇧🇷 6巴西圣保罗
   network: ws
   port: 80
-  server: 104.26.5.60
+  server: 172.67.70.92
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 664160380303072025032718323323632.s15.chibaba.filegear-sg.me
+      Host: 950896565948672025032818301625774.s15.chibaba.filegear-sg.me
     path: /s15.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1626,13 +1634,13 @@ proxies:
   name: 🇧🇷 7巴西圣保罗
   network: ws
   port: 80
-  server: 104.21.12.116
+  server: 172.67.152.71
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 544331048004272025032718323331268.s15.chibaba.filegear-sg.me
+      Host: 316768681297012025032818301648300.s15.chibaba.filegear-sg.me
     path: /s15.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1646,7 +1654,7 @@ proxies:
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 518341484909322025032718323382322.s15.chibaba.filegear-sg.me
+      Host: 628526562773462025032818301613562.s15.chibaba.filegear-sg.me
     path: /s15.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1654,13 +1662,13 @@ proxies:
   name: 🇧🇷 9巴西圣保罗
   network: ws
   port: 80
-  server: 172.67.198.192
+  server: 104.21.36.190
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 889217755184882025032718323379842.s15.chibaba.filegear-sg.me
+      Host: 153620884568572025032818301632755.s15.chibaba.filegear-sg.me
     path: /s15.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1668,13 +1676,13 @@ proxies:
   name: 🇧🇷 10巴西圣保罗
   network: ws
   port: 80
-  server: 172.65.90.52
+  server: 172.65.90.53
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 145139472117732025032718323355928.s15.chibaba.filegear-sg.me
+      Host: 138868590787882025032818301638800.s15.chibaba.filegear-sg.me
     path: /s15.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1682,13 +1690,13 @@ proxies:
   name: 🇧🇷 11巴西圣保罗
   network: ws
   port: 80
-  server: 172.64.229.173
+  server: 172.64.229.67
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 190284621631772025032718323371043.s15.chibaba.filegear-sg.me
+      Host: 173746134203742025032818301663678.s15.chibaba.filegear-sg.me
     path: /s15.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1696,13 +1704,13 @@ proxies:
   name: 🇧🇷 12巴西圣保罗
   network: ws
   port: 80
-  server: 104.18.4.250
+  server: 104.18.5.250
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 210920323455222025032718323356809.s15.chibaba.filegear-sg.me
+      Host: 704997576999842025032818301625219.s15.chibaba.filegear-sg.me
     path: /s15.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1716,7 +1724,7 @@ proxies:
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 509987623359052025032718323324369.s15.chibaba.filegear-sg.me
+      Host: 958916393978072025032818301610513.s15.chibaba.filegear-sg.me
     path: /s15.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1724,13 +1732,13 @@ proxies:
   name: 🇧🇷 14巴西圣保罗
   network: ws
   port: 80
-  server: 172.67.153.253
+  server: 104.21.90.78
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 574404998720022025032718323353479.s15.chibaba.filegear-sg.me
+      Host: 106578059682932025032818301692581.s15.chibaba.filegear-sg.me
     path: /s15.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1738,13 +1746,13 @@ proxies:
   name: 🇧🇷 15巴西圣保罗
   network: ws
   port: 80
-  server: 172.64.229.173
+  server: 172.64.229.67
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 922401643050562025032718323348402.s15.chibaba.filegear-sg.me
+      Host: 65170127717542025032818301691352.s15.chibaba.filegear-sg.me
     path: /s15.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1758,7 +1766,7 @@ proxies:
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 293790362031322025032718323311416.s15.chibaba.filegear-sg.me
+      Host: 515987251058972025032818301617083.s15.chibaba.filegear-sg.me
     path: /s15.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1772,7 +1780,7 @@ proxies:
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 446399685757372025032718323326058.s15.chibaba.filegear-sg.me
+      Host: 512338454561932025032818301635271.s15.chibaba.filegear-sg.me
     path: /s15.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1780,13 +1788,13 @@ proxies:
   name: 🇧🇷 18巴西圣保罗
   network: ws
   port: 80
-  server: 104.16.229.229
+  server: 104.16.228.229
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 667288096140022025032718323387774.s15.chibaba.filegear-sg.me
+      Host: 953680721671372025032818301618612.s15.chibaba.filegear-sg.me
     path: /s15.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1794,13 +1802,13 @@ proxies:
   name: 🇧🇷 19巴西圣保罗
   network: ws
   port: 80
-  server: 104.18.160.63
+  server: 104.17.48.63
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 848329524257512025032718323383288.s15.chibaba.filegear-sg.me
+      Host: 294648857058612025032818301630980.s15.chibaba.filegear-sg.me
     path: /s15.html?ed=2048
 - alterId: 0
   cipher: auto
@@ -1808,43 +1816,17 @@ proxies:
   name: 🇧🇷 20巴西圣保罗
   network: ws
   port: 80
-  server: 104.26.12.54
+  server: 104.26.13.54
   tls: false
   type: vmess
   uuid: 27c85fdb-5e8f-43ea-bf43-4ed4d0a3b306
   ws-opts:
     headers:
-      Host: 268704645304112025032718323380104.s15.chibaba.filegear-sg.me
+      Host: 948563184562272025032818301612017.s15.chibaba.filegear-sg.me
     path: /s15.html?ed=2048
 - client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 🇯🇵 Tokyo
-  network: tcp
-  port: 12572
-  reality-opts:
-    public-key: mj-JElHEs2Gf2QM5sW9wNyFIHSWmUN28KxpBiOWLnSM
-    short-id: 2c2c
-  server: 38.47.127.225
-  servername: www.lovelive-anime.jp
-  tls: true
-  type: vless
-  uuid: 5422b2fb-88b0-4bb9-8e09-776fcc7be6e8
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 🇯🇵 Tokyo-warp
-  network: tcp
-  port: 24269
-  reality-opts:
-    public-key: f9OnEoNWSzb2yK4AN_pKgUxO148io0UT_k2cqcPhh2M
-    short-id: a8207cf1
-  server: 38.47.127.225
-  servername: www.lovelive-anime.jp
-  tls: true
-  type: vless
-  uuid: ec030216-a19c-461b-befe-7dd4fea2120c
-- client-fingerprint: chrome
   name: 🇹🇼 碧海☁️ 台湾-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 27201
   server: aafrtpfxr.twl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -1852,7 +1834,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇭🇰 碧海☁️ 香港-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 27101
   server: aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -1860,7 +1842,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇭🇰 碧海☁️ 香港-02
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 27102
   server: aafrtpfxr.hkl02i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -1868,7 +1850,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇭🇰 碧海☁️ 香港-03
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 27103
   server: aafrtpfxr.hkl04i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -1876,7 +1858,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇭🇰 碧海☁️ 香港-04
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 10465
   server: aafrtpfxr.hkl03i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -1884,7 +1866,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇸🇬 碧海☁️ 新加坡-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 27401
   server: aafrtpfxr.sgl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -1892,7 +1874,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇸🇬 碧海☁️ 新加坡-02
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 42881
   server: aafrtpfxr.sgl02i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -1900,7 +1882,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇲🇾 碧海☁️ 马来西亚-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 43393
   server: aafrtpfxr.myl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -1908,7 +1890,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇲🇾 碧海☁️ 马来西亚-02
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 43383
   server: aafrtpfxr.myl02i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -1916,7 +1898,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇯🇵 碧海☁️ 日本-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 27001
   server: aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -1924,7 +1906,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇯🇵 碧海☁️ 日本-02
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 27002
   server: aafrtpfxr.jpl02i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -1932,7 +1914,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇯🇵 碧海☁️ 日本-03
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 22271
   server: aafrtpfxr.jpl03i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -1940,7 +1922,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇯🇵 碧海☁️ 日本-04
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 22269
   server: aafrtpfxr.jpl04i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -1948,7 +1930,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇰🇷 碧海☁️ 韩国-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 46668
   server: aafrtpfxr.krl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -1956,7 +1938,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇦🇺 碧海☁️ 澳大利亚-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 34017
   server: aafrtpfxr.aul01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -1964,7 +1946,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇮🇩 碧海☁️ 印尼-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 43394
   server: aafrtpfxr.idl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -1972,7 +1954,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇮🇳 碧海☁️ 印度-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 42882
   server: aafrtpfxr.inl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -1980,7 +1962,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇹🇭 碧海☁️ 泰国-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 43395
   server: aafrtpfxr.thl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -1988,7 +1970,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇻🇳 碧海☁️ 越南-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 43396
   server: aafrtpfxr.vnl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -1996,7 +1978,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇳🇱 碧海☁️ 荷兰-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 43591
   server: aafrtpfxr.nll01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2004,7 +1986,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇵🇭 碧海☁️ 菲律宾-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 27408
   server: aafrtpfxr.phl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2012,7 +1994,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇵🇰 碧海☁️ 巴基斯坦-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 42883
   server: aafrtpfxr.pkl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2020,7 +2002,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇷🇺 碧海☁️ 俄罗斯-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 46925
   server: aafrtpfxr.rul01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2028,7 +2010,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇹🇷 碧海☁️ 土耳其-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 43397
   server: aafrtpfxr.trl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2036,7 +2018,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇺🇸 碧海☁️ 美国-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 33505
   server: aafrtpfxr.usl02i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2044,7 +2026,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇺🇸 碧海☁️ 美国-02
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 33506
   server: aafrtpfxr.usl03i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2052,7 +2034,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇨🇦 碧海☁️ 加拿大-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 34016
   server: aafrtpfxr.cal01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2060,7 +2042,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇩🇪 碧海☁️ 德国-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 43583
   server: aafrtpfxr.del01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2068,7 +2050,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇫🇷 碧海☁️ 法国-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 43498
   server: aafrtpfxr.frl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2076,7 +2058,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇬🇧 碧海☁️ 英国-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 44397
   server: aafrtpfxr.gbl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2084,7 +2066,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇦🇪 碧海☁️ 迪拜-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 43497
   server: aafrtpfxr.ael01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2092,7 +2074,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇦🇷 碧海☁️ 阿根廷-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 43590
   server: aafrtpfxr.arl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
@@ -2100,7 +2082,7 @@ proxies:
   type: trojan
 - client-fingerprint: chrome
   name: 🇧🇷 碧海☁️ 巴西-01
-  password: 8ae4c45a-7722-42e5-9d9e-962e91d92f80
+  password: 849ee927-f560-415c-9ab2-f9dfe31b05db
   port: 43586
   server: aafrtpfxr.brl01i9zjfegelp.5xfsur8v62.gosdk.xyz
   skip-cert-verify: false
